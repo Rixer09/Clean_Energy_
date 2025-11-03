@@ -1,0 +1,1873 @@
+Country,Country code,State,State code,State type,Year,Category,Subcategory,Variable,Unit,Value,YoY absolute change,YoY % change
+India,IND,Bihar,BR,state,2019,Capacity,Aggregate fuel,Clean,MW,341.25,,
+India,IND,Bihar,BR,state,2019,Capacity,Aggregate fuel,Fossil,MW,6390.0,,
+India,IND,Bihar,BR,state,2019,Capacity,Aggregate fuel,Gas and Other Fossil,MW,0.0,,
+India,IND,Bihar,BR,state,2019,Capacity,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",MW,191.9,,
+India,IND,Bihar,BR,state,2019,Capacity,Aggregate fuel,Renewables,MW,341.25,,
+India,IND,Bihar,BR,state,2019,Capacity,Aggregate fuel,Wind and Solar,MW,149.35,,
+India,IND,Bihar,BR,state,2019,Capacity,Fuel,Bioenergy,MW,121.2,,
+India,IND,Bihar,BR,state,2019,Capacity,Fuel,Coal,MW,6390.0,,
+India,IND,Bihar,BR,state,2019,Capacity,Fuel,Gas,MW,0.0,,
+India,IND,Bihar,BR,state,2019,Capacity,Fuel,Hydro,MW,70.7,,
+India,IND,Bihar,BR,state,2019,Capacity,Fuel,Nuclear,MW,0.0,,
+India,IND,Bihar,BR,state,2019,Capacity,Fuel,Other Fossil,MW,0.0,,
+India,IND,Bihar,BR,state,2019,Capacity,Fuel,Other Renewables,MW,0.0,,
+India,IND,Bihar,BR,state,2019,Capacity,Fuel,Solar,MW,149.35,,
+India,IND,Bihar,BR,state,2019,Capacity,Fuel,Wind,MW,0.0,,
+India,IND,Bihar,BR,state,2019,Electricity generation,Aggregate fuel,Clean,%,1.3,,
+India,IND,Bihar,BR,state,2019,Electricity generation,Aggregate fuel,Fossil,%,98.7,,
+India,IND,Bihar,BR,state,2019,Electricity generation,Aggregate fuel,Gas and Other Fossil,%,0.0,,
+India,IND,Bihar,BR,state,2019,Electricity generation,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,0.81,,
+India,IND,Bihar,BR,state,2019,Electricity generation,Aggregate fuel,Renewables,%,1.3,,
+India,IND,Bihar,BR,state,2019,Electricity generation,Aggregate fuel,Wind and Solar,%,0.49,,
+India,IND,Bihar,BR,state,2019,Electricity generation,Aggregate fuel,Clean,GWh,459.62,,
+India,IND,Bihar,BR,state,2019,Electricity generation,Aggregate fuel,Fossil,GWh,34992.35,,
+India,IND,Bihar,BR,state,2019,Electricity generation,Aggregate fuel,Gas and Other Fossil,GWh,0.0,,
+India,IND,Bihar,BR,state,2019,Electricity generation,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",GWh,286.03,,
+India,IND,Bihar,BR,state,2019,Electricity generation,Aggregate fuel,Renewables,GWh,459.62,,
+India,IND,Bihar,BR,state,2019,Electricity generation,Aggregate fuel,Wind and Solar,GWh,173.59,,
+India,IND,Bihar,BR,state,2019,Electricity generation,Fuel,Bioenergy,%,0.76,,
+India,IND,Bihar,BR,state,2019,Electricity generation,Fuel,Coal,%,98.7,,
+India,IND,Bihar,BR,state,2019,Electricity generation,Fuel,Gas,%,0.0,,
+India,IND,Bihar,BR,state,2019,Electricity generation,Fuel,Hydro,%,0.05,,
+India,IND,Bihar,BR,state,2019,Electricity generation,Fuel,Nuclear,%,0.0,,
+India,IND,Bihar,BR,state,2019,Electricity generation,Fuel,Other Fossil,%,0.0,,
+India,IND,Bihar,BR,state,2019,Electricity generation,Fuel,Other Renewables,%,0.0,,
+India,IND,Bihar,BR,state,2019,Electricity generation,Fuel,Solar,%,0.49,,
+India,IND,Bihar,BR,state,2019,Electricity generation,Fuel,Wind,%,0.0,,
+India,IND,Bihar,BR,state,2019,Electricity generation,Fuel,Bioenergy,GWh,268.48,,
+India,IND,Bihar,BR,state,2019,Electricity generation,Fuel,Coal,GWh,34992.35,,
+India,IND,Bihar,BR,state,2019,Electricity generation,Fuel,Gas,GWh,0.0,,
+India,IND,Bihar,BR,state,2019,Electricity generation,Fuel,Hydro,GWh,17.55,,
+India,IND,Bihar,BR,state,2019,Electricity generation,Fuel,Nuclear,GWh,0.0,,
+India,IND,Bihar,BR,state,2019,Electricity generation,Fuel,Other Fossil,GWh,0.0,,
+India,IND,Bihar,BR,state,2019,Electricity generation,Fuel,Other Renewables,GWh,0.0,,
+India,IND,Bihar,BR,state,2019,Electricity generation,Fuel,Solar,GWh,173.59,,
+India,IND,Bihar,BR,state,2019,Electricity generation,Fuel,Wind,GWh,0.0,,
+India,IND,Bihar,BR,state,2019,Electricity generation,Total,Total Generation,GWh,35451.97,,
+India,IND,Bihar,BR,state,2019,Power sector emissions,Aggregate fuel,Clean,%,70.5,,
+India,IND,Bihar,BR,state,2019,Power sector emissions,Aggregate fuel,Fossil,%,28693.73,,
+India,IND,Bihar,BR,state,2019,Power sector emissions,Aggregate fuel,Gas and Other Fossil,%,0.0,,
+India,IND,Bihar,BR,state,2019,Power sector emissions,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,62.17,,
+India,IND,Bihar,BR,state,2019,Power sector emissions,Aggregate fuel,Renewables,%,70.5,,
+India,IND,Bihar,BR,state,2019,Power sector emissions,Aggregate fuel,Wind and Solar,%,8.33,,
+India,IND,Bihar,BR,state,2019,Power sector emissions,Aggregate fuel,Clean,ktCO2,70.5,,
+India,IND,Bihar,BR,state,2019,Power sector emissions,Aggregate fuel,Fossil,ktCO2,28693.73,,
+India,IND,Bihar,BR,state,2019,Power sector emissions,Aggregate fuel,Gas and Other Fossil,ktCO2,0.0,,
+India,IND,Bihar,BR,state,2019,Power sector emissions,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,62.17,,
+India,IND,Bihar,BR,state,2019,Power sector emissions,Aggregate fuel,Renewables,ktCO2,70.5,,
+India,IND,Bihar,BR,state,2019,Power sector emissions,Aggregate fuel,Wind and Solar,ktCO2,8.33,,
+India,IND,Bihar,BR,state,2019,Power sector emissions,CO2 intensity,CO2 intensity,gCO2/kWh,811.36,,
+India,IND,Bihar,BR,state,2019,Power sector emissions,Fuel,Bioenergy,%,61.75,,
+India,IND,Bihar,BR,state,2019,Power sector emissions,Fuel,Coal,%,28693.73,,
+India,IND,Bihar,BR,state,2019,Power sector emissions,Fuel,Gas,%,0.0,,
+India,IND,Bihar,BR,state,2019,Power sector emissions,Fuel,Hydro,%,0.42,,
+India,IND,Bihar,BR,state,2019,Power sector emissions,Fuel,Nuclear,%,0.0,,
+India,IND,Bihar,BR,state,2019,Power sector emissions,Fuel,Other Fossil,%,0.0,,
+India,IND,Bihar,BR,state,2019,Power sector emissions,Fuel,Other Renewables,%,0.0,,
+India,IND,Bihar,BR,state,2019,Power sector emissions,Fuel,Solar,%,8.33,,
+India,IND,Bihar,BR,state,2019,Power sector emissions,Fuel,Wind,%,0.0,,
+India,IND,Bihar,BR,state,2019,Power sector emissions,Fuel,Bioenergy,ktCO2,61.75,,
+India,IND,Bihar,BR,state,2019,Power sector emissions,Fuel,Coal,ktCO2,28693.73,,
+India,IND,Bihar,BR,state,2019,Power sector emissions,Fuel,Gas,ktCO2,0.0,,
+India,IND,Bihar,BR,state,2019,Power sector emissions,Fuel,Hydro,ktCO2,0.42,,
+India,IND,Bihar,BR,state,2019,Power sector emissions,Fuel,Nuclear,ktCO2,0.0,,
+India,IND,Bihar,BR,state,2019,Power sector emissions,Fuel,Other Fossil,ktCO2,0.0,,
+India,IND,Bihar,BR,state,2019,Power sector emissions,Fuel,Other Renewables,ktCO2,0.0,,
+India,IND,Bihar,BR,state,2019,Power sector emissions,Fuel,Solar,ktCO2,8.33,,
+India,IND,Bihar,BR,state,2019,Power sector emissions,Fuel,Wind,ktCO2,0.0,,
+India,IND,Bihar,BR,state,2019,Power sector emissions,Total,Total emissions,ktCO2,28764.23,,
+India,IND,Bihar,BR,state,2020,Capacity,Aggregate fuel,Clean,MW,352.81,11.56,3.39
+India,IND,Bihar,BR,state,2020,Capacity,Aggregate fuel,Fossil,MW,6390.0,0.0,0.0
+India,IND,Bihar,BR,state,2020,Capacity,Aggregate fuel,Gas and Other Fossil,MW,0.0,0.0,
+India,IND,Bihar,BR,state,2020,Capacity,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",MW,195.4,3.5,1.82
+India,IND,Bihar,BR,state,2020,Capacity,Aggregate fuel,Renewables,MW,352.81,11.56,3.39
+India,IND,Bihar,BR,state,2020,Capacity,Aggregate fuel,Wind and Solar,MW,157.41,8.06,5.4
+India,IND,Bihar,BR,state,2020,Capacity,Fuel,Bioenergy,MW,124.7,3.5,2.89
+India,IND,Bihar,BR,state,2020,Capacity,Fuel,Coal,MW,6390.0,0.0,0.0
+India,IND,Bihar,BR,state,2020,Capacity,Fuel,Gas,MW,0.0,0.0,
+India,IND,Bihar,BR,state,2020,Capacity,Fuel,Hydro,MW,70.7,0.0,0.0
+India,IND,Bihar,BR,state,2020,Capacity,Fuel,Nuclear,MW,0.0,0.0,
+India,IND,Bihar,BR,state,2020,Capacity,Fuel,Other Fossil,MW,0.0,0.0,
+India,IND,Bihar,BR,state,2020,Capacity,Fuel,Other Renewables,MW,0.0,0.0,
+India,IND,Bihar,BR,state,2020,Capacity,Fuel,Solar,MW,157.41,8.06,5.4
+India,IND,Bihar,BR,state,2020,Capacity,Fuel,Wind,MW,0.0,0.0,
+India,IND,Bihar,BR,state,2020,Electricity generation,Aggregate fuel,Clean,%,0.97,,
+India,IND,Bihar,BR,state,2020,Electricity generation,Aggregate fuel,Fossil,%,99.02,,
+India,IND,Bihar,BR,state,2020,Electricity generation,Aggregate fuel,Gas and Other Fossil,%,0.0,,
+India,IND,Bihar,BR,state,2020,Electricity generation,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,0.46,,
+India,IND,Bihar,BR,state,2020,Electricity generation,Aggregate fuel,Renewables,%,0.97,,
+India,IND,Bihar,BR,state,2020,Electricity generation,Aggregate fuel,Wind and Solar,%,0.51,,
+India,IND,Bihar,BR,state,2020,Electricity generation,Aggregate fuel,Clean,GWh,320.46,-139.16,-30.28
+India,IND,Bihar,BR,state,2020,Electricity generation,Aggregate fuel,Fossil,GWh,32460.22,-2532.13,-7.24
+India,IND,Bihar,BR,state,2020,Electricity generation,Aggregate fuel,Gas and Other Fossil,GWh,0.0,0.0,
+India,IND,Bihar,BR,state,2020,Electricity generation,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",GWh,153.75,-132.28,-46.25
+India,IND,Bihar,BR,state,2020,Electricity generation,Aggregate fuel,Renewables,GWh,320.46,-139.16,-30.28
+India,IND,Bihar,BR,state,2020,Electricity generation,Aggregate fuel,Wind and Solar,GWh,166.71,-6.88,-3.96
+India,IND,Bihar,BR,state,2020,Electricity generation,Fuel,Bioenergy,%,0.33,,
+India,IND,Bihar,BR,state,2020,Electricity generation,Fuel,Coal,%,99.02,,
+India,IND,Bihar,BR,state,2020,Electricity generation,Fuel,Gas,%,0.0,,
+India,IND,Bihar,BR,state,2020,Electricity generation,Fuel,Hydro,%,0.13,,
+India,IND,Bihar,BR,state,2020,Electricity generation,Fuel,Nuclear,%,0.0,,
+India,IND,Bihar,BR,state,2020,Electricity generation,Fuel,Other Fossil,%,0.0,,
+India,IND,Bihar,BR,state,2020,Electricity generation,Fuel,Other Renewables,%,0.0,,
+India,IND,Bihar,BR,state,2020,Electricity generation,Fuel,Solar,%,0.51,,
+India,IND,Bihar,BR,state,2020,Electricity generation,Fuel,Wind,%,0.0,,
+India,IND,Bihar,BR,state,2020,Electricity generation,Fuel,Bioenergy,GWh,109.74,-158.74,-59.13
+India,IND,Bihar,BR,state,2020,Electricity generation,Fuel,Coal,GWh,32460.22,-2532.13,-7.24
+India,IND,Bihar,BR,state,2020,Electricity generation,Fuel,Gas,GWh,0.0,0.0,
+India,IND,Bihar,BR,state,2020,Electricity generation,Fuel,Hydro,GWh,44.01,26.46,150.77
+India,IND,Bihar,BR,state,2020,Electricity generation,Fuel,Nuclear,GWh,0.0,0.0,
+India,IND,Bihar,BR,state,2020,Electricity generation,Fuel,Other Fossil,GWh,0.0,0.0,
+India,IND,Bihar,BR,state,2020,Electricity generation,Fuel,Other Renewables,GWh,0.0,0.0,
+India,IND,Bihar,BR,state,2020,Electricity generation,Fuel,Solar,GWh,166.71,-6.88,-3.96
+India,IND,Bihar,BR,state,2020,Electricity generation,Fuel,Wind,GWh,0.0,0.0,
+India,IND,Bihar,BR,state,2020,Electricity generation,Total,Total Generation,GWh,32780.68,-2671.29,-7.53
+India,IND,Bihar,BR,state,2020,Power sector emissions,Aggregate fuel,Clean,%,34.3,,
+India,IND,Bihar,BR,state,2020,Power sector emissions,Aggregate fuel,Fossil,%,26617.38,,
+India,IND,Bihar,BR,state,2020,Power sector emissions,Aggregate fuel,Gas and Other Fossil,%,0.0,,
+India,IND,Bihar,BR,state,2020,Power sector emissions,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,26.3,,
+India,IND,Bihar,BR,state,2020,Power sector emissions,Aggregate fuel,Renewables,%,34.3,,
+India,IND,Bihar,BR,state,2020,Power sector emissions,Aggregate fuel,Wind and Solar,%,8.0,,
+India,IND,Bihar,BR,state,2020,Power sector emissions,Aggregate fuel,Clean,ktCO2,34.3,-36.2,-51.35
+India,IND,Bihar,BR,state,2020,Power sector emissions,Aggregate fuel,Fossil,ktCO2,26617.38,-2076.35,-7.24
+India,IND,Bihar,BR,state,2020,Power sector emissions,Aggregate fuel,Gas and Other Fossil,ktCO2,0.0,0.0,
+India,IND,Bihar,BR,state,2020,Power sector emissions,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,26.3,-35.87,-57.7
+India,IND,Bihar,BR,state,2020,Power sector emissions,Aggregate fuel,Renewables,ktCO2,34.3,-36.2,-51.35
+India,IND,Bihar,BR,state,2020,Power sector emissions,Aggregate fuel,Wind and Solar,ktCO2,8.0,-0.33,-3.96
+India,IND,Bihar,BR,state,2020,Power sector emissions,CO2 intensity,CO2 intensity,gCO2/kWh,813.03,1.67,0.21
+India,IND,Bihar,BR,state,2020,Power sector emissions,Fuel,Bioenergy,%,25.24,,
+India,IND,Bihar,BR,state,2020,Power sector emissions,Fuel,Coal,%,26617.38,,
+India,IND,Bihar,BR,state,2020,Power sector emissions,Fuel,Gas,%,0.0,,
+India,IND,Bihar,BR,state,2020,Power sector emissions,Fuel,Hydro,%,1.06,,
+India,IND,Bihar,BR,state,2020,Power sector emissions,Fuel,Nuclear,%,0.0,,
+India,IND,Bihar,BR,state,2020,Power sector emissions,Fuel,Other Fossil,%,0.0,,
+India,IND,Bihar,BR,state,2020,Power sector emissions,Fuel,Other Renewables,%,0.0,,
+India,IND,Bihar,BR,state,2020,Power sector emissions,Fuel,Solar,%,8.0,,
+India,IND,Bihar,BR,state,2020,Power sector emissions,Fuel,Wind,%,0.0,,
+India,IND,Bihar,BR,state,2020,Power sector emissions,Fuel,Bioenergy,ktCO2,25.24,-36.51,-59.13
+India,IND,Bihar,BR,state,2020,Power sector emissions,Fuel,Coal,ktCO2,26617.38,-2076.35,-7.24
+India,IND,Bihar,BR,state,2020,Power sector emissions,Fuel,Gas,ktCO2,0.0,0.0,
+India,IND,Bihar,BR,state,2020,Power sector emissions,Fuel,Hydro,ktCO2,1.06,0.64,152.38
+India,IND,Bihar,BR,state,2020,Power sector emissions,Fuel,Nuclear,ktCO2,0.0,0.0,
+India,IND,Bihar,BR,state,2020,Power sector emissions,Fuel,Other Fossil,ktCO2,0.0,0.0,
+India,IND,Bihar,BR,state,2020,Power sector emissions,Fuel,Other Renewables,ktCO2,0.0,0.0,
+India,IND,Bihar,BR,state,2020,Power sector emissions,Fuel,Solar,ktCO2,8.0,-0.33,-3.96
+India,IND,Bihar,BR,state,2020,Power sector emissions,Fuel,Wind,ktCO2,0.0,0.0,
+India,IND,Bihar,BR,state,2020,Power sector emissions,Total,Total emissions,ktCO2,26651.68,-2112.55,-7.34
+India,IND,Bihar,BR,state,2021,Capacity,Aggregate fuel,Clean,MW,386.97,34.16,9.68
+India,IND,Bihar,BR,state,2021,Capacity,Aggregate fuel,Fossil,MW,7960.0,1570.0,24.57
+India,IND,Bihar,BR,state,2021,Capacity,Aggregate fuel,Gas and Other Fossil,MW,0.0,0.0,
+India,IND,Bihar,BR,state,2021,Capacity,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",MW,196.4,1.0,0.51
+India,IND,Bihar,BR,state,2021,Capacity,Aggregate fuel,Renewables,MW,386.97,34.16,9.68
+India,IND,Bihar,BR,state,2021,Capacity,Aggregate fuel,Wind and Solar,MW,190.57,33.16,21.07
+India,IND,Bihar,BR,state,2021,Capacity,Fuel,Bioenergy,MW,125.7,1.0,0.8
+India,IND,Bihar,BR,state,2021,Capacity,Fuel,Coal,MW,7960.0,1570.0,24.57
+India,IND,Bihar,BR,state,2021,Capacity,Fuel,Gas,MW,0.0,0.0,
+India,IND,Bihar,BR,state,2021,Capacity,Fuel,Hydro,MW,70.7,0.0,0.0
+India,IND,Bihar,BR,state,2021,Capacity,Fuel,Nuclear,MW,0.0,0.0,
+India,IND,Bihar,BR,state,2021,Capacity,Fuel,Other Fossil,MW,0.0,0.0,
+India,IND,Bihar,BR,state,2021,Capacity,Fuel,Other Renewables,MW,0.0,0.0,
+India,IND,Bihar,BR,state,2021,Capacity,Fuel,Solar,MW,190.57,33.16,21.07
+India,IND,Bihar,BR,state,2021,Capacity,Fuel,Wind,MW,0.0,0.0,
+India,IND,Bihar,BR,state,2021,Electricity generation,Aggregate fuel,Clean,%,0.46,,
+India,IND,Bihar,BR,state,2021,Electricity generation,Aggregate fuel,Fossil,%,99.54,,
+India,IND,Bihar,BR,state,2021,Electricity generation,Aggregate fuel,Gas and Other Fossil,%,0.0,,
+India,IND,Bihar,BR,state,2021,Electricity generation,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,0.09,,
+India,IND,Bihar,BR,state,2021,Electricity generation,Aggregate fuel,Renewables,%,0.46,,
+India,IND,Bihar,BR,state,2021,Electricity generation,Aggregate fuel,Wind and Solar,%,0.37,,
+India,IND,Bihar,BR,state,2021,Electricity generation,Aggregate fuel,Clean,GWh,189.01,-131.45,-41.02
+India,IND,Bihar,BR,state,2021,Electricity generation,Aggregate fuel,Fossil,GWh,41197.35,8737.13,26.92
+India,IND,Bihar,BR,state,2021,Electricity generation,Aggregate fuel,Gas and Other Fossil,GWh,0.0,0.0,
+India,IND,Bihar,BR,state,2021,Electricity generation,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",GWh,35.58,-118.17,-76.86
+India,IND,Bihar,BR,state,2021,Electricity generation,Aggregate fuel,Renewables,GWh,189.01,-131.45,-41.02
+India,IND,Bihar,BR,state,2021,Electricity generation,Aggregate fuel,Wind and Solar,GWh,153.43,-13.28,-7.97
+India,IND,Bihar,BR,state,2021,Electricity generation,Fuel,Bioenergy,%,0.08,,
+India,IND,Bihar,BR,state,2021,Electricity generation,Fuel,Coal,%,99.54,,
+India,IND,Bihar,BR,state,2021,Electricity generation,Fuel,Gas,%,0.0,,
+India,IND,Bihar,BR,state,2021,Electricity generation,Fuel,Hydro,%,0.01,,
+India,IND,Bihar,BR,state,2021,Electricity generation,Fuel,Nuclear,%,0.0,,
+India,IND,Bihar,BR,state,2021,Electricity generation,Fuel,Other Fossil,%,0.0,,
+India,IND,Bihar,BR,state,2021,Electricity generation,Fuel,Other Renewables,%,0.0,,
+India,IND,Bihar,BR,state,2021,Electricity generation,Fuel,Solar,%,0.37,,
+India,IND,Bihar,BR,state,2021,Electricity generation,Fuel,Wind,%,0.0,,
+India,IND,Bihar,BR,state,2021,Electricity generation,Fuel,Bioenergy,GWh,31.07,-78.67,-71.69
+India,IND,Bihar,BR,state,2021,Electricity generation,Fuel,Coal,GWh,41197.35,8737.13,26.92
+India,IND,Bihar,BR,state,2021,Electricity generation,Fuel,Gas,GWh,0.0,0.0,
+India,IND,Bihar,BR,state,2021,Electricity generation,Fuel,Hydro,GWh,4.51,-39.5,-89.75
+India,IND,Bihar,BR,state,2021,Electricity generation,Fuel,Nuclear,GWh,0.0,0.0,
+India,IND,Bihar,BR,state,2021,Electricity generation,Fuel,Other Fossil,GWh,0.0,0.0,
+India,IND,Bihar,BR,state,2021,Electricity generation,Fuel,Other Renewables,GWh,0.0,0.0,
+India,IND,Bihar,BR,state,2021,Electricity generation,Fuel,Solar,GWh,153.43,-13.28,-7.97
+India,IND,Bihar,BR,state,2021,Electricity generation,Fuel,Wind,GWh,0.0,0.0,
+India,IND,Bihar,BR,state,2021,Electricity generation,Total,Total Generation,GWh,41386.36,8605.68,26.25
+India,IND,Bihar,BR,state,2021,Power sector emissions,Aggregate fuel,Clean,%,14.62,,
+India,IND,Bihar,BR,state,2021,Power sector emissions,Aggregate fuel,Fossil,%,33781.83,,
+India,IND,Bihar,BR,state,2021,Power sector emissions,Aggregate fuel,Gas and Other Fossil,%,0.0,,
+India,IND,Bihar,BR,state,2021,Power sector emissions,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,7.26,,
+India,IND,Bihar,BR,state,2021,Power sector emissions,Aggregate fuel,Renewables,%,14.62,,
+India,IND,Bihar,BR,state,2021,Power sector emissions,Aggregate fuel,Wind and Solar,%,7.36,,
+India,IND,Bihar,BR,state,2021,Power sector emissions,Aggregate fuel,Clean,ktCO2,14.62,-19.68,-57.38
+India,IND,Bihar,BR,state,2021,Power sector emissions,Aggregate fuel,Fossil,ktCO2,33781.83,7164.45,26.92
+India,IND,Bihar,BR,state,2021,Power sector emissions,Aggregate fuel,Gas and Other Fossil,ktCO2,0.0,0.0,
+India,IND,Bihar,BR,state,2021,Power sector emissions,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,7.26,-19.04,-72.4
+India,IND,Bihar,BR,state,2021,Power sector emissions,Aggregate fuel,Renewables,ktCO2,14.62,-19.68,-57.38
+India,IND,Bihar,BR,state,2021,Power sector emissions,Aggregate fuel,Wind and Solar,ktCO2,7.36,-0.64,-8.0
+India,IND,Bihar,BR,state,2021,Power sector emissions,CO2 intensity,CO2 intensity,gCO2/kWh,816.61,3.58,0.44
+India,IND,Bihar,BR,state,2021,Power sector emissions,Fuel,Bioenergy,%,7.15,,
+India,IND,Bihar,BR,state,2021,Power sector emissions,Fuel,Coal,%,33781.83,,
+India,IND,Bihar,BR,state,2021,Power sector emissions,Fuel,Gas,%,0.0,,
+India,IND,Bihar,BR,state,2021,Power sector emissions,Fuel,Hydro,%,0.11,,
+India,IND,Bihar,BR,state,2021,Power sector emissions,Fuel,Nuclear,%,0.0,,
+India,IND,Bihar,BR,state,2021,Power sector emissions,Fuel,Other Fossil,%,0.0,,
+India,IND,Bihar,BR,state,2021,Power sector emissions,Fuel,Other Renewables,%,0.0,,
+India,IND,Bihar,BR,state,2021,Power sector emissions,Fuel,Solar,%,7.36,,
+India,IND,Bihar,BR,state,2021,Power sector emissions,Fuel,Wind,%,0.0,,
+India,IND,Bihar,BR,state,2021,Power sector emissions,Fuel,Bioenergy,ktCO2,7.15,-18.09,-71.67
+India,IND,Bihar,BR,state,2021,Power sector emissions,Fuel,Coal,ktCO2,33781.83,7164.45,26.92
+India,IND,Bihar,BR,state,2021,Power sector emissions,Fuel,Gas,ktCO2,0.0,0.0,
+India,IND,Bihar,BR,state,2021,Power sector emissions,Fuel,Hydro,ktCO2,0.11,-0.95,-89.62
+India,IND,Bihar,BR,state,2021,Power sector emissions,Fuel,Nuclear,ktCO2,0.0,0.0,
+India,IND,Bihar,BR,state,2021,Power sector emissions,Fuel,Other Fossil,ktCO2,0.0,0.0,
+India,IND,Bihar,BR,state,2021,Power sector emissions,Fuel,Other Renewables,ktCO2,0.0,0.0,
+India,IND,Bihar,BR,state,2021,Power sector emissions,Fuel,Solar,ktCO2,7.36,-0.64,-8.0
+India,IND,Bihar,BR,state,2021,Power sector emissions,Fuel,Wind,ktCO2,0.0,0.0,
+India,IND,Bihar,BR,state,2021,Power sector emissions,Total,Total emissions,ktCO2,33796.45,7144.77,26.81
+India,IND,Bihar,BR,state,2022,Capacity,Aggregate fuel,Clean,MW,389.61,2.64,0.68
+India,IND,Bihar,BR,state,2022,Capacity,Aggregate fuel,Fossil,MW,8400.0,440.0,5.53
+India,IND,Bihar,BR,state,2022,Capacity,Aggregate fuel,Gas and Other Fossil,MW,0.0,0.0,
+India,IND,Bihar,BR,state,2022,Capacity,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",MW,196.72,0.32,0.16
+India,IND,Bihar,BR,state,2022,Capacity,Aggregate fuel,Renewables,MW,389.61,2.64,0.68
+India,IND,Bihar,BR,state,2022,Capacity,Aggregate fuel,Wind and Solar,MW,192.89,2.32,1.22
+India,IND,Bihar,BR,state,2022,Capacity,Fuel,Bioenergy,MW,126.02,0.32,0.25
+India,IND,Bihar,BR,state,2022,Capacity,Fuel,Coal,MW,8400.0,440.0,5.53
+India,IND,Bihar,BR,state,2022,Capacity,Fuel,Gas,MW,0.0,0.0,
+India,IND,Bihar,BR,state,2022,Capacity,Fuel,Hydro,MW,70.7,0.0,0.0
+India,IND,Bihar,BR,state,2022,Capacity,Fuel,Nuclear,MW,0.0,0.0,
+India,IND,Bihar,BR,state,2022,Capacity,Fuel,Other Fossil,MW,0.0,0.0,
+India,IND,Bihar,BR,state,2022,Capacity,Fuel,Other Renewables,MW,,,
+India,IND,Bihar,BR,state,2022,Capacity,Fuel,Solar,MW,192.89,2.32,1.22
+India,IND,Bihar,BR,state,2022,Capacity,Fuel,Wind,MW,0.0,0.0,
+India,IND,Bihar,BR,state,2022,Electricity generation,Aggregate fuel,Clean,%,0.5,,
+India,IND,Bihar,BR,state,2022,Electricity generation,Aggregate fuel,Fossil,%,99.51,,
+India,IND,Bihar,BR,state,2022,Electricity generation,Aggregate fuel,Gas and Other Fossil,%,0.0,,
+India,IND,Bihar,BR,state,2022,Electricity generation,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,0.18,,
+India,IND,Bihar,BR,state,2022,Electricity generation,Aggregate fuel,Renewables,%,0.5,,
+India,IND,Bihar,BR,state,2022,Electricity generation,Aggregate fuel,Wind and Solar,%,0.32,,
+India,IND,Bihar,BR,state,2022,Electricity generation,Aggregate fuel,Clean,GWh,264.35,75.34,39.86
+India,IND,Bihar,BR,state,2022,Electricity generation,Aggregate fuel,Fossil,GWh,54060.14,12862.79,31.22
+India,IND,Bihar,BR,state,2022,Electricity generation,Aggregate fuel,Gas and Other Fossil,GWh,0.0,0.0,
+India,IND,Bihar,BR,state,2022,Electricity generation,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",GWh,93.13,57.55,161.75
+India,IND,Bihar,BR,state,2022,Electricity generation,Aggregate fuel,Renewables,GWh,264.35,75.34,39.86
+India,IND,Bihar,BR,state,2022,Electricity generation,Aggregate fuel,Wind and Solar,GWh,171.22,17.79,11.59
+India,IND,Bihar,BR,state,2022,Electricity generation,Fuel,Bioenergy,%,0.15,,
+India,IND,Bihar,BR,state,2022,Electricity generation,Fuel,Coal,%,99.51,,
+India,IND,Bihar,BR,state,2022,Electricity generation,Fuel,Gas,%,0.0,,
+India,IND,Bihar,BR,state,2022,Electricity generation,Fuel,Hydro,%,0.03,,
+India,IND,Bihar,BR,state,2022,Electricity generation,Fuel,Nuclear,%,0.0,,
+India,IND,Bihar,BR,state,2022,Electricity generation,Fuel,Other Fossil,%,0.0,,
+India,IND,Bihar,BR,state,2022,Electricity generation,Fuel,Other Renewables,%,0.0,,
+India,IND,Bihar,BR,state,2022,Electricity generation,Fuel,Solar,%,0.32,,
+India,IND,Bihar,BR,state,2022,Electricity generation,Fuel,Wind,%,0.0,,
+India,IND,Bihar,BR,state,2022,Electricity generation,Fuel,Bioenergy,GWh,78.97,47.9,154.17
+India,IND,Bihar,BR,state,2022,Electricity generation,Fuel,Coal,GWh,54060.14,12862.79,31.22
+India,IND,Bihar,BR,state,2022,Electricity generation,Fuel,Gas,GWh,0.0,0.0,
+India,IND,Bihar,BR,state,2022,Electricity generation,Fuel,Hydro,GWh,14.16,9.65,213.97
+India,IND,Bihar,BR,state,2022,Electricity generation,Fuel,Nuclear,GWh,0.0,0.0,
+India,IND,Bihar,BR,state,2022,Electricity generation,Fuel,Other Fossil,GWh,0.0,0.0,
+India,IND,Bihar,BR,state,2022,Electricity generation,Fuel,Other Renewables,GWh,0.0,0.0,
+India,IND,Bihar,BR,state,2022,Electricity generation,Fuel,Solar,GWh,171.22,17.79,11.59
+India,IND,Bihar,BR,state,2022,Electricity generation,Fuel,Wind,GWh,0.0,0.0,
+India,IND,Bihar,BR,state,2022,Electricity generation,Total,Total Generation,GWh,54324.49,12938.13,31.26
+India,IND,Bihar,BR,state,2022,Power sector emissions,Aggregate fuel,Clean,%,26.72,,
+India,IND,Bihar,BR,state,2022,Power sector emissions,Aggregate fuel,Fossil,%,44329.32,,
+India,IND,Bihar,BR,state,2022,Power sector emissions,Aggregate fuel,Gas and Other Fossil,%,0.0,,
+India,IND,Bihar,BR,state,2022,Power sector emissions,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,18.5,,
+India,IND,Bihar,BR,state,2022,Power sector emissions,Aggregate fuel,Renewables,%,26.72,,
+India,IND,Bihar,BR,state,2022,Power sector emissions,Aggregate fuel,Wind and Solar,%,8.22,,
+India,IND,Bihar,BR,state,2022,Power sector emissions,Aggregate fuel,Clean,ktCO2,26.72,12.1,82.76
+India,IND,Bihar,BR,state,2022,Power sector emissions,Aggregate fuel,Fossil,ktCO2,44329.32,10547.49,31.22
+India,IND,Bihar,BR,state,2022,Power sector emissions,Aggregate fuel,Gas and Other Fossil,ktCO2,0.0,0.0,
+India,IND,Bihar,BR,state,2022,Power sector emissions,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,18.5,11.24,154.82
+India,IND,Bihar,BR,state,2022,Power sector emissions,Aggregate fuel,Renewables,ktCO2,26.72,12.1,82.76
+India,IND,Bihar,BR,state,2022,Power sector emissions,Aggregate fuel,Wind and Solar,ktCO2,8.22,0.86,11.68
+India,IND,Bihar,BR,state,2022,Power sector emissions,CO2 intensity,CO2 intensity,gCO2/kWh,816.5,-0.11,-0.01
+India,IND,Bihar,BR,state,2022,Power sector emissions,Fuel,Bioenergy,%,18.16,,
+India,IND,Bihar,BR,state,2022,Power sector emissions,Fuel,Coal,%,44329.32,,
+India,IND,Bihar,BR,state,2022,Power sector emissions,Fuel,Gas,%,0.0,,
+India,IND,Bihar,BR,state,2022,Power sector emissions,Fuel,Hydro,%,0.34,,
+India,IND,Bihar,BR,state,2022,Power sector emissions,Fuel,Nuclear,%,0.0,,
+India,IND,Bihar,BR,state,2022,Power sector emissions,Fuel,Other Fossil,%,0.0,,
+India,IND,Bihar,BR,state,2022,Power sector emissions,Fuel,Other Renewables,%,0.0,,
+India,IND,Bihar,BR,state,2022,Power sector emissions,Fuel,Solar,%,8.22,,
+India,IND,Bihar,BR,state,2022,Power sector emissions,Fuel,Wind,%,0.0,,
+India,IND,Bihar,BR,state,2022,Power sector emissions,Fuel,Bioenergy,ktCO2,18.16,11.01,153.99
+India,IND,Bihar,BR,state,2022,Power sector emissions,Fuel,Coal,ktCO2,44329.32,10547.49,31.22
+India,IND,Bihar,BR,state,2022,Power sector emissions,Fuel,Gas,ktCO2,0.0,0.0,
+India,IND,Bihar,BR,state,2022,Power sector emissions,Fuel,Hydro,ktCO2,0.34,0.23,209.09
+India,IND,Bihar,BR,state,2022,Power sector emissions,Fuel,Nuclear,ktCO2,0.0,0.0,
+India,IND,Bihar,BR,state,2022,Power sector emissions,Fuel,Other Fossil,ktCO2,0.0,0.0,
+India,IND,Bihar,BR,state,2022,Power sector emissions,Fuel,Other Renewables,ktCO2,0.0,0.0,
+India,IND,Bihar,BR,state,2022,Power sector emissions,Fuel,Solar,ktCO2,8.22,0.86,11.68
+India,IND,Bihar,BR,state,2022,Power sector emissions,Fuel,Wind,ktCO2,0.0,0.0,
+India,IND,Bihar,BR,state,2022,Power sector emissions,Total,Total emissions,ktCO2,44356.04,10559.59,31.24
+India,IND,Bihar,BR,state,2023,Capacity,Aggregate fuel,Clean,MW,420.26,30.65,7.87
+India,IND,Bihar,BR,state,2023,Capacity,Aggregate fuel,Fossil,MW,9060.0,660.0,7.86
+India,IND,Bihar,BR,state,2023,Capacity,Aggregate fuel,Gas and Other Fossil,MW,0.0,0.0,
+India,IND,Bihar,BR,state,2023,Capacity,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",MW,196.72,0.0,0.0
+India,IND,Bihar,BR,state,2023,Capacity,Aggregate fuel,Renewables,MW,420.26,30.65,7.87
+India,IND,Bihar,BR,state,2023,Capacity,Aggregate fuel,Wind and Solar,MW,223.54,30.65,15.89
+India,IND,Bihar,BR,state,2023,Capacity,Fuel,Bioenergy,MW,126.02,0.0,0.0
+India,IND,Bihar,BR,state,2023,Capacity,Fuel,Coal,MW,9060.0,660.0,7.86
+India,IND,Bihar,BR,state,2023,Capacity,Fuel,Gas,MW,0.0,0.0,
+India,IND,Bihar,BR,state,2023,Capacity,Fuel,Hydro,MW,70.7,0.0,0.0
+India,IND,Bihar,BR,state,2023,Capacity,Fuel,Nuclear,MW,0.0,0.0,
+India,IND,Bihar,BR,state,2023,Capacity,Fuel,Other Fossil,MW,0.0,0.0,
+India,IND,Bihar,BR,state,2023,Capacity,Fuel,Other Renewables,MW,,,
+India,IND,Bihar,BR,state,2023,Capacity,Fuel,Solar,MW,223.54,30.65,15.89
+India,IND,Bihar,BR,state,2023,Capacity,Fuel,Wind,MW,0.0,0.0,
+India,IND,Bihar,BR,state,2023,Electricity generation,Aggregate fuel,Clean,%,0.58,,
+India,IND,Bihar,BR,state,2023,Electricity generation,Aggregate fuel,Fossil,%,99.42,,
+India,IND,Bihar,BR,state,2023,Electricity generation,Aggregate fuel,Gas and Other Fossil,%,0.0,,
+India,IND,Bihar,BR,state,2023,Electricity generation,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,0.26,,
+India,IND,Bihar,BR,state,2023,Electricity generation,Aggregate fuel,Renewables,%,0.58,,
+India,IND,Bihar,BR,state,2023,Electricity generation,Aggregate fuel,Wind and Solar,%,0.32,,
+India,IND,Bihar,BR,state,2023,Electricity generation,Aggregate fuel,Clean,GWh,335.27,70.92,26.83
+India,IND,Bihar,BR,state,2023,Electricity generation,Aggregate fuel,Fossil,GWh,57364.11,3303.97,6.11
+India,IND,Bihar,BR,state,2023,Electricity generation,Aggregate fuel,Gas and Other Fossil,GWh,0.0,0.0,
+India,IND,Bihar,BR,state,2023,Electricity generation,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",GWh,152.02,58.89,63.23
+India,IND,Bihar,BR,state,2023,Electricity generation,Aggregate fuel,Renewables,GWh,335.27,70.92,26.83
+India,IND,Bihar,BR,state,2023,Electricity generation,Aggregate fuel,Wind and Solar,GWh,183.25,12.03,7.03
+India,IND,Bihar,BR,state,2023,Electricity generation,Fuel,Bioenergy,%,0.25,,
+India,IND,Bihar,BR,state,2023,Electricity generation,Fuel,Coal,%,99.42,,
+India,IND,Bihar,BR,state,2023,Electricity generation,Fuel,Gas,%,0.0,,
+India,IND,Bihar,BR,state,2023,Electricity generation,Fuel,Hydro,%,0.01,,
+India,IND,Bihar,BR,state,2023,Electricity generation,Fuel,Nuclear,%,0.0,,
+India,IND,Bihar,BR,state,2023,Electricity generation,Fuel,Other Fossil,%,0.0,,
+India,IND,Bihar,BR,state,2023,Electricity generation,Fuel,Other Renewables,%,0.0,,
+India,IND,Bihar,BR,state,2023,Electricity generation,Fuel,Solar,%,0.32,,
+India,IND,Bihar,BR,state,2023,Electricity generation,Fuel,Wind,%,0.0,,
+India,IND,Bihar,BR,state,2023,Electricity generation,Fuel,Bioenergy,GWh,143.78,64.81,82.07
+India,IND,Bihar,BR,state,2023,Electricity generation,Fuel,Coal,GWh,57364.11,3303.97,6.11
+India,IND,Bihar,BR,state,2023,Electricity generation,Fuel,Gas,GWh,0.0,0.0,
+India,IND,Bihar,BR,state,2023,Electricity generation,Fuel,Hydro,GWh,8.24,-5.92,-41.81
+India,IND,Bihar,BR,state,2023,Electricity generation,Fuel,Nuclear,GWh,0.0,0.0,
+India,IND,Bihar,BR,state,2023,Electricity generation,Fuel,Other Fossil,GWh,0.0,0.0,
+India,IND,Bihar,BR,state,2023,Electricity generation,Fuel,Other Renewables,GWh,0.0,0.0,
+India,IND,Bihar,BR,state,2023,Electricity generation,Fuel,Solar,GWh,183.25,12.03,7.03
+India,IND,Bihar,BR,state,2023,Electricity generation,Fuel,Wind,GWh,0.0,0.0,
+India,IND,Bihar,BR,state,2023,Electricity generation,Total,Total Generation,GWh,57699.38,3374.89,6.21
+India,IND,Bihar,BR,state,2023,Power sector emissions,Aggregate fuel,Clean,%,42.07,,
+India,IND,Bihar,BR,state,2023,Power sector emissions,Aggregate fuel,Fossil,%,47038.57,,
+India,IND,Bihar,BR,state,2023,Power sector emissions,Aggregate fuel,Gas and Other Fossil,%,0.0,,
+India,IND,Bihar,BR,state,2023,Power sector emissions,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,33.27,,
+India,IND,Bihar,BR,state,2023,Power sector emissions,Aggregate fuel,Renewables,%,42.07,,
+India,IND,Bihar,BR,state,2023,Power sector emissions,Aggregate fuel,Wind and Solar,%,8.8,,
+India,IND,Bihar,BR,state,2023,Power sector emissions,Aggregate fuel,Clean,ktCO2,42.07,15.35,57.45
+India,IND,Bihar,BR,state,2023,Power sector emissions,Aggregate fuel,Fossil,ktCO2,47038.57,2709.25,6.11
+India,IND,Bihar,BR,state,2023,Power sector emissions,Aggregate fuel,Gas and Other Fossil,ktCO2,0.0,0.0,
+India,IND,Bihar,BR,state,2023,Power sector emissions,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,33.27,14.77,79.84
+India,IND,Bihar,BR,state,2023,Power sector emissions,Aggregate fuel,Renewables,ktCO2,42.07,15.35,57.45
+India,IND,Bihar,BR,state,2023,Power sector emissions,Aggregate fuel,Wind and Solar,ktCO2,8.8,0.58,7.06
+India,IND,Bihar,BR,state,2023,Power sector emissions,CO2 intensity,CO2 intensity,gCO2/kWh,815.96,-0.54,-0.07
+India,IND,Bihar,BR,state,2023,Power sector emissions,Fuel,Bioenergy,%,33.07,,
+India,IND,Bihar,BR,state,2023,Power sector emissions,Fuel,Coal,%,47038.57,,
+India,IND,Bihar,BR,state,2023,Power sector emissions,Fuel,Gas,%,0.0,,
+India,IND,Bihar,BR,state,2023,Power sector emissions,Fuel,Hydro,%,0.2,,
+India,IND,Bihar,BR,state,2023,Power sector emissions,Fuel,Nuclear,%,0.0,,
+India,IND,Bihar,BR,state,2023,Power sector emissions,Fuel,Other Fossil,%,0.0,,
+India,IND,Bihar,BR,state,2023,Power sector emissions,Fuel,Other Renewables,%,0.0,,
+India,IND,Bihar,BR,state,2023,Power sector emissions,Fuel,Solar,%,8.8,,
+India,IND,Bihar,BR,state,2023,Power sector emissions,Fuel,Wind,%,0.0,,
+India,IND,Bihar,BR,state,2023,Power sector emissions,Fuel,Bioenergy,ktCO2,33.07,14.91,82.1
+India,IND,Bihar,BR,state,2023,Power sector emissions,Fuel,Coal,ktCO2,47038.57,2709.25,6.11
+India,IND,Bihar,BR,state,2023,Power sector emissions,Fuel,Gas,ktCO2,0.0,0.0,
+India,IND,Bihar,BR,state,2023,Power sector emissions,Fuel,Hydro,ktCO2,0.2,-0.14,-41.18
+India,IND,Bihar,BR,state,2023,Power sector emissions,Fuel,Nuclear,ktCO2,0.0,0.0,
+India,IND,Bihar,BR,state,2023,Power sector emissions,Fuel,Other Fossil,ktCO2,0.0,0.0,
+India,IND,Bihar,BR,state,2023,Power sector emissions,Fuel,Other Renewables,ktCO2,0.0,0.0,
+India,IND,Bihar,BR,state,2023,Power sector emissions,Fuel,Solar,ktCO2,8.8,0.58,7.06
+India,IND,Bihar,BR,state,2023,Power sector emissions,Fuel,Wind,ktCO2,0.0,0.0,
+India,IND,Bihar,BR,state,2023,Power sector emissions,Total,Total emissions,ktCO2,47080.64,2724.6,6.14
+India,IND,Bihar,BR,state,2024,Capacity,Aggregate fuel,Clean,MW,527.96,107.7,25.63
+India,IND,Bihar,BR,state,2024,Capacity,Aggregate fuel,Fossil,MW,9060.0,0.0,0.0
+India,IND,Bihar,BR,state,2024,Capacity,Aggregate fuel,Gas and Other Fossil,MW,0.0,0.0,
+India,IND,Bihar,BR,state,2024,Capacity,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",MW,210.92,14.2,7.22
+India,IND,Bihar,BR,state,2024,Capacity,Aggregate fuel,Renewables,MW,527.96,107.7,25.63
+India,IND,Bihar,BR,state,2024,Capacity,Aggregate fuel,Wind and Solar,MW,317.04,93.5,41.83
+India,IND,Bihar,BR,state,2024,Capacity,Fuel,Bioenergy,MW,140.22,14.2,11.27
+India,IND,Bihar,BR,state,2024,Capacity,Fuel,Coal,MW,9060.0,0.0,0.0
+India,IND,Bihar,BR,state,2024,Capacity,Fuel,Gas,MW,0.0,0.0,
+India,IND,Bihar,BR,state,2024,Capacity,Fuel,Hydro,MW,70.7,0.0,0.0
+India,IND,Bihar,BR,state,2024,Capacity,Fuel,Nuclear,MW,0.0,0.0,
+India,IND,Bihar,BR,state,2024,Capacity,Fuel,Other Fossil,MW,0.0,0.0,
+India,IND,Bihar,BR,state,2024,Capacity,Fuel,Other Renewables,MW,,,
+India,IND,Bihar,BR,state,2024,Capacity,Fuel,Solar,MW,317.04,93.5,41.83
+India,IND,Bihar,BR,state,2024,Capacity,Fuel,Wind,MW,0.0,0.0,
+India,IND,Bihar,BR,state,2024,Electricity generation,Aggregate fuel,Clean,%,0.67,,
+India,IND,Bihar,BR,state,2024,Electricity generation,Aggregate fuel,Fossil,%,99.33,,
+India,IND,Bihar,BR,state,2024,Electricity generation,Aggregate fuel,Gas and Other Fossil,%,0.0,,
+India,IND,Bihar,BR,state,2024,Electricity generation,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,0.19,,
+India,IND,Bihar,BR,state,2024,Electricity generation,Aggregate fuel,Renewables,%,0.67,,
+India,IND,Bihar,BR,state,2024,Electricity generation,Aggregate fuel,Wind and Solar,%,0.48,,
+India,IND,Bihar,BR,state,2024,Electricity generation,Aggregate fuel,Clean,GWh,407.45,72.18,21.53
+India,IND,Bihar,BR,state,2024,Electricity generation,Aggregate fuel,Fossil,GWh,60576.29,3212.18,5.6
+India,IND,Bihar,BR,state,2024,Electricity generation,Aggregate fuel,Gas and Other Fossil,GWh,0.0,0.0,
+India,IND,Bihar,BR,state,2024,Electricity generation,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",GWh,114.28,-37.74,-24.83
+India,IND,Bihar,BR,state,2024,Electricity generation,Aggregate fuel,Renewables,GWh,407.45,72.18,21.53
+India,IND,Bihar,BR,state,2024,Electricity generation,Aggregate fuel,Wind and Solar,GWh,293.17,109.92,59.98
+India,IND,Bihar,BR,state,2024,Electricity generation,Fuel,Bioenergy,%,0.17,,
+India,IND,Bihar,BR,state,2024,Electricity generation,Fuel,Coal,%,99.33,,
+India,IND,Bihar,BR,state,2024,Electricity generation,Fuel,Gas,%,0.0,,
+India,IND,Bihar,BR,state,2024,Electricity generation,Fuel,Hydro,%,0.02,,
+India,IND,Bihar,BR,state,2024,Electricity generation,Fuel,Nuclear,%,0.0,,
+India,IND,Bihar,BR,state,2024,Electricity generation,Fuel,Other Fossil,%,0.0,,
+India,IND,Bihar,BR,state,2024,Electricity generation,Fuel,Other Renewables,%,0.0,,
+India,IND,Bihar,BR,state,2024,Electricity generation,Fuel,Solar,%,0.48,,
+India,IND,Bihar,BR,state,2024,Electricity generation,Fuel,Wind,%,0.0,,
+India,IND,Bihar,BR,state,2024,Electricity generation,Fuel,Bioenergy,GWh,101.95,-41.83,-29.09
+India,IND,Bihar,BR,state,2024,Electricity generation,Fuel,Coal,GWh,60576.29,3212.18,5.6
+India,IND,Bihar,BR,state,2024,Electricity generation,Fuel,Gas,GWh,0.0,0.0,
+India,IND,Bihar,BR,state,2024,Electricity generation,Fuel,Hydro,GWh,12.33,4.09,49.64
+India,IND,Bihar,BR,state,2024,Electricity generation,Fuel,Nuclear,GWh,0.0,0.0,
+India,IND,Bihar,BR,state,2024,Electricity generation,Fuel,Other Fossil,GWh,0.0,0.0,
+India,IND,Bihar,BR,state,2024,Electricity generation,Fuel,Other Renewables,GWh,0.0,0.0,
+India,IND,Bihar,BR,state,2024,Electricity generation,Fuel,Solar,GWh,293.17,109.92,59.98
+India,IND,Bihar,BR,state,2024,Electricity generation,Fuel,Wind,GWh,0.0,0.0,
+India,IND,Bihar,BR,state,2024,Electricity generation,Total,Total Generation,GWh,60983.74,3284.36,5.69
+India,IND,Bihar,BR,state,2024,Power sector emissions,Aggregate fuel,Clean,%,37.82,,
+India,IND,Bihar,BR,state,2024,Power sector emissions,Aggregate fuel,Fossil,%,49672.56,,
+India,IND,Bihar,BR,state,2024,Power sector emissions,Aggregate fuel,Gas and Other Fossil,%,0.0,,
+India,IND,Bihar,BR,state,2024,Power sector emissions,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,23.75,,
+India,IND,Bihar,BR,state,2024,Power sector emissions,Aggregate fuel,Renewables,%,37.82,,
+India,IND,Bihar,BR,state,2024,Power sector emissions,Aggregate fuel,Wind and Solar,%,14.07,,
+India,IND,Bihar,BR,state,2024,Power sector emissions,Aggregate fuel,Clean,ktCO2,37.82,-4.25,-10.1
+India,IND,Bihar,BR,state,2024,Power sector emissions,Aggregate fuel,Fossil,ktCO2,49672.56,2633.99,5.6
+India,IND,Bihar,BR,state,2024,Power sector emissions,Aggregate fuel,Gas and Other Fossil,ktCO2,0.0,0.0,
+India,IND,Bihar,BR,state,2024,Power sector emissions,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,23.75,-9.52,-28.61
+India,IND,Bihar,BR,state,2024,Power sector emissions,Aggregate fuel,Renewables,ktCO2,37.82,-4.25,-10.1
+India,IND,Bihar,BR,state,2024,Power sector emissions,Aggregate fuel,Wind and Solar,ktCO2,14.07,5.27,59.89
+India,IND,Bihar,BR,state,2024,Power sector emissions,CO2 intensity,CO2 intensity,gCO2/kWh,815.14,-0.82,-0.1
+India,IND,Bihar,BR,state,2024,Power sector emissions,Fuel,Bioenergy,%,23.45,,
+India,IND,Bihar,BR,state,2024,Power sector emissions,Fuel,Coal,%,49672.56,,
+India,IND,Bihar,BR,state,2024,Power sector emissions,Fuel,Gas,%,0.0,,
+India,IND,Bihar,BR,state,2024,Power sector emissions,Fuel,Hydro,%,0.3,,
+India,IND,Bihar,BR,state,2024,Power sector emissions,Fuel,Nuclear,%,0.0,,
+India,IND,Bihar,BR,state,2024,Power sector emissions,Fuel,Other Fossil,%,0.0,,
+India,IND,Bihar,BR,state,2024,Power sector emissions,Fuel,Other Renewables,%,0.0,,
+India,IND,Bihar,BR,state,2024,Power sector emissions,Fuel,Solar,%,14.07,,
+India,IND,Bihar,BR,state,2024,Power sector emissions,Fuel,Wind,%,0.0,,
+India,IND,Bihar,BR,state,2024,Power sector emissions,Fuel,Bioenergy,ktCO2,23.45,-9.62,-29.09
+India,IND,Bihar,BR,state,2024,Power sector emissions,Fuel,Coal,ktCO2,49672.56,2633.99,5.6
+India,IND,Bihar,BR,state,2024,Power sector emissions,Fuel,Gas,ktCO2,0.0,0.0,
+India,IND,Bihar,BR,state,2024,Power sector emissions,Fuel,Hydro,ktCO2,0.3,0.1,50.0
+India,IND,Bihar,BR,state,2024,Power sector emissions,Fuel,Nuclear,ktCO2,0.0,0.0,
+India,IND,Bihar,BR,state,2024,Power sector emissions,Fuel,Other Fossil,ktCO2,0.0,0.0,
+India,IND,Bihar,BR,state,2024,Power sector emissions,Fuel,Other Renewables,ktCO2,0.0,0.0,
+India,IND,Bihar,BR,state,2024,Power sector emissions,Fuel,Solar,ktCO2,14.07,5.27,59.89
+India,IND,Bihar,BR,state,2024,Power sector emissions,Fuel,Wind,ktCO2,0.0,0.0,
+India,IND,Bihar,BR,state,2024,Power sector emissions,Total,Total emissions,ktCO2,49710.38,2629.74,5.59
+India,IND,Haryana,HR,state,2019,Capacity,Aggregate fuel,Clean,MW,528.43,,
+India,IND,Haryana,HR,state,2019,Capacity,Aggregate fuel,Fossil,MW,5971.59,,
+India,IND,Haryana,HR,state,2019,Capacity,Aggregate fuel,Gas and Other Fossil,MW,431.59,,
+India,IND,Haryana,HR,state,2019,Capacity,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",MW,279.16,,
+India,IND,Haryana,HR,state,2019,Capacity,Aggregate fuel,Renewables,MW,528.43,,
+India,IND,Haryana,HR,state,2019,Capacity,Aggregate fuel,Wind and Solar,MW,249.27,,
+India,IND,Haryana,HR,state,2019,Capacity,Fuel,Bioenergy,MW,205.66,,
+India,IND,Haryana,HR,state,2019,Capacity,Fuel,Coal,MW,5540.0,,
+India,IND,Haryana,HR,state,2019,Capacity,Fuel,Gas,MW,431.59,,
+India,IND,Haryana,HR,state,2019,Capacity,Fuel,Hydro,MW,73.5,,
+India,IND,Haryana,HR,state,2019,Capacity,Fuel,Nuclear,MW,0.0,,
+India,IND,Haryana,HR,state,2019,Capacity,Fuel,Other Fossil,MW,0.0,,
+India,IND,Haryana,HR,state,2019,Capacity,Fuel,Other Renewables,MW,0.0,,
+India,IND,Haryana,HR,state,2019,Capacity,Fuel,Solar,MW,249.27,,
+India,IND,Haryana,HR,state,2019,Capacity,Fuel,Wind,MW,0.0,,
+India,IND,Haryana,HR,state,2019,Electricity generation,Aggregate fuel,Clean,%,3.55,,
+India,IND,Haryana,HR,state,2019,Electricity generation,Aggregate fuel,Fossil,%,96.46,,
+India,IND,Haryana,HR,state,2019,Electricity generation,Aggregate fuel,Gas and Other Fossil,%,3.23,,
+India,IND,Haryana,HR,state,2019,Electricity generation,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,2.98,,
+India,IND,Haryana,HR,state,2019,Electricity generation,Aggregate fuel,Renewables,%,3.55,,
+India,IND,Haryana,HR,state,2019,Electricity generation,Aggregate fuel,Wind and Solar,%,0.57,,
+India,IND,Haryana,HR,state,2019,Electricity generation,Aggregate fuel,Clean,GWh,712.95,,
+India,IND,Haryana,HR,state,2019,Electricity generation,Aggregate fuel,Fossil,GWh,19380.09,,
+India,IND,Haryana,HR,state,2019,Electricity generation,Aggregate fuel,Gas and Other Fossil,GWh,648.21,,
+India,IND,Haryana,HR,state,2019,Electricity generation,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",GWh,597.92,,
+India,IND,Haryana,HR,state,2019,Electricity generation,Aggregate fuel,Renewables,GWh,712.95,,
+India,IND,Haryana,HR,state,2019,Electricity generation,Aggregate fuel,Wind and Solar,GWh,115.03,,
+India,IND,Haryana,HR,state,2019,Electricity generation,Fuel,Bioenergy,%,1.4,,
+India,IND,Haryana,HR,state,2019,Electricity generation,Fuel,Coal,%,93.23,,
+India,IND,Haryana,HR,state,2019,Electricity generation,Fuel,Gas,%,3.23,,
+India,IND,Haryana,HR,state,2019,Electricity generation,Fuel,Hydro,%,1.58,,
+India,IND,Haryana,HR,state,2019,Electricity generation,Fuel,Nuclear,%,0.0,,
+India,IND,Haryana,HR,state,2019,Electricity generation,Fuel,Other Fossil,%,0.0,,
+India,IND,Haryana,HR,state,2019,Electricity generation,Fuel,Other Renewables,%,0.0,,
+India,IND,Haryana,HR,state,2019,Electricity generation,Fuel,Solar,%,0.57,,
+India,IND,Haryana,HR,state,2019,Electricity generation,Fuel,Wind,%,0.0,,
+India,IND,Haryana,HR,state,2019,Electricity generation,Fuel,Bioenergy,GWh,281.04,,
+India,IND,Haryana,HR,state,2019,Electricity generation,Fuel,Coal,GWh,18731.88,,
+India,IND,Haryana,HR,state,2019,Electricity generation,Fuel,Gas,GWh,648.21,,
+India,IND,Haryana,HR,state,2019,Electricity generation,Fuel,Hydro,GWh,316.88,,
+India,IND,Haryana,HR,state,2019,Electricity generation,Fuel,Nuclear,GWh,0.0,,
+India,IND,Haryana,HR,state,2019,Electricity generation,Fuel,Other Fossil,GWh,0.0,,
+India,IND,Haryana,HR,state,2019,Electricity generation,Fuel,Other Renewables,GWh,0.0,,
+India,IND,Haryana,HR,state,2019,Electricity generation,Fuel,Solar,GWh,115.03,,
+India,IND,Haryana,HR,state,2019,Electricity generation,Fuel,Wind,GWh,0.0,,
+India,IND,Haryana,HR,state,2019,Electricity generation,Total,Total Generation,GWh,20093.04,,
+India,IND,Haryana,HR,state,2019,Power sector emissions,Aggregate fuel,Clean,%,77.77,,
+India,IND,Haryana,HR,state,2019,Power sector emissions,Aggregate fuel,Fossil,%,15677.76,,
+India,IND,Haryana,HR,state,2019,Power sector emissions,Aggregate fuel,Gas and Other Fossil,%,317.62,,
+India,IND,Haryana,HR,state,2019,Power sector emissions,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,72.25,,
+India,IND,Haryana,HR,state,2019,Power sector emissions,Aggregate fuel,Renewables,%,77.77,,
+India,IND,Haryana,HR,state,2019,Power sector emissions,Aggregate fuel,Wind and Solar,%,5.52,,
+India,IND,Haryana,HR,state,2019,Power sector emissions,Aggregate fuel,Clean,ktCO2,77.77,,
+India,IND,Haryana,HR,state,2019,Power sector emissions,Aggregate fuel,Fossil,ktCO2,15677.76,,
+India,IND,Haryana,HR,state,2019,Power sector emissions,Aggregate fuel,Gas and Other Fossil,ktCO2,317.62,,
+India,IND,Haryana,HR,state,2019,Power sector emissions,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,72.25,,
+India,IND,Haryana,HR,state,2019,Power sector emissions,Aggregate fuel,Renewables,ktCO2,77.77,,
+India,IND,Haryana,HR,state,2019,Power sector emissions,Aggregate fuel,Wind and Solar,ktCO2,5.52,,
+India,IND,Haryana,HR,state,2019,Power sector emissions,CO2 intensity,CO2 intensity,gCO2/kWh,784.13,,
+India,IND,Haryana,HR,state,2019,Power sector emissions,Fuel,Bioenergy,%,64.64,,
+India,IND,Haryana,HR,state,2019,Power sector emissions,Fuel,Coal,%,15360.14,,
+India,IND,Haryana,HR,state,2019,Power sector emissions,Fuel,Gas,%,317.62,,
+India,IND,Haryana,HR,state,2019,Power sector emissions,Fuel,Hydro,%,7.61,,
+India,IND,Haryana,HR,state,2019,Power sector emissions,Fuel,Nuclear,%,0.0,,
+India,IND,Haryana,HR,state,2019,Power sector emissions,Fuel,Other Fossil,%,0.0,,
+India,IND,Haryana,HR,state,2019,Power sector emissions,Fuel,Other Renewables,%,0.0,,
+India,IND,Haryana,HR,state,2019,Power sector emissions,Fuel,Solar,%,5.52,,
+India,IND,Haryana,HR,state,2019,Power sector emissions,Fuel,Wind,%,0.0,,
+India,IND,Haryana,HR,state,2019,Power sector emissions,Fuel,Bioenergy,ktCO2,64.64,,
+India,IND,Haryana,HR,state,2019,Power sector emissions,Fuel,Coal,ktCO2,15360.14,,
+India,IND,Haryana,HR,state,2019,Power sector emissions,Fuel,Gas,ktCO2,317.62,,
+India,IND,Haryana,HR,state,2019,Power sector emissions,Fuel,Hydro,ktCO2,7.61,,
+India,IND,Haryana,HR,state,2019,Power sector emissions,Fuel,Nuclear,ktCO2,0.0,,
+India,IND,Haryana,HR,state,2019,Power sector emissions,Fuel,Other Fossil,ktCO2,0.0,,
+India,IND,Haryana,HR,state,2019,Power sector emissions,Fuel,Other Renewables,ktCO2,0.0,,
+India,IND,Haryana,HR,state,2019,Power sector emissions,Fuel,Solar,ktCO2,5.52,,
+India,IND,Haryana,HR,state,2019,Power sector emissions,Fuel,Wind,ktCO2,0.0,,
+India,IND,Haryana,HR,state,2019,Power sector emissions,Total,Total emissions,ktCO2,15755.53,,
+India,IND,Haryana,HR,state,2020,Capacity,Aggregate fuel,Clean,MW,547.78,19.35,3.66
+India,IND,Haryana,HR,state,2020,Capacity,Aggregate fuel,Fossil,MW,5761.59,-210.0,-3.52
+India,IND,Haryana,HR,state,2020,Capacity,Aggregate fuel,Gas and Other Fossil,MW,431.59,0.0,0.0
+India,IND,Haryana,HR,state,2020,Capacity,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",MW,285.36,6.2,2.22
+India,IND,Haryana,HR,state,2020,Capacity,Aggregate fuel,Renewables,MW,547.78,19.35,3.66
+India,IND,Haryana,HR,state,2020,Capacity,Aggregate fuel,Wind and Solar,MW,262.42,13.15,5.28
+India,IND,Haryana,HR,state,2020,Capacity,Fuel,Bioenergy,MW,211.86,6.2,3.01
+India,IND,Haryana,HR,state,2020,Capacity,Fuel,Coal,MW,5330.0,-210.0,-3.79
+India,IND,Haryana,HR,state,2020,Capacity,Fuel,Gas,MW,431.59,0.0,0.0
+India,IND,Haryana,HR,state,2020,Capacity,Fuel,Hydro,MW,73.5,0.0,0.0
+India,IND,Haryana,HR,state,2020,Capacity,Fuel,Nuclear,MW,0.0,0.0,
+India,IND,Haryana,HR,state,2020,Capacity,Fuel,Other Fossil,MW,0.0,0.0,
+India,IND,Haryana,HR,state,2020,Capacity,Fuel,Other Renewables,MW,0.0,0.0,
+India,IND,Haryana,HR,state,2020,Capacity,Fuel,Solar,MW,262.42,13.15,5.28
+India,IND,Haryana,HR,state,2020,Capacity,Fuel,Wind,MW,0.0,0.0,
+India,IND,Haryana,HR,state,2020,Electricity generation,Aggregate fuel,Clean,%,5.43,,
+India,IND,Haryana,HR,state,2020,Electricity generation,Aggregate fuel,Fossil,%,94.58,,
+India,IND,Haryana,HR,state,2020,Electricity generation,Aggregate fuel,Gas and Other Fossil,%,6.36,,
+India,IND,Haryana,HR,state,2020,Electricity generation,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,4.73,,
+India,IND,Haryana,HR,state,2020,Electricity generation,Aggregate fuel,Renewables,%,5.43,,
+India,IND,Haryana,HR,state,2020,Electricity generation,Aggregate fuel,Wind and Solar,%,0.7,,
+India,IND,Haryana,HR,state,2020,Electricity generation,Aggregate fuel,Clean,GWh,723.76,10.81,1.52
+India,IND,Haryana,HR,state,2020,Electricity generation,Aggregate fuel,Fossil,GWh,12623.67,-6756.42,-34.86
+India,IND,Haryana,HR,state,2020,Electricity generation,Aggregate fuel,Gas and Other Fossil,GWh,848.55,200.34,30.91
+India,IND,Haryana,HR,state,2020,Electricity generation,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",GWh,630.25,32.33,5.41
+India,IND,Haryana,HR,state,2020,Electricity generation,Aggregate fuel,Renewables,GWh,723.76,10.81,1.52
+India,IND,Haryana,HR,state,2020,Electricity generation,Aggregate fuel,Wind and Solar,GWh,93.51,-21.52,-18.71
+India,IND,Haryana,HR,state,2020,Electricity generation,Fuel,Bioenergy,%,2.25,,
+India,IND,Haryana,HR,state,2020,Electricity generation,Fuel,Coal,%,88.22,,
+India,IND,Haryana,HR,state,2020,Electricity generation,Fuel,Gas,%,6.36,,
+India,IND,Haryana,HR,state,2020,Electricity generation,Fuel,Hydro,%,2.48,,
+India,IND,Haryana,HR,state,2020,Electricity generation,Fuel,Nuclear,%,0.0,,
+India,IND,Haryana,HR,state,2020,Electricity generation,Fuel,Other Fossil,%,0.0,,
+India,IND,Haryana,HR,state,2020,Electricity generation,Fuel,Other Renewables,%,0.0,,
+India,IND,Haryana,HR,state,2020,Electricity generation,Fuel,Solar,%,0.7,,
+India,IND,Haryana,HR,state,2020,Electricity generation,Fuel,Wind,%,0.0,,
+India,IND,Haryana,HR,state,2020,Electricity generation,Fuel,Bioenergy,GWh,299.71,18.67,6.64
+India,IND,Haryana,HR,state,2020,Electricity generation,Fuel,Coal,GWh,11775.12,-6956.76,-37.14
+India,IND,Haryana,HR,state,2020,Electricity generation,Fuel,Gas,GWh,848.55,200.34,30.91
+India,IND,Haryana,HR,state,2020,Electricity generation,Fuel,Hydro,GWh,330.54,13.66,4.31
+India,IND,Haryana,HR,state,2020,Electricity generation,Fuel,Nuclear,GWh,0.0,0.0,
+India,IND,Haryana,HR,state,2020,Electricity generation,Fuel,Other Fossil,GWh,0.0,0.0,
+India,IND,Haryana,HR,state,2020,Electricity generation,Fuel,Other Renewables,GWh,0.0,0.0,
+India,IND,Haryana,HR,state,2020,Electricity generation,Fuel,Solar,GWh,93.51,-21.52,-18.71
+India,IND,Haryana,HR,state,2020,Electricity generation,Fuel,Wind,GWh,0.0,0.0,
+India,IND,Haryana,HR,state,2020,Electricity generation,Total,Total Generation,GWh,13347.43,-6745.61,-33.57
+India,IND,Haryana,HR,state,2020,Power sector emissions,Aggregate fuel,Clean,%,81.35,,
+India,IND,Haryana,HR,state,2020,Power sector emissions,Aggregate fuel,Fossil,%,10071.39,,
+India,IND,Haryana,HR,state,2020,Power sector emissions,Aggregate fuel,Gas and Other Fossil,%,415.79,,
+India,IND,Haryana,HR,state,2020,Power sector emissions,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,76.86,,
+India,IND,Haryana,HR,state,2020,Power sector emissions,Aggregate fuel,Renewables,%,81.35,,
+India,IND,Haryana,HR,state,2020,Power sector emissions,Aggregate fuel,Wind and Solar,%,4.49,,
+India,IND,Haryana,HR,state,2020,Power sector emissions,Aggregate fuel,Clean,ktCO2,81.35,3.58,4.6
+India,IND,Haryana,HR,state,2020,Power sector emissions,Aggregate fuel,Fossil,ktCO2,10071.39,-5606.37,-35.76
+India,IND,Haryana,HR,state,2020,Power sector emissions,Aggregate fuel,Gas and Other Fossil,ktCO2,415.79,98.17,30.91
+India,IND,Haryana,HR,state,2020,Power sector emissions,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,76.86,4.61,6.38
+India,IND,Haryana,HR,state,2020,Power sector emissions,Aggregate fuel,Renewables,ktCO2,81.35,3.58,4.6
+India,IND,Haryana,HR,state,2020,Power sector emissions,Aggregate fuel,Wind and Solar,ktCO2,4.49,-1.03,-18.66
+India,IND,Haryana,HR,state,2020,Power sector emissions,CO2 intensity,CO2 intensity,gCO2/kWh,760.65,-23.48,-2.99
+India,IND,Haryana,HR,state,2020,Power sector emissions,Fuel,Bioenergy,%,68.93,,
+India,IND,Haryana,HR,state,2020,Power sector emissions,Fuel,Coal,%,9655.6,,
+India,IND,Haryana,HR,state,2020,Power sector emissions,Fuel,Gas,%,415.79,,
+India,IND,Haryana,HR,state,2020,Power sector emissions,Fuel,Hydro,%,7.93,,
+India,IND,Haryana,HR,state,2020,Power sector emissions,Fuel,Nuclear,%,0.0,,
+India,IND,Haryana,HR,state,2020,Power sector emissions,Fuel,Other Fossil,%,0.0,,
+India,IND,Haryana,HR,state,2020,Power sector emissions,Fuel,Other Renewables,%,0.0,,
+India,IND,Haryana,HR,state,2020,Power sector emissions,Fuel,Solar,%,4.49,,
+India,IND,Haryana,HR,state,2020,Power sector emissions,Fuel,Wind,%,0.0,,
+India,IND,Haryana,HR,state,2020,Power sector emissions,Fuel,Bioenergy,ktCO2,68.93,4.29,6.64
+India,IND,Haryana,HR,state,2020,Power sector emissions,Fuel,Coal,ktCO2,9655.6,-5704.54,-37.14
+India,IND,Haryana,HR,state,2020,Power sector emissions,Fuel,Gas,ktCO2,415.79,98.17,30.91
+India,IND,Haryana,HR,state,2020,Power sector emissions,Fuel,Hydro,ktCO2,7.93,0.32,4.2
+India,IND,Haryana,HR,state,2020,Power sector emissions,Fuel,Nuclear,ktCO2,0.0,0.0,
+India,IND,Haryana,HR,state,2020,Power sector emissions,Fuel,Other Fossil,ktCO2,0.0,0.0,
+India,IND,Haryana,HR,state,2020,Power sector emissions,Fuel,Other Renewables,ktCO2,0.0,0.0,
+India,IND,Haryana,HR,state,2020,Power sector emissions,Fuel,Solar,ktCO2,4.49,-1.03,-18.66
+India,IND,Haryana,HR,state,2020,Power sector emissions,Fuel,Wind,ktCO2,0.0,0.0,
+India,IND,Haryana,HR,state,2020,Power sector emissions,Total,Total emissions,ktCO2,10152.74,-5602.79,-35.56
+India,IND,Haryana,HR,state,2021,Capacity,Aggregate fuel,Clean,MW,1086.88,539.1,98.42
+India,IND,Haryana,HR,state,2021,Capacity,Aggregate fuel,Fossil,MW,5761.59,0.0,0.0
+India,IND,Haryana,HR,state,2021,Capacity,Aggregate fuel,Gas and Other Fossil,MW,431.59,0.0,0.0
+India,IND,Haryana,HR,state,2021,Capacity,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",MW,299.5,14.14,4.96
+India,IND,Haryana,HR,state,2021,Capacity,Aggregate fuel,Renewables,MW,1086.88,539.1,98.42
+India,IND,Haryana,HR,state,2021,Capacity,Aggregate fuel,Wind and Solar,MW,787.38,524.96,200.05
+India,IND,Haryana,HR,state,2021,Capacity,Fuel,Bioenergy,MW,226.0,14.14,6.67
+India,IND,Haryana,HR,state,2021,Capacity,Fuel,Coal,MW,5330.0,0.0,0.0
+India,IND,Haryana,HR,state,2021,Capacity,Fuel,Gas,MW,431.59,0.0,0.0
+India,IND,Haryana,HR,state,2021,Capacity,Fuel,Hydro,MW,73.5,0.0,0.0
+India,IND,Haryana,HR,state,2021,Capacity,Fuel,Nuclear,MW,0.0,0.0,
+India,IND,Haryana,HR,state,2021,Capacity,Fuel,Other Fossil,MW,0.0,0.0,
+India,IND,Haryana,HR,state,2021,Capacity,Fuel,Other Renewables,MW,0.0,0.0,
+India,IND,Haryana,HR,state,2021,Capacity,Fuel,Solar,MW,787.38,524.96,200.05
+India,IND,Haryana,HR,state,2021,Capacity,Fuel,Wind,MW,0.0,0.0,
+India,IND,Haryana,HR,state,2021,Electricity generation,Aggregate fuel,Clean,%,4.28,,
+India,IND,Haryana,HR,state,2021,Electricity generation,Aggregate fuel,Fossil,%,95.71,,
+India,IND,Haryana,HR,state,2021,Electricity generation,Aggregate fuel,Gas and Other Fossil,%,1.52,,
+India,IND,Haryana,HR,state,2021,Electricity generation,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,2.18,,
+India,IND,Haryana,HR,state,2021,Electricity generation,Aggregate fuel,Renewables,%,4.28,,
+India,IND,Haryana,HR,state,2021,Electricity generation,Aggregate fuel,Wind and Solar,%,2.1,,
+India,IND,Haryana,HR,state,2021,Electricity generation,Aggregate fuel,Clean,GWh,998.42,274.66,37.95
+India,IND,Haryana,HR,state,2021,Electricity generation,Aggregate fuel,Fossil,GWh,22300.05,9676.38,76.65
+India,IND,Haryana,HR,state,2021,Electricity generation,Aggregate fuel,Gas and Other Fossil,GWh,355.25,-493.3,-58.13
+India,IND,Haryana,HR,state,2021,Electricity generation,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",GWh,508.41,-121.84,-19.33
+India,IND,Haryana,HR,state,2021,Electricity generation,Aggregate fuel,Renewables,GWh,998.42,274.66,37.95
+India,IND,Haryana,HR,state,2021,Electricity generation,Aggregate fuel,Wind and Solar,GWh,490.01,396.5,424.02
+India,IND,Haryana,HR,state,2021,Electricity generation,Fuel,Bioenergy,%,1.14,,
+India,IND,Haryana,HR,state,2021,Electricity generation,Fuel,Coal,%,94.19,,
+India,IND,Haryana,HR,state,2021,Electricity generation,Fuel,Gas,%,1.52,,
+India,IND,Haryana,HR,state,2021,Electricity generation,Fuel,Hydro,%,0.98,,
+India,IND,Haryana,HR,state,2021,Electricity generation,Fuel,Nuclear,%,0.0,,
+India,IND,Haryana,HR,state,2021,Electricity generation,Fuel,Other Fossil,%,0.0,,
+India,IND,Haryana,HR,state,2021,Electricity generation,Fuel,Other Renewables,%,0.06,,
+India,IND,Haryana,HR,state,2021,Electricity generation,Fuel,Solar,%,2.1,,
+India,IND,Haryana,HR,state,2021,Electricity generation,Fuel,Wind,%,0.0,,
+India,IND,Haryana,HR,state,2021,Electricity generation,Fuel,Bioenergy,GWh,265.89,-33.82,-11.28
+India,IND,Haryana,HR,state,2021,Electricity generation,Fuel,Coal,GWh,21944.8,10169.68,86.37
+India,IND,Haryana,HR,state,2021,Electricity generation,Fuel,Gas,GWh,355.25,-493.3,-58.13
+India,IND,Haryana,HR,state,2021,Electricity generation,Fuel,Hydro,GWh,229.27,-101.27,-30.64
+India,IND,Haryana,HR,state,2021,Electricity generation,Fuel,Nuclear,GWh,0.0,0.0,
+India,IND,Haryana,HR,state,2021,Electricity generation,Fuel,Other Fossil,GWh,0.0,0.0,
+India,IND,Haryana,HR,state,2021,Electricity generation,Fuel,Other Renewables,GWh,13.25,13.25,
+India,IND,Haryana,HR,state,2021,Electricity generation,Fuel,Solar,GWh,490.01,396.5,424.02
+India,IND,Haryana,HR,state,2021,Electricity generation,Fuel,Wind,GWh,0.0,0.0,
+India,IND,Haryana,HR,state,2021,Electricity generation,Total,Total Generation,GWh,23298.47,9951.04,74.55
+India,IND,Haryana,HR,state,2021,Power sector emissions,Aggregate fuel,Clean,%,90.67,,
+India,IND,Haryana,HR,state,2021,Power sector emissions,Aggregate fuel,Fossil,%,18168.81,,
+India,IND,Haryana,HR,state,2021,Power sector emissions,Aggregate fuel,Gas and Other Fossil,%,174.07,,
+India,IND,Haryana,HR,state,2021,Power sector emissions,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,67.15,,
+India,IND,Haryana,HR,state,2021,Power sector emissions,Aggregate fuel,Renewables,%,90.67,,
+India,IND,Haryana,HR,state,2021,Power sector emissions,Aggregate fuel,Wind and Solar,%,23.52,,
+India,IND,Haryana,HR,state,2021,Power sector emissions,Aggregate fuel,Clean,ktCO2,90.67,9.32,11.46
+India,IND,Haryana,HR,state,2021,Power sector emissions,Aggregate fuel,Fossil,ktCO2,18168.81,8097.42,80.4
+India,IND,Haryana,HR,state,2021,Power sector emissions,Aggregate fuel,Gas and Other Fossil,ktCO2,174.07,-241.72,-58.14
+India,IND,Haryana,HR,state,2021,Power sector emissions,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,67.15,-9.71,-12.63
+India,IND,Haryana,HR,state,2021,Power sector emissions,Aggregate fuel,Renewables,ktCO2,90.67,9.32,11.46
+India,IND,Haryana,HR,state,2021,Power sector emissions,Aggregate fuel,Wind and Solar,ktCO2,23.52,19.03,423.83
+India,IND,Haryana,HR,state,2021,Power sector emissions,CO2 intensity,CO2 intensity,gCO2/kWh,783.72,23.07,3.03
+India,IND,Haryana,HR,state,2021,Power sector emissions,Fuel,Bioenergy,%,61.15,,
+India,IND,Haryana,HR,state,2021,Power sector emissions,Fuel,Coal,%,17994.74,,
+India,IND,Haryana,HR,state,2021,Power sector emissions,Fuel,Gas,%,174.07,,
+India,IND,Haryana,HR,state,2021,Power sector emissions,Fuel,Hydro,%,5.5,,
+India,IND,Haryana,HR,state,2021,Power sector emissions,Fuel,Nuclear,%,0.0,,
+India,IND,Haryana,HR,state,2021,Power sector emissions,Fuel,Other Fossil,%,0.0,,
+India,IND,Haryana,HR,state,2021,Power sector emissions,Fuel,Other Renewables,%,0.5,,
+India,IND,Haryana,HR,state,2021,Power sector emissions,Fuel,Solar,%,23.52,,
+India,IND,Haryana,HR,state,2021,Power sector emissions,Fuel,Wind,%,0.0,,
+India,IND,Haryana,HR,state,2021,Power sector emissions,Fuel,Bioenergy,ktCO2,61.15,-7.78,-11.29
+India,IND,Haryana,HR,state,2021,Power sector emissions,Fuel,Coal,ktCO2,17994.74,8339.14,86.37
+India,IND,Haryana,HR,state,2021,Power sector emissions,Fuel,Gas,ktCO2,174.07,-241.72,-58.14
+India,IND,Haryana,HR,state,2021,Power sector emissions,Fuel,Hydro,ktCO2,5.5,-2.43,-30.64
+India,IND,Haryana,HR,state,2021,Power sector emissions,Fuel,Nuclear,ktCO2,0.0,0.0,
+India,IND,Haryana,HR,state,2021,Power sector emissions,Fuel,Other Fossil,ktCO2,0.0,0.0,
+India,IND,Haryana,HR,state,2021,Power sector emissions,Fuel,Other Renewables,ktCO2,0.5,0.5,
+India,IND,Haryana,HR,state,2021,Power sector emissions,Fuel,Solar,ktCO2,23.52,19.03,423.83
+India,IND,Haryana,HR,state,2021,Power sector emissions,Fuel,Wind,ktCO2,0.0,0.0,
+India,IND,Haryana,HR,state,2021,Power sector emissions,Total,Total emissions,ktCO2,18259.48,8106.74,79.85
+India,IND,Haryana,HR,state,2022,Capacity,Aggregate fuel,Clean,MW,1323.05,236.17,21.73
+India,IND,Haryana,HR,state,2022,Capacity,Aggregate fuel,Fossil,MW,5761.59,0.0,0.0
+India,IND,Haryana,HR,state,2022,Capacity,Aggregate fuel,Gas and Other Fossil,MW,431.59,0.0,0.0
+India,IND,Haryana,HR,state,2022,Capacity,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",MW,332.38,32.88,10.98
+India,IND,Haryana,HR,state,2022,Capacity,Aggregate fuel,Renewables,MW,1323.05,236.17,21.73
+India,IND,Haryana,HR,state,2022,Capacity,Aggregate fuel,Wind and Solar,MW,990.67,203.29,25.82
+India,IND,Haryana,HR,state,2022,Capacity,Fuel,Bioenergy,MW,258.88,32.88,14.55
+India,IND,Haryana,HR,state,2022,Capacity,Fuel,Coal,MW,5330.0,0.0,0.0
+India,IND,Haryana,HR,state,2022,Capacity,Fuel,Gas,MW,431.59,0.0,0.0
+India,IND,Haryana,HR,state,2022,Capacity,Fuel,Hydro,MW,73.5,0.0,0.0
+India,IND,Haryana,HR,state,2022,Capacity,Fuel,Nuclear,MW,0.0,0.0,
+India,IND,Haryana,HR,state,2022,Capacity,Fuel,Other Fossil,MW,0.0,0.0,
+India,IND,Haryana,HR,state,2022,Capacity,Fuel,Other Renewables,MW,,,
+India,IND,Haryana,HR,state,2022,Capacity,Fuel,Solar,MW,990.67,203.29,25.82
+India,IND,Haryana,HR,state,2022,Capacity,Fuel,Wind,MW,0.0,0.0,
+India,IND,Haryana,HR,state,2022,Electricity generation,Aggregate fuel,Clean,%,4.49,,
+India,IND,Haryana,HR,state,2022,Electricity generation,Aggregate fuel,Fossil,%,95.5,,
+India,IND,Haryana,HR,state,2022,Electricity generation,Aggregate fuel,Gas and Other Fossil,%,0.01,,
+India,IND,Haryana,HR,state,2022,Electricity generation,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,2.58,,
+India,IND,Haryana,HR,state,2022,Electricity generation,Aggregate fuel,Renewables,%,4.49,,
+India,IND,Haryana,HR,state,2022,Electricity generation,Aggregate fuel,Wind and Solar,%,1.91,,
+India,IND,Haryana,HR,state,2022,Electricity generation,Aggregate fuel,Clean,GWh,1481.53,483.11,48.39
+India,IND,Haryana,HR,state,2022,Electricity generation,Aggregate fuel,Fossil,GWh,31479.9,9179.85,41.17
+India,IND,Haryana,HR,state,2022,Electricity generation,Aggregate fuel,Gas and Other Fossil,GWh,3.93,-351.32,-98.89
+India,IND,Haryana,HR,state,2022,Electricity generation,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",GWh,852.8,344.39,67.74
+India,IND,Haryana,HR,state,2022,Electricity generation,Aggregate fuel,Renewables,GWh,1481.53,483.11,48.39
+India,IND,Haryana,HR,state,2022,Electricity generation,Aggregate fuel,Wind and Solar,GWh,628.73,138.72,28.31
+India,IND,Haryana,HR,state,2022,Electricity generation,Fuel,Bioenergy,%,1.62,,
+India,IND,Haryana,HR,state,2022,Electricity generation,Fuel,Coal,%,95.49,,
+India,IND,Haryana,HR,state,2022,Electricity generation,Fuel,Gas,%,0.01,,
+India,IND,Haryana,HR,state,2022,Electricity generation,Fuel,Hydro,%,0.78,,
+India,IND,Haryana,HR,state,2022,Electricity generation,Fuel,Nuclear,%,0.0,,
+India,IND,Haryana,HR,state,2022,Electricity generation,Fuel,Other Fossil,%,0.0,,
+India,IND,Haryana,HR,state,2022,Electricity generation,Fuel,Other Renewables,%,0.18,,
+India,IND,Haryana,HR,state,2022,Electricity generation,Fuel,Solar,%,1.91,,
+India,IND,Haryana,HR,state,2022,Electricity generation,Fuel,Wind,%,0.0,,
+India,IND,Haryana,HR,state,2022,Electricity generation,Fuel,Bioenergy,GWh,534.64,268.75,101.08
+India,IND,Haryana,HR,state,2022,Electricity generation,Fuel,Coal,GWh,31475.97,9531.17,43.43
+India,IND,Haryana,HR,state,2022,Electricity generation,Fuel,Gas,GWh,3.93,-351.32,-98.89
+India,IND,Haryana,HR,state,2022,Electricity generation,Fuel,Hydro,GWh,258.2,28.93,12.62
+India,IND,Haryana,HR,state,2022,Electricity generation,Fuel,Nuclear,GWh,0.0,0.0,
+India,IND,Haryana,HR,state,2022,Electricity generation,Fuel,Other Fossil,GWh,0.0,0.0,
+India,IND,Haryana,HR,state,2022,Electricity generation,Fuel,Other Renewables,GWh,59.96,46.71,352.53
+India,IND,Haryana,HR,state,2022,Electricity generation,Fuel,Solar,GWh,628.73,138.72,28.31
+India,IND,Haryana,HR,state,2022,Electricity generation,Fuel,Wind,GWh,0.0,0.0,
+India,IND,Haryana,HR,state,2022,Electricity generation,Total,Total Generation,GWh,32961.43,9662.96,41.47
+India,IND,Haryana,HR,state,2022,Power sector emissions,Aggregate fuel,Clean,%,161.63,,
+India,IND,Haryana,HR,state,2022,Power sector emissions,Aggregate fuel,Fossil,%,25812.23,,
+India,IND,Haryana,HR,state,2022,Power sector emissions,Aggregate fuel,Gas and Other Fossil,%,1.93,,
+India,IND,Haryana,HR,state,2022,Power sector emissions,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,131.45,,
+India,IND,Haryana,HR,state,2022,Power sector emissions,Aggregate fuel,Renewables,%,161.63,,
+India,IND,Haryana,HR,state,2022,Power sector emissions,Aggregate fuel,Wind and Solar,%,30.18,,
+India,IND,Haryana,HR,state,2022,Power sector emissions,Aggregate fuel,Clean,ktCO2,161.63,70.96,78.26
+India,IND,Haryana,HR,state,2022,Power sector emissions,Aggregate fuel,Fossil,ktCO2,25812.23,7643.42,42.07
+India,IND,Haryana,HR,state,2022,Power sector emissions,Aggregate fuel,Gas and Other Fossil,ktCO2,1.93,-172.14,-98.89
+India,IND,Haryana,HR,state,2022,Power sector emissions,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,131.45,64.3,95.76
+India,IND,Haryana,HR,state,2022,Power sector emissions,Aggregate fuel,Renewables,ktCO2,161.63,70.96,78.26
+India,IND,Haryana,HR,state,2022,Power sector emissions,Aggregate fuel,Wind and Solar,ktCO2,30.18,6.66,28.32
+India,IND,Haryana,HR,state,2022,Power sector emissions,CO2 intensity,CO2 intensity,gCO2/kWh,788.01,4.29,0.55
+India,IND,Haryana,HR,state,2022,Power sector emissions,Fuel,Bioenergy,%,122.97,,
+India,IND,Haryana,HR,state,2022,Power sector emissions,Fuel,Coal,%,25810.3,,
+India,IND,Haryana,HR,state,2022,Power sector emissions,Fuel,Gas,%,1.93,,
+India,IND,Haryana,HR,state,2022,Power sector emissions,Fuel,Hydro,%,6.2,,
+India,IND,Haryana,HR,state,2022,Power sector emissions,Fuel,Nuclear,%,0.0,,
+India,IND,Haryana,HR,state,2022,Power sector emissions,Fuel,Other Fossil,%,0.0,,
+India,IND,Haryana,HR,state,2022,Power sector emissions,Fuel,Other Renewables,%,2.28,,
+India,IND,Haryana,HR,state,2022,Power sector emissions,Fuel,Solar,%,30.18,,
+India,IND,Haryana,HR,state,2022,Power sector emissions,Fuel,Wind,%,0.0,,
+India,IND,Haryana,HR,state,2022,Power sector emissions,Fuel,Bioenergy,ktCO2,122.97,61.82,101.1
+India,IND,Haryana,HR,state,2022,Power sector emissions,Fuel,Coal,ktCO2,25810.3,7815.56,43.43
+India,IND,Haryana,HR,state,2022,Power sector emissions,Fuel,Gas,ktCO2,1.93,-172.14,-98.89
+India,IND,Haryana,HR,state,2022,Power sector emissions,Fuel,Hydro,ktCO2,6.2,0.7,12.73
+India,IND,Haryana,HR,state,2022,Power sector emissions,Fuel,Nuclear,ktCO2,0.0,0.0,
+India,IND,Haryana,HR,state,2022,Power sector emissions,Fuel,Other Fossil,ktCO2,0.0,0.0,
+India,IND,Haryana,HR,state,2022,Power sector emissions,Fuel,Other Renewables,ktCO2,2.28,1.78,356.0
+India,IND,Haryana,HR,state,2022,Power sector emissions,Fuel,Solar,ktCO2,30.18,6.66,28.32
+India,IND,Haryana,HR,state,2022,Power sector emissions,Fuel,Wind,ktCO2,0.0,0.0,
+India,IND,Haryana,HR,state,2022,Power sector emissions,Total,Total emissions,ktCO2,25973.86,7714.38,42.25
+India,IND,Haryana,HR,state,2023,Capacity,Aggregate fuel,Clean,MW,1579.67,256.62,19.4
+India,IND,Haryana,HR,state,2023,Capacity,Aggregate fuel,Fossil,MW,5761.59,0.0,0.0
+India,IND,Haryana,HR,state,2023,Capacity,Aggregate fuel,Gas and Other Fossil,MW,431.59,0.0,0.0
+India,IND,Haryana,HR,state,2023,Capacity,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",MW,339.2,6.82,2.05
+India,IND,Haryana,HR,state,2023,Capacity,Aggregate fuel,Renewables,MW,1579.67,256.62,19.4
+India,IND,Haryana,HR,state,2023,Capacity,Aggregate fuel,Wind and Solar,MW,1240.47,249.8,25.22
+India,IND,Haryana,HR,state,2023,Capacity,Fuel,Bioenergy,MW,265.7,6.82,2.63
+India,IND,Haryana,HR,state,2023,Capacity,Fuel,Coal,MW,5330.0,0.0,0.0
+India,IND,Haryana,HR,state,2023,Capacity,Fuel,Gas,MW,431.59,0.0,0.0
+India,IND,Haryana,HR,state,2023,Capacity,Fuel,Hydro,MW,73.5,0.0,0.0
+India,IND,Haryana,HR,state,2023,Capacity,Fuel,Nuclear,MW,0.0,0.0,
+India,IND,Haryana,HR,state,2023,Capacity,Fuel,Other Fossil,MW,0.0,0.0,
+India,IND,Haryana,HR,state,2023,Capacity,Fuel,Other Renewables,MW,,,
+India,IND,Haryana,HR,state,2023,Capacity,Fuel,Solar,MW,1240.47,249.8,25.22
+India,IND,Haryana,HR,state,2023,Capacity,Fuel,Wind,MW,0.0,0.0,
+India,IND,Haryana,HR,state,2023,Electricity generation,Aggregate fuel,Clean,%,4.94,,
+India,IND,Haryana,HR,state,2023,Electricity generation,Aggregate fuel,Fossil,%,95.06,,
+India,IND,Haryana,HR,state,2023,Electricity generation,Aggregate fuel,Gas and Other Fossil,%,0.45,,
+India,IND,Haryana,HR,state,2023,Electricity generation,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,2.29,,
+India,IND,Haryana,HR,state,2023,Electricity generation,Aggregate fuel,Renewables,%,4.94,,
+India,IND,Haryana,HR,state,2023,Electricity generation,Aggregate fuel,Wind and Solar,%,2.65,,
+India,IND,Haryana,HR,state,2023,Electricity generation,Aggregate fuel,Clean,GWh,1507.98,26.45,1.79
+India,IND,Haryana,HR,state,2023,Electricity generation,Aggregate fuel,Fossil,GWh,29030.0,-2449.9,-7.78
+India,IND,Haryana,HR,state,2023,Electricity generation,Aggregate fuel,Gas and Other Fossil,GWh,137.28,133.35,3393.13
+India,IND,Haryana,HR,state,2023,Electricity generation,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",GWh,699.81,-152.99,-17.94
+India,IND,Haryana,HR,state,2023,Electricity generation,Aggregate fuel,Renewables,GWh,1507.98,26.45,1.79
+India,IND,Haryana,HR,state,2023,Electricity generation,Aggregate fuel,Wind and Solar,GWh,808.17,179.44,28.54
+India,IND,Haryana,HR,state,2023,Electricity generation,Fuel,Bioenergy,%,1.35,,
+India,IND,Haryana,HR,state,2023,Electricity generation,Fuel,Coal,%,94.61,,
+India,IND,Haryana,HR,state,2023,Electricity generation,Fuel,Gas,%,0.45,,
+India,IND,Haryana,HR,state,2023,Electricity generation,Fuel,Hydro,%,0.75,,
+India,IND,Haryana,HR,state,2023,Electricity generation,Fuel,Nuclear,%,0.0,,
+India,IND,Haryana,HR,state,2023,Electricity generation,Fuel,Other Fossil,%,0.0,,
+India,IND,Haryana,HR,state,2023,Electricity generation,Fuel,Other Renewables,%,0.19,,
+India,IND,Haryana,HR,state,2023,Electricity generation,Fuel,Solar,%,2.65,,
+India,IND,Haryana,HR,state,2023,Electricity generation,Fuel,Wind,%,0.0,,
+India,IND,Haryana,HR,state,2023,Electricity generation,Fuel,Bioenergy,GWh,412.91,-121.73,-22.77
+India,IND,Haryana,HR,state,2023,Electricity generation,Fuel,Coal,GWh,28892.72,-2583.25,-8.21
+India,IND,Haryana,HR,state,2023,Electricity generation,Fuel,Gas,GWh,137.28,133.35,3393.13
+India,IND,Haryana,HR,state,2023,Electricity generation,Fuel,Hydro,GWh,227.56,-30.64,-11.87
+India,IND,Haryana,HR,state,2023,Electricity generation,Fuel,Nuclear,GWh,0.0,0.0,
+India,IND,Haryana,HR,state,2023,Electricity generation,Fuel,Other Fossil,GWh,0.0,0.0,
+India,IND,Haryana,HR,state,2023,Electricity generation,Fuel,Other Renewables,GWh,59.34,-0.62,-1.03
+India,IND,Haryana,HR,state,2023,Electricity generation,Fuel,Solar,GWh,808.17,179.44,28.54
+India,IND,Haryana,HR,state,2023,Electricity generation,Fuel,Wind,GWh,0.0,0.0,
+India,IND,Haryana,HR,state,2023,Electricity generation,Total,Total Generation,GWh,30537.98,-2423.45,-7.35
+India,IND,Haryana,HR,state,2023,Power sector emissions,Aggregate fuel,Clean,%,141.47,,
+India,IND,Haryana,HR,state,2023,Power sector emissions,Aggregate fuel,Fossil,%,23759.3,,
+India,IND,Haryana,HR,state,2023,Power sector emissions,Aggregate fuel,Gas and Other Fossil,%,67.27,,
+India,IND,Haryana,HR,state,2023,Power sector emissions,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,102.68,,
+India,IND,Haryana,HR,state,2023,Power sector emissions,Aggregate fuel,Renewables,%,141.47,,
+India,IND,Haryana,HR,state,2023,Power sector emissions,Aggregate fuel,Wind and Solar,%,38.79,,
+India,IND,Haryana,HR,state,2023,Power sector emissions,Aggregate fuel,Clean,ktCO2,141.47,-20.16,-12.47
+India,IND,Haryana,HR,state,2023,Power sector emissions,Aggregate fuel,Fossil,ktCO2,23759.3,-2052.93,-7.95
+India,IND,Haryana,HR,state,2023,Power sector emissions,Aggregate fuel,Gas and Other Fossil,ktCO2,67.27,65.34,3385.49
+India,IND,Haryana,HR,state,2023,Power sector emissions,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,102.68,-28.77,-21.89
+India,IND,Haryana,HR,state,2023,Power sector emissions,Aggregate fuel,Renewables,ktCO2,141.47,-20.16,-12.47
+India,IND,Haryana,HR,state,2023,Power sector emissions,Aggregate fuel,Wind and Solar,ktCO2,38.79,8.61,28.53
+India,IND,Haryana,HR,state,2023,Power sector emissions,CO2 intensity,CO2 intensity,gCO2/kWh,782.66,-5.35,-0.68
+India,IND,Haryana,HR,state,2023,Power sector emissions,Fuel,Bioenergy,%,94.97,,
+India,IND,Haryana,HR,state,2023,Power sector emissions,Fuel,Coal,%,23692.03,,
+India,IND,Haryana,HR,state,2023,Power sector emissions,Fuel,Gas,%,67.27,,
+India,IND,Haryana,HR,state,2023,Power sector emissions,Fuel,Hydro,%,5.46,,
+India,IND,Haryana,HR,state,2023,Power sector emissions,Fuel,Nuclear,%,0.0,,
+India,IND,Haryana,HR,state,2023,Power sector emissions,Fuel,Other Fossil,%,0.0,,
+India,IND,Haryana,HR,state,2023,Power sector emissions,Fuel,Other Renewables,%,2.25,,
+India,IND,Haryana,HR,state,2023,Power sector emissions,Fuel,Solar,%,38.79,,
+India,IND,Haryana,HR,state,2023,Power sector emissions,Fuel,Wind,%,0.0,,
+India,IND,Haryana,HR,state,2023,Power sector emissions,Fuel,Bioenergy,ktCO2,94.97,-28.0,-22.77
+India,IND,Haryana,HR,state,2023,Power sector emissions,Fuel,Coal,ktCO2,23692.03,-2118.27,-8.21
+India,IND,Haryana,HR,state,2023,Power sector emissions,Fuel,Gas,ktCO2,67.27,65.34,3385.49
+India,IND,Haryana,HR,state,2023,Power sector emissions,Fuel,Hydro,ktCO2,5.46,-0.74,-11.94
+India,IND,Haryana,HR,state,2023,Power sector emissions,Fuel,Nuclear,ktCO2,0.0,0.0,
+India,IND,Haryana,HR,state,2023,Power sector emissions,Fuel,Other Fossil,ktCO2,0.0,0.0,
+India,IND,Haryana,HR,state,2023,Power sector emissions,Fuel,Other Renewables,ktCO2,2.25,-0.03,-1.32
+India,IND,Haryana,HR,state,2023,Power sector emissions,Fuel,Solar,ktCO2,38.79,8.61,28.53
+India,IND,Haryana,HR,state,2023,Power sector emissions,Fuel,Wind,ktCO2,0.0,0.0,
+India,IND,Haryana,HR,state,2023,Power sector emissions,Total,Total emissions,ktCO2,23900.77,-2073.09,-7.98
+India,IND,Haryana,HR,state,2024,Capacity,Aggregate fuel,Clean,MW,2353.08,773.41,48.96
+India,IND,Haryana,HR,state,2024,Capacity,Aggregate fuel,Fossil,MW,5761.59,0.0,0.0
+India,IND,Haryana,HR,state,2024,Capacity,Aggregate fuel,Gas and Other Fossil,MW,431.59,0.0,0.0
+India,IND,Haryana,HR,state,2024,Capacity,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",MW,366.12,26.92,7.94
+India,IND,Haryana,HR,state,2024,Capacity,Aggregate fuel,Renewables,MW,2353.08,773.41,48.96
+India,IND,Haryana,HR,state,2024,Capacity,Aggregate fuel,Wind and Solar,MW,1986.96,746.49,60.18
+India,IND,Haryana,HR,state,2024,Capacity,Fuel,Bioenergy,MW,292.62,26.92,10.13
+India,IND,Haryana,HR,state,2024,Capacity,Fuel,Coal,MW,5330.0,0.0,0.0
+India,IND,Haryana,HR,state,2024,Capacity,Fuel,Gas,MW,431.59,0.0,0.0
+India,IND,Haryana,HR,state,2024,Capacity,Fuel,Hydro,MW,73.5,0.0,0.0
+India,IND,Haryana,HR,state,2024,Capacity,Fuel,Nuclear,MW,0.0,0.0,
+India,IND,Haryana,HR,state,2024,Capacity,Fuel,Other Fossil,MW,0.0,0.0,
+India,IND,Haryana,HR,state,2024,Capacity,Fuel,Other Renewables,MW,,,
+India,IND,Haryana,HR,state,2024,Capacity,Fuel,Solar,MW,1986.96,746.49,60.18
+India,IND,Haryana,HR,state,2024,Capacity,Fuel,Wind,MW,0.0,0.0,
+India,IND,Haryana,HR,state,2024,Electricity generation,Aggregate fuel,Clean,%,6.49,,
+India,IND,Haryana,HR,state,2024,Electricity generation,Aggregate fuel,Fossil,%,93.52,,
+India,IND,Haryana,HR,state,2024,Electricity generation,Aggregate fuel,Gas and Other Fossil,%,0.66,,
+India,IND,Haryana,HR,state,2024,Electricity generation,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,2.19,,
+India,IND,Haryana,HR,state,2024,Electricity generation,Aggregate fuel,Renewables,%,6.49,,
+India,IND,Haryana,HR,state,2024,Electricity generation,Aggregate fuel,Wind and Solar,%,4.3,,
+India,IND,Haryana,HR,state,2024,Electricity generation,Aggregate fuel,Clean,GWh,2103.09,595.11,39.46
+India,IND,Haryana,HR,state,2024,Electricity generation,Aggregate fuel,Fossil,GWh,30353.49,1323.49,4.56
+India,IND,Haryana,HR,state,2024,Electricity generation,Aggregate fuel,Gas and Other Fossil,GWh,215.37,78.09,56.88
+India,IND,Haryana,HR,state,2024,Electricity generation,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",GWh,708.44,8.63,1.23
+India,IND,Haryana,HR,state,2024,Electricity generation,Aggregate fuel,Renewables,GWh,2103.09,595.11,39.46
+India,IND,Haryana,HR,state,2024,Electricity generation,Aggregate fuel,Wind and Solar,GWh,1394.65,586.48,72.57
+India,IND,Haryana,HR,state,2024,Electricity generation,Fuel,Bioenergy,%,1.26,,
+India,IND,Haryana,HR,state,2024,Electricity generation,Fuel,Coal,%,92.86,,
+India,IND,Haryana,HR,state,2024,Electricity generation,Fuel,Gas,%,0.66,,
+India,IND,Haryana,HR,state,2024,Electricity generation,Fuel,Hydro,%,0.76,,
+India,IND,Haryana,HR,state,2024,Electricity generation,Fuel,Nuclear,%,0.0,,
+India,IND,Haryana,HR,state,2024,Electricity generation,Fuel,Other Fossil,%,0.0,,
+India,IND,Haryana,HR,state,2024,Electricity generation,Fuel,Other Renewables,%,0.17,,
+India,IND,Haryana,HR,state,2024,Electricity generation,Fuel,Solar,%,4.3,,
+India,IND,Haryana,HR,state,2024,Electricity generation,Fuel,Wind,%,0.0,,
+India,IND,Haryana,HR,state,2024,Electricity generation,Fuel,Bioenergy,GWh,409.01,-3.9,-0.94
+India,IND,Haryana,HR,state,2024,Electricity generation,Fuel,Coal,GWh,30138.12,1245.4,4.31
+India,IND,Haryana,HR,state,2024,Electricity generation,Fuel,Gas,GWh,215.37,78.09,56.88
+India,IND,Haryana,HR,state,2024,Electricity generation,Fuel,Hydro,GWh,245.87,18.31,8.05
+India,IND,Haryana,HR,state,2024,Electricity generation,Fuel,Nuclear,GWh,0.0,0.0,
+India,IND,Haryana,HR,state,2024,Electricity generation,Fuel,Other Fossil,GWh,0.0,0.0,
+India,IND,Haryana,HR,state,2024,Electricity generation,Fuel,Other Renewables,GWh,53.56,-5.78,-9.74
+India,IND,Haryana,HR,state,2024,Electricity generation,Fuel,Solar,GWh,1394.65,586.48,72.57
+India,IND,Haryana,HR,state,2024,Electricity generation,Fuel,Wind,GWh,0.0,0.0,
+India,IND,Haryana,HR,state,2024,Electricity generation,Total,Total Generation,GWh,32456.58,1918.6,6.28
+India,IND,Haryana,HR,state,2024,Power sector emissions,Aggregate fuel,Clean,%,168.95,,
+India,IND,Haryana,HR,state,2024,Power sector emissions,Aggregate fuel,Fossil,%,24818.79,,
+India,IND,Haryana,HR,state,2024,Power sector emissions,Aggregate fuel,Gas and Other Fossil,%,105.53,,
+India,IND,Haryana,HR,state,2024,Power sector emissions,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,102.01,,
+India,IND,Haryana,HR,state,2024,Power sector emissions,Aggregate fuel,Renewables,%,168.95,,
+India,IND,Haryana,HR,state,2024,Power sector emissions,Aggregate fuel,Wind and Solar,%,66.94,,
+India,IND,Haryana,HR,state,2024,Power sector emissions,Aggregate fuel,Clean,ktCO2,168.95,27.48,19.42
+India,IND,Haryana,HR,state,2024,Power sector emissions,Aggregate fuel,Fossil,ktCO2,24818.79,1059.49,4.46
+India,IND,Haryana,HR,state,2024,Power sector emissions,Aggregate fuel,Gas and Other Fossil,ktCO2,105.53,38.26,56.88
+India,IND,Haryana,HR,state,2024,Power sector emissions,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,102.01,-0.67,-0.65
+India,IND,Haryana,HR,state,2024,Power sector emissions,Aggregate fuel,Renewables,ktCO2,168.95,27.48,19.42
+India,IND,Haryana,HR,state,2024,Power sector emissions,Aggregate fuel,Wind and Solar,ktCO2,66.94,28.15,72.57
+India,IND,Haryana,HR,state,2024,Power sector emissions,CO2 intensity,CO2 intensity,gCO2/kWh,769.88,-12.78,-1.63
+India,IND,Haryana,HR,state,2024,Power sector emissions,Fuel,Bioenergy,%,94.07,,
+India,IND,Haryana,HR,state,2024,Power sector emissions,Fuel,Coal,%,24713.26,,
+India,IND,Haryana,HR,state,2024,Power sector emissions,Fuel,Gas,%,105.53,,
+India,IND,Haryana,HR,state,2024,Power sector emissions,Fuel,Hydro,%,5.9,,
+India,IND,Haryana,HR,state,2024,Power sector emissions,Fuel,Nuclear,%,0.0,,
+India,IND,Haryana,HR,state,2024,Power sector emissions,Fuel,Other Fossil,%,0.0,,
+India,IND,Haryana,HR,state,2024,Power sector emissions,Fuel,Other Renewables,%,2.04,,
+India,IND,Haryana,HR,state,2024,Power sector emissions,Fuel,Solar,%,66.94,,
+India,IND,Haryana,HR,state,2024,Power sector emissions,Fuel,Wind,%,0.0,,
+India,IND,Haryana,HR,state,2024,Power sector emissions,Fuel,Bioenergy,ktCO2,94.07,-0.9,-0.95
+India,IND,Haryana,HR,state,2024,Power sector emissions,Fuel,Coal,ktCO2,24713.26,1021.23,4.31
+India,IND,Haryana,HR,state,2024,Power sector emissions,Fuel,Gas,ktCO2,105.53,38.26,56.88
+India,IND,Haryana,HR,state,2024,Power sector emissions,Fuel,Hydro,ktCO2,5.9,0.44,8.06
+India,IND,Haryana,HR,state,2024,Power sector emissions,Fuel,Nuclear,ktCO2,0.0,0.0,
+India,IND,Haryana,HR,state,2024,Power sector emissions,Fuel,Other Fossil,ktCO2,0.0,0.0,
+India,IND,Haryana,HR,state,2024,Power sector emissions,Fuel,Other Renewables,ktCO2,2.04,-0.21,-9.33
+India,IND,Haryana,HR,state,2024,Power sector emissions,Fuel,Solar,ktCO2,66.94,28.15,72.57
+India,IND,Haryana,HR,state,2024,Power sector emissions,Fuel,Wind,ktCO2,0.0,0.0,
+India,IND,Haryana,HR,state,2024,Power sector emissions,Total,Total emissions,ktCO2,24987.74,1086.97,4.55
+India,IND,Madhya Pradesh,MP,state,2019,Capacity,Aggregate fuel,Clean,MW,7209.04,,
+India,IND,Madhya Pradesh,MP,state,2019,Capacity,Aggregate fuel,Fossil,MW,20490.0,,
+India,IND,Madhya Pradesh,MP,state,2019,Capacity,Aggregate fuel,Gas and Other Fossil,MW,0.0,,
+India,IND,Madhya Pradesh,MP,state,2019,Capacity,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",MW,2451.66,,
+India,IND,Madhya Pradesh,MP,state,2019,Capacity,Aggregate fuel,Renewables,MW,7209.04,,
+India,IND,Madhya Pradesh,MP,state,2019,Capacity,Aggregate fuel,Wind and Solar,MW,4757.38,,
+India,IND,Madhya Pradesh,MP,state,2019,Capacity,Fuel,Bioenergy,MW,120.75,,
+India,IND,Madhya Pradesh,MP,state,2019,Capacity,Fuel,Coal,MW,20490.0,,
+India,IND,Madhya Pradesh,MP,state,2019,Capacity,Fuel,Gas,MW,0.0,,
+India,IND,Madhya Pradesh,MP,state,2019,Capacity,Fuel,Hydro,MW,2330.91,,
+India,IND,Madhya Pradesh,MP,state,2019,Capacity,Fuel,Nuclear,MW,0.0,,
+India,IND,Madhya Pradesh,MP,state,2019,Capacity,Fuel,Other Fossil,MW,0.0,,
+India,IND,Madhya Pradesh,MP,state,2019,Capacity,Fuel,Other Renewables,MW,0.0,,
+India,IND,Madhya Pradesh,MP,state,2019,Capacity,Fuel,Solar,MW,2237.49,,
+India,IND,Madhya Pradesh,MP,state,2019,Capacity,Fuel,Wind,MW,2519.89,,
+India,IND,Madhya Pradesh,MP,state,2019,Electricity generation,Aggregate fuel,Clean,%,10.83,,
+India,IND,Madhya Pradesh,MP,state,2019,Electricity generation,Aggregate fuel,Fossil,%,89.17,,
+India,IND,Madhya Pradesh,MP,state,2019,Electricity generation,Aggregate fuel,Gas and Other Fossil,%,0.0,,
+India,IND,Madhya Pradesh,MP,state,2019,Electricity generation,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,4.8,,
+India,IND,Madhya Pradesh,MP,state,2019,Electricity generation,Aggregate fuel,Renewables,%,10.83,,
+India,IND,Madhya Pradesh,MP,state,2019,Electricity generation,Aggregate fuel,Wind and Solar,%,6.03,,
+India,IND,Madhya Pradesh,MP,state,2019,Electricity generation,Aggregate fuel,Clean,GWh,13925.23,,
+India,IND,Madhya Pradesh,MP,state,2019,Electricity generation,Aggregate fuel,Fossil,GWh,114695.01,,
+India,IND,Madhya Pradesh,MP,state,2019,Electricity generation,Aggregate fuel,Gas and Other Fossil,GWh,0.0,,
+India,IND,Madhya Pradesh,MP,state,2019,Electricity generation,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",GWh,6177.18,,
+India,IND,Madhya Pradesh,MP,state,2019,Electricity generation,Aggregate fuel,Renewables,GWh,13925.23,,
+India,IND,Madhya Pradesh,MP,state,2019,Electricity generation,Aggregate fuel,Wind and Solar,GWh,7748.05,,
+India,IND,Madhya Pradesh,MP,state,2019,Electricity generation,Fuel,Bioenergy,%,0.08,,
+India,IND,Madhya Pradesh,MP,state,2019,Electricity generation,Fuel,Coal,%,89.17,,
+India,IND,Madhya Pradesh,MP,state,2019,Electricity generation,Fuel,Gas,%,0.0,,
+India,IND,Madhya Pradesh,MP,state,2019,Electricity generation,Fuel,Hydro,%,4.69,,
+India,IND,Madhya Pradesh,MP,state,2019,Electricity generation,Fuel,Nuclear,%,0.0,,
+India,IND,Madhya Pradesh,MP,state,2019,Electricity generation,Fuel,Other Fossil,%,0.0,,
+India,IND,Madhya Pradesh,MP,state,2019,Electricity generation,Fuel,Other Renewables,%,0.03,,
+India,IND,Madhya Pradesh,MP,state,2019,Electricity generation,Fuel,Solar,%,2.59,,
+India,IND,Madhya Pradesh,MP,state,2019,Electricity generation,Fuel,Wind,%,3.44,,
+India,IND,Madhya Pradesh,MP,state,2019,Electricity generation,Fuel,Bioenergy,GWh,103.24,,
+India,IND,Madhya Pradesh,MP,state,2019,Electricity generation,Fuel,Coal,GWh,114695.01,,
+India,IND,Madhya Pradesh,MP,state,2019,Electricity generation,Fuel,Gas,GWh,0.0,,
+India,IND,Madhya Pradesh,MP,state,2019,Electricity generation,Fuel,Hydro,GWh,6037.43,,
+India,IND,Madhya Pradesh,MP,state,2019,Electricity generation,Fuel,Nuclear,GWh,0.0,,
+India,IND,Madhya Pradesh,MP,state,2019,Electricity generation,Fuel,Other Fossil,GWh,0.0,,
+India,IND,Madhya Pradesh,MP,state,2019,Electricity generation,Fuel,Other Renewables,GWh,36.51,,
+India,IND,Madhya Pradesh,MP,state,2019,Electricity generation,Fuel,Solar,GWh,3329.83,,
+India,IND,Madhya Pradesh,MP,state,2019,Electricity generation,Fuel,Wind,GWh,4418.22,,
+India,IND,Madhya Pradesh,MP,state,2019,Electricity generation,Total,Total Generation,GWh,128620.24,,
+India,IND,Madhya Pradesh,MP,state,2019,Power sector emissions,Aggregate fuel,Clean,%,378.46,,
+India,IND,Madhya Pradesh,MP,state,2019,Power sector emissions,Aggregate fuel,Fossil,%,94049.91,,
+India,IND,Madhya Pradesh,MP,state,2019,Power sector emissions,Aggregate fuel,Gas and Other Fossil,%,0.0,,
+India,IND,Madhya Pradesh,MP,state,2019,Power sector emissions,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,170.03,,
+India,IND,Madhya Pradesh,MP,state,2019,Power sector emissions,Aggregate fuel,Renewables,%,378.46,,
+India,IND,Madhya Pradesh,MP,state,2019,Power sector emissions,Aggregate fuel,Wind and Solar,%,208.43,,
+India,IND,Madhya Pradesh,MP,state,2019,Power sector emissions,Aggregate fuel,Clean,ktCO2,378.46,,
+India,IND,Madhya Pradesh,MP,state,2019,Power sector emissions,Aggregate fuel,Fossil,ktCO2,94049.91,,
+India,IND,Madhya Pradesh,MP,state,2019,Power sector emissions,Aggregate fuel,Gas and Other Fossil,ktCO2,0.0,,
+India,IND,Madhya Pradesh,MP,state,2019,Power sector emissions,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,170.03,,
+India,IND,Madhya Pradesh,MP,state,2019,Power sector emissions,Aggregate fuel,Renewables,ktCO2,378.46,,
+India,IND,Madhya Pradesh,MP,state,2019,Power sector emissions,Aggregate fuel,Wind and Solar,ktCO2,208.43,,
+India,IND,Madhya Pradesh,MP,state,2019,Power sector emissions,CO2 intensity,CO2 intensity,gCO2/kWh,734.16,,
+India,IND,Madhya Pradesh,MP,state,2019,Power sector emissions,Fuel,Bioenergy,%,23.74,,
+India,IND,Madhya Pradesh,MP,state,2019,Power sector emissions,Fuel,Coal,%,94049.91,,
+India,IND,Madhya Pradesh,MP,state,2019,Power sector emissions,Fuel,Gas,%,0.0,,
+India,IND,Madhya Pradesh,MP,state,2019,Power sector emissions,Fuel,Hydro,%,144.9,,
+India,IND,Madhya Pradesh,MP,state,2019,Power sector emissions,Fuel,Nuclear,%,0.0,,
+India,IND,Madhya Pradesh,MP,state,2019,Power sector emissions,Fuel,Other Fossil,%,0.0,,
+India,IND,Madhya Pradesh,MP,state,2019,Power sector emissions,Fuel,Other Renewables,%,1.39,,
+India,IND,Madhya Pradesh,MP,state,2019,Power sector emissions,Fuel,Solar,%,159.83,,
+India,IND,Madhya Pradesh,MP,state,2019,Power sector emissions,Fuel,Wind,%,48.6,,
+India,IND,Madhya Pradesh,MP,state,2019,Power sector emissions,Fuel,Bioenergy,ktCO2,23.74,,
+India,IND,Madhya Pradesh,MP,state,2019,Power sector emissions,Fuel,Coal,ktCO2,94049.91,,
+India,IND,Madhya Pradesh,MP,state,2019,Power sector emissions,Fuel,Gas,ktCO2,0.0,,
+India,IND,Madhya Pradesh,MP,state,2019,Power sector emissions,Fuel,Hydro,ktCO2,144.9,,
+India,IND,Madhya Pradesh,MP,state,2019,Power sector emissions,Fuel,Nuclear,ktCO2,0.0,,
+India,IND,Madhya Pradesh,MP,state,2019,Power sector emissions,Fuel,Other Fossil,ktCO2,0.0,,
+India,IND,Madhya Pradesh,MP,state,2019,Power sector emissions,Fuel,Other Renewables,ktCO2,1.39,,
+India,IND,Madhya Pradesh,MP,state,2019,Power sector emissions,Fuel,Solar,ktCO2,159.83,,
+India,IND,Madhya Pradesh,MP,state,2019,Power sector emissions,Fuel,Wind,ktCO2,48.6,,
+India,IND,Madhya Pradesh,MP,state,2019,Power sector emissions,Total,Total emissions,ktCO2,94428.37,,
+India,IND,Madhya Pradesh,MP,state,2020,Capacity,Aggregate fuel,Clean,MW,7417.5,208.46,2.89
+India,IND,Madhya Pradesh,MP,state,2020,Capacity,Aggregate fuel,Fossil,MW,21150.0,660.0,3.22
+India,IND,Madhya Pradesh,MP,state,2020,Capacity,Aggregate fuel,Gas and Other Fossil,MW,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2020,Capacity,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",MW,2457.46,5.8,0.24
+India,IND,Madhya Pradesh,MP,state,2020,Capacity,Aggregate fuel,Renewables,MW,7417.5,208.46,2.89
+India,IND,Madhya Pradesh,MP,state,2020,Capacity,Aggregate fuel,Wind and Solar,MW,4960.04,202.66,4.26
+India,IND,Madhya Pradesh,MP,state,2020,Capacity,Fuel,Bioenergy,MW,122.75,2.0,1.66
+India,IND,Madhya Pradesh,MP,state,2020,Capacity,Fuel,Coal,MW,21150.0,660.0,3.22
+India,IND,Madhya Pradesh,MP,state,2020,Capacity,Fuel,Gas,MW,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2020,Capacity,Fuel,Hydro,MW,2334.71,3.8,0.16
+India,IND,Madhya Pradesh,MP,state,2020,Capacity,Fuel,Nuclear,MW,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2020,Capacity,Fuel,Other Fossil,MW,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2020,Capacity,Fuel,Other Renewables,MW,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2020,Capacity,Fuel,Solar,MW,2440.15,202.66,9.06
+India,IND,Madhya Pradesh,MP,state,2020,Capacity,Fuel,Wind,MW,2519.89,0.0,0.0
+India,IND,Madhya Pradesh,MP,state,2020,Electricity generation,Aggregate fuel,Clean,%,11.1,,
+India,IND,Madhya Pradesh,MP,state,2020,Electricity generation,Aggregate fuel,Fossil,%,88.9,,
+India,IND,Madhya Pradesh,MP,state,2020,Electricity generation,Aggregate fuel,Gas and Other Fossil,%,0.0,,
+India,IND,Madhya Pradesh,MP,state,2020,Electricity generation,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,5.08,,
+India,IND,Madhya Pradesh,MP,state,2020,Electricity generation,Aggregate fuel,Renewables,%,11.1,,
+India,IND,Madhya Pradesh,MP,state,2020,Electricity generation,Aggregate fuel,Wind and Solar,%,6.02,,
+India,IND,Madhya Pradesh,MP,state,2020,Electricity generation,Aggregate fuel,Clean,GWh,14973.73,1048.5,7.53
+India,IND,Madhya Pradesh,MP,state,2020,Electricity generation,Aggregate fuel,Fossil,GWh,119969.96,5274.95,4.6
+India,IND,Madhya Pradesh,MP,state,2020,Electricity generation,Aggregate fuel,Gas and Other Fossil,GWh,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2020,Electricity generation,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",GWh,6846.84,669.66,10.84
+India,IND,Madhya Pradesh,MP,state,2020,Electricity generation,Aggregate fuel,Renewables,GWh,14973.73,1048.5,7.53
+India,IND,Madhya Pradesh,MP,state,2020,Electricity generation,Aggregate fuel,Wind and Solar,GWh,8126.89,378.84,4.89
+India,IND,Madhya Pradesh,MP,state,2020,Electricity generation,Fuel,Bioenergy,%,0.07,,
+India,IND,Madhya Pradesh,MP,state,2020,Electricity generation,Fuel,Coal,%,88.9,,
+India,IND,Madhya Pradesh,MP,state,2020,Electricity generation,Fuel,Gas,%,0.0,,
+India,IND,Madhya Pradesh,MP,state,2020,Electricity generation,Fuel,Hydro,%,4.98,,
+India,IND,Madhya Pradesh,MP,state,2020,Electricity generation,Fuel,Nuclear,%,0.0,,
+India,IND,Madhya Pradesh,MP,state,2020,Electricity generation,Fuel,Other Fossil,%,0.0,,
+India,IND,Madhya Pradesh,MP,state,2020,Electricity generation,Fuel,Other Renewables,%,0.03,,
+India,IND,Madhya Pradesh,MP,state,2020,Electricity generation,Fuel,Solar,%,3.07,,
+India,IND,Madhya Pradesh,MP,state,2020,Electricity generation,Fuel,Wind,%,2.95,,
+India,IND,Madhya Pradesh,MP,state,2020,Electricity generation,Fuel,Bioenergy,GWh,89.88,-13.36,-12.94
+India,IND,Madhya Pradesh,MP,state,2020,Electricity generation,Fuel,Coal,GWh,119969.96,5274.95,4.6
+India,IND,Madhya Pradesh,MP,state,2020,Electricity generation,Fuel,Gas,GWh,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2020,Electricity generation,Fuel,Hydro,GWh,6716.88,679.45,11.25
+India,IND,Madhya Pradesh,MP,state,2020,Electricity generation,Fuel,Nuclear,GWh,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2020,Electricity generation,Fuel,Other Fossil,GWh,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2020,Electricity generation,Fuel,Other Renewables,GWh,40.08,3.57,9.78
+India,IND,Madhya Pradesh,MP,state,2020,Electricity generation,Fuel,Solar,GWh,4140.58,810.75,24.35
+India,IND,Madhya Pradesh,MP,state,2020,Electricity generation,Fuel,Wind,GWh,3986.31,-431.91,-9.78
+India,IND,Madhya Pradesh,MP,state,2020,Electricity generation,Total,Total Generation,GWh,134943.69,6323.45,4.92
+India,IND,Madhya Pradesh,MP,state,2020,Power sector emissions,Aggregate fuel,Clean,%,426.0,,
+India,IND,Madhya Pradesh,MP,state,2020,Power sector emissions,Aggregate fuel,Fossil,%,98375.37,,
+India,IND,Madhya Pradesh,MP,state,2020,Power sector emissions,Aggregate fuel,Gas and Other Fossil,%,0.0,,
+India,IND,Madhya Pradesh,MP,state,2020,Power sector emissions,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,183.4,,
+India,IND,Madhya Pradesh,MP,state,2020,Power sector emissions,Aggregate fuel,Renewables,%,426.0,,
+India,IND,Madhya Pradesh,MP,state,2020,Power sector emissions,Aggregate fuel,Wind and Solar,%,242.6,,
+India,IND,Madhya Pradesh,MP,state,2020,Power sector emissions,Aggregate fuel,Clean,ktCO2,426.0,47.54,12.56
+India,IND,Madhya Pradesh,MP,state,2020,Power sector emissions,Aggregate fuel,Fossil,ktCO2,98375.37,4325.46,4.6
+India,IND,Madhya Pradesh,MP,state,2020,Power sector emissions,Aggregate fuel,Gas and Other Fossil,ktCO2,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2020,Power sector emissions,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,183.4,13.37,7.86
+India,IND,Madhya Pradesh,MP,state,2020,Power sector emissions,Aggregate fuel,Renewables,ktCO2,426.0,47.54,12.56
+India,IND,Madhya Pradesh,MP,state,2020,Power sector emissions,Aggregate fuel,Wind and Solar,ktCO2,242.6,34.17,16.39
+India,IND,Madhya Pradesh,MP,state,2020,Power sector emissions,CO2 intensity,CO2 intensity,gCO2/kWh,732.17,-1.99,-0.27
+India,IND,Madhya Pradesh,MP,state,2020,Power sector emissions,Fuel,Bioenergy,%,20.67,,
+India,IND,Madhya Pradesh,MP,state,2020,Power sector emissions,Fuel,Coal,%,98375.37,,
+India,IND,Madhya Pradesh,MP,state,2020,Power sector emissions,Fuel,Gas,%,0.0,,
+India,IND,Madhya Pradesh,MP,state,2020,Power sector emissions,Fuel,Hydro,%,161.21,,
+India,IND,Madhya Pradesh,MP,state,2020,Power sector emissions,Fuel,Nuclear,%,0.0,,
+India,IND,Madhya Pradesh,MP,state,2020,Power sector emissions,Fuel,Other Fossil,%,0.0,,
+India,IND,Madhya Pradesh,MP,state,2020,Power sector emissions,Fuel,Other Renewables,%,1.52,,
+India,IND,Madhya Pradesh,MP,state,2020,Power sector emissions,Fuel,Solar,%,198.75,,
+India,IND,Madhya Pradesh,MP,state,2020,Power sector emissions,Fuel,Wind,%,43.85,,
+India,IND,Madhya Pradesh,MP,state,2020,Power sector emissions,Fuel,Bioenergy,ktCO2,20.67,-3.07,-12.93
+India,IND,Madhya Pradesh,MP,state,2020,Power sector emissions,Fuel,Coal,ktCO2,98375.37,4325.46,4.6
+India,IND,Madhya Pradesh,MP,state,2020,Power sector emissions,Fuel,Gas,ktCO2,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2020,Power sector emissions,Fuel,Hydro,ktCO2,161.21,16.31,11.26
+India,IND,Madhya Pradesh,MP,state,2020,Power sector emissions,Fuel,Nuclear,ktCO2,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2020,Power sector emissions,Fuel,Other Fossil,ktCO2,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2020,Power sector emissions,Fuel,Other Renewables,ktCO2,1.52,0.13,9.35
+India,IND,Madhya Pradesh,MP,state,2020,Power sector emissions,Fuel,Solar,ktCO2,198.75,38.92,24.35
+India,IND,Madhya Pradesh,MP,state,2020,Power sector emissions,Fuel,Wind,ktCO2,43.85,-4.75,-9.77
+India,IND,Madhya Pradesh,MP,state,2020,Power sector emissions,Total,Total emissions,ktCO2,98801.37,4373.0,4.63
+India,IND,Madhya Pradesh,MP,state,2021,Capacity,Aggregate fuel,Clean,MW,7662.72,245.22,3.31
+India,IND,Madhya Pradesh,MP,state,2021,Capacity,Aggregate fuel,Fossil,MW,21950.0,800.0,3.78
+India,IND,Madhya Pradesh,MP,state,2021,Capacity,Aggregate fuel,Gas and Other Fossil,MW,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2021,Capacity,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",MW,2462.71,5.25,0.21
+India,IND,Madhya Pradesh,MP,state,2021,Capacity,Aggregate fuel,Renewables,MW,7662.72,245.22,3.31
+India,IND,Madhya Pradesh,MP,state,2021,Capacity,Aggregate fuel,Wind and Solar,MW,5200.01,239.97,4.84
+India,IND,Madhya Pradesh,MP,state,2021,Capacity,Fuel,Bioenergy,MW,128.0,5.25,4.28
+India,IND,Madhya Pradesh,MP,state,2021,Capacity,Fuel,Coal,MW,21950.0,800.0,3.78
+India,IND,Madhya Pradesh,MP,state,2021,Capacity,Fuel,Gas,MW,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2021,Capacity,Fuel,Hydro,MW,2334.71,0.0,0.0
+India,IND,Madhya Pradesh,MP,state,2021,Capacity,Fuel,Nuclear,MW,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2021,Capacity,Fuel,Other Fossil,MW,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2021,Capacity,Fuel,Other Renewables,MW,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2021,Capacity,Fuel,Solar,MW,2680.12,239.97,9.83
+India,IND,Madhya Pradesh,MP,state,2021,Capacity,Fuel,Wind,MW,2519.89,0.0,0.0
+India,IND,Madhya Pradesh,MP,state,2021,Electricity generation,Aggregate fuel,Clean,%,9.65,,
+India,IND,Madhya Pradesh,MP,state,2021,Electricity generation,Aggregate fuel,Fossil,%,90.35,,
+India,IND,Madhya Pradesh,MP,state,2021,Electricity generation,Aggregate fuel,Gas and Other Fossil,%,0.0,,
+India,IND,Madhya Pradesh,MP,state,2021,Electricity generation,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,3.76,,
+India,IND,Madhya Pradesh,MP,state,2021,Electricity generation,Aggregate fuel,Renewables,%,9.65,,
+India,IND,Madhya Pradesh,MP,state,2021,Electricity generation,Aggregate fuel,Wind and Solar,%,5.89,,
+India,IND,Madhya Pradesh,MP,state,2021,Electricity generation,Aggregate fuel,Clean,GWh,13661.61,-1312.12,-8.76
+India,IND,Madhya Pradesh,MP,state,2021,Electricity generation,Aggregate fuel,Fossil,GWh,127911.34,7941.38,6.62
+India,IND,Madhya Pradesh,MP,state,2021,Electricity generation,Aggregate fuel,Gas and Other Fossil,GWh,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2021,Electricity generation,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",GWh,5327.91,-1518.93,-22.18
+India,IND,Madhya Pradesh,MP,state,2021,Electricity generation,Aggregate fuel,Renewables,GWh,13661.61,-1312.12,-8.76
+India,IND,Madhya Pradesh,MP,state,2021,Electricity generation,Aggregate fuel,Wind and Solar,GWh,8333.7,206.81,2.54
+India,IND,Madhya Pradesh,MP,state,2021,Electricity generation,Fuel,Bioenergy,%,0.06,,
+India,IND,Madhya Pradesh,MP,state,2021,Electricity generation,Fuel,Coal,%,90.35,,
+India,IND,Madhya Pradesh,MP,state,2021,Electricity generation,Fuel,Gas,%,0.0,,
+India,IND,Madhya Pradesh,MP,state,2021,Electricity generation,Fuel,Hydro,%,3.68,,
+India,IND,Madhya Pradesh,MP,state,2021,Electricity generation,Fuel,Nuclear,%,0.0,,
+India,IND,Madhya Pradesh,MP,state,2021,Electricity generation,Fuel,Other Fossil,%,0.0,,
+India,IND,Madhya Pradesh,MP,state,2021,Electricity generation,Fuel,Other Renewables,%,0.02,,
+India,IND,Madhya Pradesh,MP,state,2021,Electricity generation,Fuel,Solar,%,2.81,,
+India,IND,Madhya Pradesh,MP,state,2021,Electricity generation,Fuel,Wind,%,3.08,,
+India,IND,Madhya Pradesh,MP,state,2021,Electricity generation,Fuel,Bioenergy,GWh,83.6,-6.28,-6.99
+India,IND,Madhya Pradesh,MP,state,2021,Electricity generation,Fuel,Coal,GWh,127911.34,7941.38,6.62
+India,IND,Madhya Pradesh,MP,state,2021,Electricity generation,Fuel,Gas,GWh,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2021,Electricity generation,Fuel,Hydro,GWh,5209.96,-1506.92,-22.43
+India,IND,Madhya Pradesh,MP,state,2021,Electricity generation,Fuel,Nuclear,GWh,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2021,Electricity generation,Fuel,Other Fossil,GWh,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2021,Electricity generation,Fuel,Other Renewables,GWh,34.35,-5.73,-14.3
+India,IND,Madhya Pradesh,MP,state,2021,Electricity generation,Fuel,Solar,GWh,3976.43,-164.15,-3.96
+India,IND,Madhya Pradesh,MP,state,2021,Electricity generation,Fuel,Wind,GWh,4357.27,370.96,9.31
+India,IND,Madhya Pradesh,MP,state,2021,Electricity generation,Total,Total Generation,GWh,141572.95,6629.26,4.91
+India,IND,Madhya Pradesh,MP,state,2021,Power sector emissions,Aggregate fuel,Clean,%,384.38,,
+India,IND,Madhya Pradesh,MP,state,2021,Power sector emissions,Aggregate fuel,Fossil,%,104887.3,,
+India,IND,Madhya Pradesh,MP,state,2021,Power sector emissions,Aggregate fuel,Gas and Other Fossil,%,0.0,,
+India,IND,Madhya Pradesh,MP,state,2021,Power sector emissions,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,145.58,,
+India,IND,Madhya Pradesh,MP,state,2021,Power sector emissions,Aggregate fuel,Renewables,%,384.38,,
+India,IND,Madhya Pradesh,MP,state,2021,Power sector emissions,Aggregate fuel,Wind and Solar,%,238.8,,
+India,IND,Madhya Pradesh,MP,state,2021,Power sector emissions,Aggregate fuel,Clean,ktCO2,384.38,-41.62,-9.77
+India,IND,Madhya Pradesh,MP,state,2021,Power sector emissions,Aggregate fuel,Fossil,ktCO2,104887.3,6511.93,6.62
+India,IND,Madhya Pradesh,MP,state,2021,Power sector emissions,Aggregate fuel,Gas and Other Fossil,ktCO2,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2021,Power sector emissions,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,145.58,-37.82,-20.62
+India,IND,Madhya Pradesh,MP,state,2021,Power sector emissions,Aggregate fuel,Renewables,ktCO2,384.38,-41.62,-9.77
+India,IND,Madhya Pradesh,MP,state,2021,Power sector emissions,Aggregate fuel,Wind and Solar,ktCO2,238.8,-3.8,-1.57
+India,IND,Madhya Pradesh,MP,state,2021,Power sector emissions,CO2 intensity,CO2 intensity,gCO2/kWh,743.59,11.42,1.56
+India,IND,Madhya Pradesh,MP,state,2021,Power sector emissions,Fuel,Bioenergy,%,19.23,,
+India,IND,Madhya Pradesh,MP,state,2021,Power sector emissions,Fuel,Coal,%,104887.3,,
+India,IND,Madhya Pradesh,MP,state,2021,Power sector emissions,Fuel,Gas,%,0.0,,
+India,IND,Madhya Pradesh,MP,state,2021,Power sector emissions,Fuel,Hydro,%,125.04,,
+India,IND,Madhya Pradesh,MP,state,2021,Power sector emissions,Fuel,Nuclear,%,0.0,,
+India,IND,Madhya Pradesh,MP,state,2021,Power sector emissions,Fuel,Other Fossil,%,0.0,,
+India,IND,Madhya Pradesh,MP,state,2021,Power sector emissions,Fuel,Other Renewables,%,1.31,,
+India,IND,Madhya Pradesh,MP,state,2021,Power sector emissions,Fuel,Solar,%,190.87,,
+India,IND,Madhya Pradesh,MP,state,2021,Power sector emissions,Fuel,Wind,%,47.93,,
+India,IND,Madhya Pradesh,MP,state,2021,Power sector emissions,Fuel,Bioenergy,ktCO2,19.23,-1.44,-6.97
+India,IND,Madhya Pradesh,MP,state,2021,Power sector emissions,Fuel,Coal,ktCO2,104887.3,6511.93,6.62
+India,IND,Madhya Pradesh,MP,state,2021,Power sector emissions,Fuel,Gas,ktCO2,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2021,Power sector emissions,Fuel,Hydro,ktCO2,125.04,-36.17,-22.44
+India,IND,Madhya Pradesh,MP,state,2021,Power sector emissions,Fuel,Nuclear,ktCO2,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2021,Power sector emissions,Fuel,Other Fossil,ktCO2,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2021,Power sector emissions,Fuel,Other Renewables,ktCO2,1.31,-0.21,-13.82
+India,IND,Madhya Pradesh,MP,state,2021,Power sector emissions,Fuel,Solar,ktCO2,190.87,-7.88,-3.96
+India,IND,Madhya Pradesh,MP,state,2021,Power sector emissions,Fuel,Wind,ktCO2,47.93,4.08,9.3
+India,IND,Madhya Pradesh,MP,state,2021,Power sector emissions,Total,Total emissions,ktCO2,105271.68,6470.31,6.55
+India,IND,Madhya Pradesh,MP,state,2022,Capacity,Aggregate fuel,Clean,MW,8109.53,446.81,5.83
+India,IND,Madhya Pradesh,MP,state,2022,Capacity,Aggregate fuel,Fossil,MW,21950.0,0.0,0.0
+India,IND,Madhya Pradesh,MP,state,2022,Capacity,Aggregate fuel,Gas and Other Fossil,MW,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2022,Capacity,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",MW,2490.46,27.75,1.13
+India,IND,Madhya Pradesh,MP,state,2022,Capacity,Aggregate fuel,Renewables,MW,8109.53,446.81,5.83
+India,IND,Madhya Pradesh,MP,state,2022,Capacity,Aggregate fuel,Wind and Solar,MW,5619.07,419.06,8.06
+India,IND,Madhya Pradesh,MP,state,2022,Capacity,Fuel,Bioenergy,MW,131.75,3.75,2.93
+India,IND,Madhya Pradesh,MP,state,2022,Capacity,Fuel,Coal,MW,21950.0,0.0,0.0
+India,IND,Madhya Pradesh,MP,state,2022,Capacity,Fuel,Gas,MW,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2022,Capacity,Fuel,Hydro,MW,2358.71,24.0,1.03
+India,IND,Madhya Pradesh,MP,state,2022,Capacity,Fuel,Nuclear,MW,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2022,Capacity,Fuel,Other Fossil,MW,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2022,Capacity,Fuel,Other Renewables,MW,,,
+India,IND,Madhya Pradesh,MP,state,2022,Capacity,Fuel,Solar,MW,2774.78,94.66,3.53
+India,IND,Madhya Pradesh,MP,state,2022,Capacity,Fuel,Wind,MW,2844.29,324.4,12.87
+India,IND,Madhya Pradesh,MP,state,2022,Electricity generation,Aggregate fuel,Clean,%,10.4,,
+India,IND,Madhya Pradesh,MP,state,2022,Electricity generation,Aggregate fuel,Fossil,%,89.59,,
+India,IND,Madhya Pradesh,MP,state,2022,Electricity generation,Aggregate fuel,Gas and Other Fossil,%,0.0,,
+India,IND,Madhya Pradesh,MP,state,2022,Electricity generation,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,4.88,,
+India,IND,Madhya Pradesh,MP,state,2022,Electricity generation,Aggregate fuel,Renewables,%,10.4,,
+India,IND,Madhya Pradesh,MP,state,2022,Electricity generation,Aggregate fuel,Wind and Solar,%,5.52,,
+India,IND,Madhya Pradesh,MP,state,2022,Electricity generation,Aggregate fuel,Clean,GWh,15928.43,2266.82,16.59
+India,IND,Madhya Pradesh,MP,state,2022,Electricity generation,Aggregate fuel,Fossil,GWh,137129.53,9218.19,7.21
+India,IND,Madhya Pradesh,MP,state,2022,Electricity generation,Aggregate fuel,Gas and Other Fossil,GWh,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2022,Electricity generation,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",GWh,7473.86,2145.95,40.28
+India,IND,Madhya Pradesh,MP,state,2022,Electricity generation,Aggregate fuel,Renewables,GWh,15928.43,2266.82,16.59
+India,IND,Madhya Pradesh,MP,state,2022,Electricity generation,Aggregate fuel,Wind and Solar,GWh,8454.57,120.87,1.45
+India,IND,Madhya Pradesh,MP,state,2022,Electricity generation,Fuel,Bioenergy,%,0.09,,
+India,IND,Madhya Pradesh,MP,state,2022,Electricity generation,Fuel,Coal,%,89.59,,
+India,IND,Madhya Pradesh,MP,state,2022,Electricity generation,Fuel,Gas,%,0.0,,
+India,IND,Madhya Pradesh,MP,state,2022,Electricity generation,Fuel,Hydro,%,4.77,,
+India,IND,Madhya Pradesh,MP,state,2022,Electricity generation,Fuel,Nuclear,%,0.0,,
+India,IND,Madhya Pradesh,MP,state,2022,Electricity generation,Fuel,Other Fossil,%,0.0,,
+India,IND,Madhya Pradesh,MP,state,2022,Electricity generation,Fuel,Other Renewables,%,0.02,,
+India,IND,Madhya Pradesh,MP,state,2022,Electricity generation,Fuel,Solar,%,2.62,,
+India,IND,Madhya Pradesh,MP,state,2022,Electricity generation,Fuel,Wind,%,2.9,,
+India,IND,Madhya Pradesh,MP,state,2022,Electricity generation,Fuel,Bioenergy,GWh,138.44,54.84,65.6
+India,IND,Madhya Pradesh,MP,state,2022,Electricity generation,Fuel,Coal,GWh,137129.53,9218.19,7.21
+India,IND,Madhya Pradesh,MP,state,2022,Electricity generation,Fuel,Gas,GWh,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2022,Electricity generation,Fuel,Hydro,GWh,7297.99,2088.03,40.08
+India,IND,Madhya Pradesh,MP,state,2022,Electricity generation,Fuel,Nuclear,GWh,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2022,Electricity generation,Fuel,Other Fossil,GWh,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2022,Electricity generation,Fuel,Other Renewables,GWh,37.43,3.08,8.97
+India,IND,Madhya Pradesh,MP,state,2022,Electricity generation,Fuel,Solar,GWh,4013.24,36.81,0.93
+India,IND,Madhya Pradesh,MP,state,2022,Electricity generation,Fuel,Wind,GWh,4441.33,84.06,1.93
+India,IND,Madhya Pradesh,MP,state,2022,Electricity generation,Total,Total Generation,GWh,153057.96,11485.01,8.11
+India,IND,Madhya Pradesh,MP,state,2022,Power sector emissions,Aggregate fuel,Clean,%,449.9,,
+India,IND,Madhya Pradesh,MP,state,2022,Power sector emissions,Aggregate fuel,Fossil,%,112446.22,,
+India,IND,Madhya Pradesh,MP,state,2022,Power sector emissions,Aggregate fuel,Gas and Other Fossil,%,0.0,,
+India,IND,Madhya Pradesh,MP,state,2022,Power sector emissions,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,208.41,,
+India,IND,Madhya Pradesh,MP,state,2022,Power sector emissions,Aggregate fuel,Renewables,%,449.9,,
+India,IND,Madhya Pradesh,MP,state,2022,Power sector emissions,Aggregate fuel,Wind and Solar,%,241.49,,
+India,IND,Madhya Pradesh,MP,state,2022,Power sector emissions,Aggregate fuel,Clean,ktCO2,449.9,65.52,17.05
+India,IND,Madhya Pradesh,MP,state,2022,Power sector emissions,Aggregate fuel,Fossil,ktCO2,112446.22,7558.92,7.21
+India,IND,Madhya Pradesh,MP,state,2022,Power sector emissions,Aggregate fuel,Gas and Other Fossil,ktCO2,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2022,Power sector emissions,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,208.41,62.83,43.16
+India,IND,Madhya Pradesh,MP,state,2022,Power sector emissions,Aggregate fuel,Renewables,ktCO2,449.9,65.52,17.05
+India,IND,Madhya Pradesh,MP,state,2022,Power sector emissions,Aggregate fuel,Wind and Solar,ktCO2,241.49,2.69,1.13
+India,IND,Madhya Pradesh,MP,state,2022,Power sector emissions,CO2 intensity,CO2 intensity,gCO2/kWh,737.6,-5.99,-0.81
+India,IND,Madhya Pradesh,MP,state,2022,Power sector emissions,Fuel,Bioenergy,%,31.84,,
+India,IND,Madhya Pradesh,MP,state,2022,Power sector emissions,Fuel,Coal,%,112446.22,,
+India,IND,Madhya Pradesh,MP,state,2022,Power sector emissions,Fuel,Gas,%,0.0,,
+India,IND,Madhya Pradesh,MP,state,2022,Power sector emissions,Fuel,Hydro,%,175.15,,
+India,IND,Madhya Pradesh,MP,state,2022,Power sector emissions,Fuel,Nuclear,%,0.0,,
+India,IND,Madhya Pradesh,MP,state,2022,Power sector emissions,Fuel,Other Fossil,%,0.0,,
+India,IND,Madhya Pradesh,MP,state,2022,Power sector emissions,Fuel,Other Renewables,%,1.42,,
+India,IND,Madhya Pradesh,MP,state,2022,Power sector emissions,Fuel,Solar,%,192.64,,
+India,IND,Madhya Pradesh,MP,state,2022,Power sector emissions,Fuel,Wind,%,48.85,,
+India,IND,Madhya Pradesh,MP,state,2022,Power sector emissions,Fuel,Bioenergy,ktCO2,31.84,12.61,65.57
+India,IND,Madhya Pradesh,MP,state,2022,Power sector emissions,Fuel,Coal,ktCO2,112446.22,7558.92,7.21
+India,IND,Madhya Pradesh,MP,state,2022,Power sector emissions,Fuel,Gas,ktCO2,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2022,Power sector emissions,Fuel,Hydro,ktCO2,175.15,50.11,40.08
+India,IND,Madhya Pradesh,MP,state,2022,Power sector emissions,Fuel,Nuclear,ktCO2,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2022,Power sector emissions,Fuel,Other Fossil,ktCO2,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2022,Power sector emissions,Fuel,Other Renewables,ktCO2,1.42,0.11,8.4
+India,IND,Madhya Pradesh,MP,state,2022,Power sector emissions,Fuel,Solar,ktCO2,192.64,1.77,0.93
+India,IND,Madhya Pradesh,MP,state,2022,Power sector emissions,Fuel,Wind,ktCO2,48.85,0.92,1.92
+India,IND,Madhya Pradesh,MP,state,2022,Power sector emissions,Total,Total emissions,ktCO2,112896.12,7624.44,7.24
+India,IND,Madhya Pradesh,MP,state,2023,Capacity,Aggregate fuel,Clean,MW,8507.99,398.46,4.91
+India,IND,Madhya Pradesh,MP,state,2023,Capacity,Aggregate fuel,Fossil,MW,22000.0,50.0,0.23
+India,IND,Madhya Pradesh,MP,state,2023,Capacity,Aggregate fuel,Gas and Other Fossil,MW,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2023,Capacity,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",MW,2493.65,3.19,0.13
+India,IND,Madhya Pradesh,MP,state,2023,Capacity,Aggregate fuel,Renewables,MW,8507.99,398.46,4.91
+India,IND,Madhya Pradesh,MP,state,2023,Capacity,Aggregate fuel,Wind and Solar,MW,6014.34,395.27,7.03
+India,IND,Madhya Pradesh,MP,state,2023,Capacity,Fuel,Bioenergy,MW,134.94,3.19,2.42
+India,IND,Madhya Pradesh,MP,state,2023,Capacity,Fuel,Coal,MW,22000.0,50.0,0.23
+India,IND,Madhya Pradesh,MP,state,2023,Capacity,Fuel,Gas,MW,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2023,Capacity,Fuel,Hydro,MW,2358.71,0.0,0.0
+India,IND,Madhya Pradesh,MP,state,2023,Capacity,Fuel,Nuclear,MW,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2023,Capacity,Fuel,Other Fossil,MW,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2023,Capacity,Fuel,Other Renewables,MW,,,
+India,IND,Madhya Pradesh,MP,state,2023,Capacity,Fuel,Solar,MW,3170.05,395.27,14.25
+India,IND,Madhya Pradesh,MP,state,2023,Capacity,Fuel,Wind,MW,2844.29,0.0,0.0
+India,IND,Madhya Pradesh,MP,state,2023,Electricity generation,Aggregate fuel,Clean,%,9.92,,
+India,IND,Madhya Pradesh,MP,state,2023,Electricity generation,Aggregate fuel,Fossil,%,90.08,,
+India,IND,Madhya Pradesh,MP,state,2023,Electricity generation,Aggregate fuel,Gas and Other Fossil,%,0.0,,
+India,IND,Madhya Pradesh,MP,state,2023,Electricity generation,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,4.63,,
+India,IND,Madhya Pradesh,MP,state,2023,Electricity generation,Aggregate fuel,Renewables,%,9.92,,
+India,IND,Madhya Pradesh,MP,state,2023,Electricity generation,Aggregate fuel,Wind and Solar,%,5.29,,
+India,IND,Madhya Pradesh,MP,state,2023,Electricity generation,Aggregate fuel,Clean,GWh,15866.85,-61.58,-0.39
+India,IND,Madhya Pradesh,MP,state,2023,Electricity generation,Aggregate fuel,Fossil,GWh,144146.17,7016.64,5.12
+India,IND,Madhya Pradesh,MP,state,2023,Electricity generation,Aggregate fuel,Gas and Other Fossil,GWh,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2023,Electricity generation,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",GWh,7406.89,-66.97,-0.9
+India,IND,Madhya Pradesh,MP,state,2023,Electricity generation,Aggregate fuel,Renewables,GWh,15866.85,-61.58,-0.39
+India,IND,Madhya Pradesh,MP,state,2023,Electricity generation,Aggregate fuel,Wind and Solar,GWh,8459.96,5.39,0.06
+India,IND,Madhya Pradesh,MP,state,2023,Electricity generation,Fuel,Bioenergy,%,0.12,,
+India,IND,Madhya Pradesh,MP,state,2023,Electricity generation,Fuel,Coal,%,90.08,,
+India,IND,Madhya Pradesh,MP,state,2023,Electricity generation,Fuel,Gas,%,0.0,,
+India,IND,Madhya Pradesh,MP,state,2023,Electricity generation,Fuel,Hydro,%,4.49,,
+India,IND,Madhya Pradesh,MP,state,2023,Electricity generation,Fuel,Nuclear,%,0.0,,
+India,IND,Madhya Pradesh,MP,state,2023,Electricity generation,Fuel,Other Fossil,%,0.0,,
+India,IND,Madhya Pradesh,MP,state,2023,Electricity generation,Fuel,Other Renewables,%,0.02,,
+India,IND,Madhya Pradesh,MP,state,2023,Electricity generation,Fuel,Solar,%,2.3,,
+India,IND,Madhya Pradesh,MP,state,2023,Electricity generation,Fuel,Wind,%,2.99,,
+India,IND,Madhya Pradesh,MP,state,2023,Electricity generation,Fuel,Bioenergy,GWh,186.42,47.98,34.66
+India,IND,Madhya Pradesh,MP,state,2023,Electricity generation,Fuel,Coal,GWh,144146.17,7016.64,5.12
+India,IND,Madhya Pradesh,MP,state,2023,Electricity generation,Fuel,Gas,GWh,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2023,Electricity generation,Fuel,Hydro,GWh,7190.14,-107.85,-1.48
+India,IND,Madhya Pradesh,MP,state,2023,Electricity generation,Fuel,Nuclear,GWh,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2023,Electricity generation,Fuel,Other Fossil,GWh,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2023,Electricity generation,Fuel,Other Renewables,GWh,30.33,-7.1,-18.97
+India,IND,Madhya Pradesh,MP,state,2023,Electricity generation,Fuel,Solar,GWh,3680.5,-332.74,-8.29
+India,IND,Madhya Pradesh,MP,state,2023,Electricity generation,Fuel,Wind,GWh,4779.46,338.13,7.61
+India,IND,Madhya Pradesh,MP,state,2023,Electricity generation,Total,Total Generation,GWh,160013.02,6955.06,4.54
+India,IND,Madhya Pradesh,MP,state,2023,Power sector emissions,Aggregate fuel,Clean,%,445.82,,
+India,IND,Madhya Pradesh,MP,state,2023,Power sector emissions,Aggregate fuel,Fossil,%,118199.86,,
+India,IND,Madhya Pradesh,MP,state,2023,Power sector emissions,Aggregate fuel,Gas and Other Fossil,%,0.0,,
+India,IND,Madhya Pradesh,MP,state,2023,Power sector emissions,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,216.59,,
+India,IND,Madhya Pradesh,MP,state,2023,Power sector emissions,Aggregate fuel,Renewables,%,445.82,,
+India,IND,Madhya Pradesh,MP,state,2023,Power sector emissions,Aggregate fuel,Wind and Solar,%,229.23,,
+India,IND,Madhya Pradesh,MP,state,2023,Power sector emissions,Aggregate fuel,Clean,ktCO2,445.82,-4.08,-0.91
+India,IND,Madhya Pradesh,MP,state,2023,Power sector emissions,Aggregate fuel,Fossil,ktCO2,118199.86,5753.64,5.12
+India,IND,Madhya Pradesh,MP,state,2023,Power sector emissions,Aggregate fuel,Gas and Other Fossil,ktCO2,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2023,Power sector emissions,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,216.59,8.18,3.92
+India,IND,Madhya Pradesh,MP,state,2023,Power sector emissions,Aggregate fuel,Renewables,ktCO2,445.82,-4.08,-0.91
+India,IND,Madhya Pradesh,MP,state,2023,Power sector emissions,Aggregate fuel,Wind and Solar,ktCO2,229.23,-12.26,-5.08
+India,IND,Madhya Pradesh,MP,state,2023,Power sector emissions,CO2 intensity,CO2 intensity,gCO2/kWh,741.48,3.88,0.53
+India,IND,Madhya Pradesh,MP,state,2023,Power sector emissions,Fuel,Bioenergy,%,42.88,,
+India,IND,Madhya Pradesh,MP,state,2023,Power sector emissions,Fuel,Coal,%,118199.86,,
+India,IND,Madhya Pradesh,MP,state,2023,Power sector emissions,Fuel,Gas,%,0.0,,
+India,IND,Madhya Pradesh,MP,state,2023,Power sector emissions,Fuel,Hydro,%,172.56,,
+India,IND,Madhya Pradesh,MP,state,2023,Power sector emissions,Fuel,Nuclear,%,0.0,,
+India,IND,Madhya Pradesh,MP,state,2023,Power sector emissions,Fuel,Other Fossil,%,0.0,,
+India,IND,Madhya Pradesh,MP,state,2023,Power sector emissions,Fuel,Other Renewables,%,1.15,,
+India,IND,Madhya Pradesh,MP,state,2023,Power sector emissions,Fuel,Solar,%,176.66,,
+India,IND,Madhya Pradesh,MP,state,2023,Power sector emissions,Fuel,Wind,%,52.57,,
+India,IND,Madhya Pradesh,MP,state,2023,Power sector emissions,Fuel,Bioenergy,ktCO2,42.88,11.04,34.67
+India,IND,Madhya Pradesh,MP,state,2023,Power sector emissions,Fuel,Coal,ktCO2,118199.86,5753.64,5.12
+India,IND,Madhya Pradesh,MP,state,2023,Power sector emissions,Fuel,Gas,ktCO2,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2023,Power sector emissions,Fuel,Hydro,ktCO2,172.56,-2.59,-1.48
+India,IND,Madhya Pradesh,MP,state,2023,Power sector emissions,Fuel,Nuclear,ktCO2,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2023,Power sector emissions,Fuel,Other Fossil,ktCO2,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2023,Power sector emissions,Fuel,Other Renewables,ktCO2,1.15,-0.27,-19.01
+India,IND,Madhya Pradesh,MP,state,2023,Power sector emissions,Fuel,Solar,ktCO2,176.66,-15.98,-8.3
+India,IND,Madhya Pradesh,MP,state,2023,Power sector emissions,Fuel,Wind,ktCO2,52.57,3.72,7.62
+India,IND,Madhya Pradesh,MP,state,2023,Power sector emissions,Total,Total emissions,ktCO2,118645.68,5749.56,5.09
+India,IND,Madhya Pradesh,MP,state,2024,Capacity,Aggregate fuel,Clean,MW,10311.94,1803.95,21.2
+India,IND,Madhya Pradesh,MP,state,2024,Capacity,Aggregate fuel,Fossil,MW,22000.0,0.0,0.0
+India,IND,Madhya Pradesh,MP,state,2024,Capacity,Aggregate fuel,Gas and Other Fossil,MW,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2024,Capacity,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",MW,2494.07,0.42,0.02
+India,IND,Madhya Pradesh,MP,state,2024,Capacity,Aggregate fuel,Renewables,MW,10311.94,1803.95,21.2
+India,IND,Madhya Pradesh,MP,state,2024,Capacity,Aggregate fuel,Wind and Solar,MW,7817.87,1803.53,29.99
+India,IND,Madhya Pradesh,MP,state,2024,Capacity,Fuel,Bioenergy,MW,135.36,0.42,0.31
+India,IND,Madhya Pradesh,MP,state,2024,Capacity,Fuel,Coal,MW,22000.0,0.0,0.0
+India,IND,Madhya Pradesh,MP,state,2024,Capacity,Fuel,Gas,MW,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2024,Capacity,Fuel,Hydro,MW,2358.71,0.0,0.0
+India,IND,Madhya Pradesh,MP,state,2024,Capacity,Fuel,Nuclear,MW,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2024,Capacity,Fuel,Other Fossil,MW,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2024,Capacity,Fuel,Other Renewables,MW,,,
+India,IND,Madhya Pradesh,MP,state,2024,Capacity,Fuel,Solar,MW,4973.58,1803.53,56.89
+India,IND,Madhya Pradesh,MP,state,2024,Capacity,Fuel,Wind,MW,2844.29,0.0,0.0
+India,IND,Madhya Pradesh,MP,state,2024,Electricity generation,Aggregate fuel,Clean,%,11.41,,
+India,IND,Madhya Pradesh,MP,state,2024,Electricity generation,Aggregate fuel,Fossil,%,88.59,,
+India,IND,Madhya Pradesh,MP,state,2024,Electricity generation,Aggregate fuel,Gas and Other Fossil,%,0.0,,
+India,IND,Madhya Pradesh,MP,state,2024,Electricity generation,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,4.91,,
+India,IND,Madhya Pradesh,MP,state,2024,Electricity generation,Aggregate fuel,Renewables,%,11.41,,
+India,IND,Madhya Pradesh,MP,state,2024,Electricity generation,Aggregate fuel,Wind and Solar,%,6.5,,
+India,IND,Madhya Pradesh,MP,state,2024,Electricity generation,Aggregate fuel,Clean,GWh,18848.16,2981.31,18.79
+India,IND,Madhya Pradesh,MP,state,2024,Electricity generation,Aggregate fuel,Fossil,GWh,146307.67,2161.5,1.5
+India,IND,Madhya Pradesh,MP,state,2024,Electricity generation,Aggregate fuel,Gas and Other Fossil,GWh,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2024,Electricity generation,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",GWh,8111.11,704.22,9.51
+India,IND,Madhya Pradesh,MP,state,2024,Electricity generation,Aggregate fuel,Renewables,GWh,18848.16,2981.31,18.79
+India,IND,Madhya Pradesh,MP,state,2024,Electricity generation,Aggregate fuel,Wind and Solar,GWh,10737.05,2277.09,26.92
+India,IND,Madhya Pradesh,MP,state,2024,Electricity generation,Fuel,Bioenergy,%,0.12,,
+India,IND,Madhya Pradesh,MP,state,2024,Electricity generation,Fuel,Coal,%,88.59,,
+India,IND,Madhya Pradesh,MP,state,2024,Electricity generation,Fuel,Gas,%,0.0,,
+India,IND,Madhya Pradesh,MP,state,2024,Electricity generation,Fuel,Hydro,%,4.76,,
+India,IND,Madhya Pradesh,MP,state,2024,Electricity generation,Fuel,Nuclear,%,0.0,,
+India,IND,Madhya Pradesh,MP,state,2024,Electricity generation,Fuel,Other Fossil,%,0.0,,
+India,IND,Madhya Pradesh,MP,state,2024,Electricity generation,Fuel,Other Renewables,%,0.03,,
+India,IND,Madhya Pradesh,MP,state,2024,Electricity generation,Fuel,Solar,%,3.65,,
+India,IND,Madhya Pradesh,MP,state,2024,Electricity generation,Fuel,Wind,%,2.85,,
+India,IND,Madhya Pradesh,MP,state,2024,Electricity generation,Fuel,Bioenergy,GWh,194.03,7.61,4.08
+India,IND,Madhya Pradesh,MP,state,2024,Electricity generation,Fuel,Coal,GWh,146307.67,2161.5,1.5
+India,IND,Madhya Pradesh,MP,state,2024,Electricity generation,Fuel,Gas,GWh,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2024,Electricity generation,Fuel,Hydro,GWh,7860.52,670.38,9.32
+India,IND,Madhya Pradesh,MP,state,2024,Electricity generation,Fuel,Nuclear,GWh,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2024,Electricity generation,Fuel,Other Fossil,GWh,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2024,Electricity generation,Fuel,Other Renewables,GWh,56.56,26.23,86.48
+India,IND,Madhya Pradesh,MP,state,2024,Electricity generation,Fuel,Solar,GWh,6032.96,2352.46,63.92
+India,IND,Madhya Pradesh,MP,state,2024,Electricity generation,Fuel,Wind,GWh,4704.09,-75.37,-1.58
+India,IND,Madhya Pradesh,MP,state,2024,Electricity generation,Total,Total Generation,GWh,165155.83,5142.81,3.21
+India,IND,Madhya Pradesh,MP,state,2024,Power sector emissions,Aggregate fuel,Clean,%,576.76,,
+India,IND,Madhya Pradesh,MP,state,2024,Power sector emissions,Aggregate fuel,Fossil,%,119972.29,,
+India,IND,Madhya Pradesh,MP,state,2024,Power sector emissions,Aggregate fuel,Gas and Other Fossil,%,0.0,,
+India,IND,Madhya Pradesh,MP,state,2024,Power sector emissions,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,235.43,,
+India,IND,Madhya Pradesh,MP,state,2024,Power sector emissions,Aggregate fuel,Renewables,%,576.76,,
+India,IND,Madhya Pradesh,MP,state,2024,Power sector emissions,Aggregate fuel,Wind and Solar,%,341.33,,
+India,IND,Madhya Pradesh,MP,state,2024,Power sector emissions,Aggregate fuel,Clean,ktCO2,576.76,130.94,29.37
+India,IND,Madhya Pradesh,MP,state,2024,Power sector emissions,Aggregate fuel,Fossil,ktCO2,119972.29,1772.43,1.5
+India,IND,Madhya Pradesh,MP,state,2024,Power sector emissions,Aggregate fuel,Gas and Other Fossil,ktCO2,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2024,Power sector emissions,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,235.43,18.84,8.7
+India,IND,Madhya Pradesh,MP,state,2024,Power sector emissions,Aggregate fuel,Renewables,ktCO2,576.76,130.94,29.37
+India,IND,Madhya Pradesh,MP,state,2024,Power sector emissions,Aggregate fuel,Wind and Solar,ktCO2,341.33,112.1,48.9
+India,IND,Madhya Pradesh,MP,state,2024,Power sector emissions,CO2 intensity,CO2 intensity,gCO2/kWh,729.91,-11.57,-1.56
+India,IND,Madhya Pradesh,MP,state,2024,Power sector emissions,Fuel,Bioenergy,%,44.63,,
+India,IND,Madhya Pradesh,MP,state,2024,Power sector emissions,Fuel,Coal,%,119972.29,,
+India,IND,Madhya Pradesh,MP,state,2024,Power sector emissions,Fuel,Gas,%,0.0,,
+India,IND,Madhya Pradesh,MP,state,2024,Power sector emissions,Fuel,Hydro,%,188.65,,
+India,IND,Madhya Pradesh,MP,state,2024,Power sector emissions,Fuel,Nuclear,%,0.0,,
+India,IND,Madhya Pradesh,MP,state,2024,Power sector emissions,Fuel,Other Fossil,%,0.0,,
+India,IND,Madhya Pradesh,MP,state,2024,Power sector emissions,Fuel,Other Renewables,%,2.15,,
+India,IND,Madhya Pradesh,MP,state,2024,Power sector emissions,Fuel,Solar,%,289.58,,
+India,IND,Madhya Pradesh,MP,state,2024,Power sector emissions,Fuel,Wind,%,51.75,,
+India,IND,Madhya Pradesh,MP,state,2024,Power sector emissions,Fuel,Bioenergy,ktCO2,44.63,1.75,4.08
+India,IND,Madhya Pradesh,MP,state,2024,Power sector emissions,Fuel,Coal,ktCO2,119972.29,1772.43,1.5
+India,IND,Madhya Pradesh,MP,state,2024,Power sector emissions,Fuel,Gas,ktCO2,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2024,Power sector emissions,Fuel,Hydro,ktCO2,188.65,16.09,9.32
+India,IND,Madhya Pradesh,MP,state,2024,Power sector emissions,Fuel,Nuclear,ktCO2,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2024,Power sector emissions,Fuel,Other Fossil,ktCO2,0.0,0.0,
+India,IND,Madhya Pradesh,MP,state,2024,Power sector emissions,Fuel,Other Renewables,ktCO2,2.15,1.0,86.96
+India,IND,Madhya Pradesh,MP,state,2024,Power sector emissions,Fuel,Solar,ktCO2,289.58,112.92,63.92
+India,IND,Madhya Pradesh,MP,state,2024,Power sector emissions,Fuel,Wind,ktCO2,51.75,-0.82,-1.56
+India,IND,Madhya Pradesh,MP,state,2024,Power sector emissions,Total,Total emissions,ktCO2,120549.05,1903.37,1.6
+India,IND,Uttar Pradesh,UP,state,2019,Capacity,Aggregate fuel,Clean,MW,4127.31,,
+India,IND,Uttar Pradesh,UP,state,2019,Capacity,Aggregate fuel,Fossil,MW,23902.14,,
+India,IND,Uttar Pradesh,UP,state,2019,Capacity,Aggregate fuel,Gas and Other Fossil,MW,1493.14,,
+India,IND,Uttar Pradesh,UP,state,2019,Capacity,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",MW,2642.21,,
+India,IND,Uttar Pradesh,UP,state,2019,Capacity,Aggregate fuel,Renewables,MW,3687.31,,
+India,IND,Uttar Pradesh,UP,state,2019,Capacity,Aggregate fuel,Wind and Solar,MW,1045.1,,
+India,IND,Uttar Pradesh,UP,state,2019,Capacity,Fuel,Bioenergy,MW,2115.51,,
+India,IND,Uttar Pradesh,UP,state,2019,Capacity,Fuel,Coal,MW,22409.0,,
+India,IND,Uttar Pradesh,UP,state,2019,Capacity,Fuel,Gas,MW,1493.14,,
+India,IND,Uttar Pradesh,UP,state,2019,Capacity,Fuel,Hydro,MW,526.7,,
+India,IND,Uttar Pradesh,UP,state,2019,Capacity,Fuel,Nuclear,MW,440.0,,
+India,IND,Uttar Pradesh,UP,state,2019,Capacity,Fuel,Other Fossil,MW,0.0,,
+India,IND,Uttar Pradesh,UP,state,2019,Capacity,Fuel,Other Renewables,MW,0.0,,
+India,IND,Uttar Pradesh,UP,state,2019,Capacity,Fuel,Solar,MW,1045.1,,
+India,IND,Uttar Pradesh,UP,state,2019,Capacity,Fuel,Wind,MW,0.0,,
+India,IND,Uttar Pradesh,UP,state,2019,Electricity generation,Aggregate fuel,Clean,%,7.59,,
+India,IND,Uttar Pradesh,UP,state,2019,Electricity generation,Aggregate fuel,Fossil,%,92.41,,
+India,IND,Uttar Pradesh,UP,state,2019,Electricity generation,Aggregate fuel,Gas and Other Fossil,%,1.63,,
+India,IND,Uttar Pradesh,UP,state,2019,Electricity generation,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,3.85,,
+India,IND,Uttar Pradesh,UP,state,2019,Electricity generation,Aggregate fuel,Renewables,%,4.9,,
+India,IND,Uttar Pradesh,UP,state,2019,Electricity generation,Aggregate fuel,Wind and Solar,%,1.05,,
+India,IND,Uttar Pradesh,UP,state,2019,Electricity generation,Aggregate fuel,Clean,GWh,9819.64,,
+India,IND,Uttar Pradesh,UP,state,2019,Electricity generation,Aggregate fuel,Fossil,GWh,119461.46,,
+India,IND,Uttar Pradesh,UP,state,2019,Electricity generation,Aggregate fuel,Gas and Other Fossil,GWh,2101.88,,
+India,IND,Uttar Pradesh,UP,state,2019,Electricity generation,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",GWh,4983.8,,
+India,IND,Uttar Pradesh,UP,state,2019,Electricity generation,Aggregate fuel,Renewables,GWh,6347.06,,
+India,IND,Uttar Pradesh,UP,state,2019,Electricity generation,Aggregate fuel,Wind and Solar,GWh,1363.26,,
+India,IND,Uttar Pradesh,UP,state,2019,Electricity generation,Fuel,Bioenergy,%,3.01,,
+India,IND,Uttar Pradesh,UP,state,2019,Electricity generation,Fuel,Coal,%,90.78,,
+India,IND,Uttar Pradesh,UP,state,2019,Electricity generation,Fuel,Gas,%,1.63,,
+India,IND,Uttar Pradesh,UP,state,2019,Electricity generation,Fuel,Hydro,%,0.84,,
+India,IND,Uttar Pradesh,UP,state,2019,Electricity generation,Fuel,Nuclear,%,2.69,,
+India,IND,Uttar Pradesh,UP,state,2019,Electricity generation,Fuel,Other Fossil,%,0.0,,
+India,IND,Uttar Pradesh,UP,state,2019,Electricity generation,Fuel,Other Renewables,%,0.0,,
+India,IND,Uttar Pradesh,UP,state,2019,Electricity generation,Fuel,Solar,%,1.05,,
+India,IND,Uttar Pradesh,UP,state,2019,Electricity generation,Fuel,Wind,%,0.0,,
+India,IND,Uttar Pradesh,UP,state,2019,Electricity generation,Fuel,Bioenergy,GWh,3894.94,,
+India,IND,Uttar Pradesh,UP,state,2019,Electricity generation,Fuel,Coal,GWh,117359.58,,
+India,IND,Uttar Pradesh,UP,state,2019,Electricity generation,Fuel,Gas,GWh,2101.88,,
+India,IND,Uttar Pradesh,UP,state,2019,Electricity generation,Fuel,Hydro,GWh,1088.86,,
+India,IND,Uttar Pradesh,UP,state,2019,Electricity generation,Fuel,Nuclear,GWh,3472.58,,
+India,IND,Uttar Pradesh,UP,state,2019,Electricity generation,Fuel,Other Fossil,GWh,0.0,,
+India,IND,Uttar Pradesh,UP,state,2019,Electricity generation,Fuel,Other Renewables,GWh,0.0,,
+India,IND,Uttar Pradesh,UP,state,2019,Electricity generation,Fuel,Solar,GWh,1363.26,,
+India,IND,Uttar Pradesh,UP,state,2019,Electricity generation,Fuel,Wind,GWh,0.0,,
+India,IND,Uttar Pradesh,UP,state,2019,Electricity generation,Total,Total Generation,GWh,129281.1,,
+India,IND,Uttar Pradesh,UP,state,2019,Power sector emissions,Aggregate fuel,Clean,%,1029.08,,
+India,IND,Uttar Pradesh,UP,state,2019,Power sector emissions,Aggregate fuel,Fossil,%,97264.77,,
+India,IND,Uttar Pradesh,UP,state,2019,Power sector emissions,Aggregate fuel,Gas and Other Fossil,%,1029.92,,
+India,IND,Uttar Pradesh,UP,state,2019,Power sector emissions,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,921.97,,
+India,IND,Uttar Pradesh,UP,state,2019,Power sector emissions,Aggregate fuel,Renewables,%,987.41,,
+India,IND,Uttar Pradesh,UP,state,2019,Power sector emissions,Aggregate fuel,Wind and Solar,%,65.44,,
+India,IND,Uttar Pradesh,UP,state,2019,Power sector emissions,Aggregate fuel,Clean,ktCO2,1029.08,,
+India,IND,Uttar Pradesh,UP,state,2019,Power sector emissions,Aggregate fuel,Fossil,ktCO2,97264.77,,
+India,IND,Uttar Pradesh,UP,state,2019,Power sector emissions,Aggregate fuel,Gas and Other Fossil,ktCO2,1029.92,,
+India,IND,Uttar Pradesh,UP,state,2019,Power sector emissions,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,921.97,,
+India,IND,Uttar Pradesh,UP,state,2019,Power sector emissions,Aggregate fuel,Renewables,ktCO2,987.41,,
+India,IND,Uttar Pradesh,UP,state,2019,Power sector emissions,Aggregate fuel,Wind and Solar,ktCO2,65.44,,
+India,IND,Uttar Pradesh,UP,state,2019,Power sector emissions,CO2 intensity,CO2 intensity,gCO2/kWh,760.31,,
+India,IND,Uttar Pradesh,UP,state,2019,Power sector emissions,Fuel,Bioenergy,%,895.84,,
+India,IND,Uttar Pradesh,UP,state,2019,Power sector emissions,Fuel,Coal,%,96234.85,,
+India,IND,Uttar Pradesh,UP,state,2019,Power sector emissions,Fuel,Gas,%,1029.92,,
+India,IND,Uttar Pradesh,UP,state,2019,Power sector emissions,Fuel,Hydro,%,26.13,,
+India,IND,Uttar Pradesh,UP,state,2019,Power sector emissions,Fuel,Nuclear,%,41.67,,
+India,IND,Uttar Pradesh,UP,state,2019,Power sector emissions,Fuel,Other Fossil,%,0.0,,
+India,IND,Uttar Pradesh,UP,state,2019,Power sector emissions,Fuel,Other Renewables,%,0.0,,
+India,IND,Uttar Pradesh,UP,state,2019,Power sector emissions,Fuel,Solar,%,65.44,,
+India,IND,Uttar Pradesh,UP,state,2019,Power sector emissions,Fuel,Wind,%,0.0,,
+India,IND,Uttar Pradesh,UP,state,2019,Power sector emissions,Fuel,Bioenergy,ktCO2,895.84,,
+India,IND,Uttar Pradesh,UP,state,2019,Power sector emissions,Fuel,Coal,ktCO2,96234.85,,
+India,IND,Uttar Pradesh,UP,state,2019,Power sector emissions,Fuel,Gas,ktCO2,1029.92,,
+India,IND,Uttar Pradesh,UP,state,2019,Power sector emissions,Fuel,Hydro,ktCO2,26.13,,
+India,IND,Uttar Pradesh,UP,state,2019,Power sector emissions,Fuel,Nuclear,ktCO2,41.67,,
+India,IND,Uttar Pradesh,UP,state,2019,Power sector emissions,Fuel,Other Fossil,ktCO2,0.0,,
+India,IND,Uttar Pradesh,UP,state,2019,Power sector emissions,Fuel,Other Renewables,ktCO2,0.0,,
+India,IND,Uttar Pradesh,UP,state,2019,Power sector emissions,Fuel,Solar,ktCO2,65.44,,
+India,IND,Uttar Pradesh,UP,state,2019,Power sector emissions,Fuel,Wind,ktCO2,0.0,,
+India,IND,Uttar Pradesh,UP,state,2019,Power sector emissions,Total,Total emissions,ktCO2,98293.85,,
+India,IND,Uttar Pradesh,UP,state,2020,Capacity,Aggregate fuel,Clean,MW,4400.81,273.5,6.63
+India,IND,Uttar Pradesh,UP,state,2020,Capacity,Aggregate fuel,Fossil,MW,23902.14,0.0,0.0
+India,IND,Uttar Pradesh,UP,state,2020,Capacity,Aggregate fuel,Gas and Other Fossil,MW,1493.14,0.0,0.0
+India,IND,Uttar Pradesh,UP,state,2020,Capacity,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",MW,2667.96,25.75,0.97
+India,IND,Uttar Pradesh,UP,state,2020,Capacity,Aggregate fuel,Renewables,MW,3960.81,273.5,7.42
+India,IND,Uttar Pradesh,UP,state,2020,Capacity,Aggregate fuel,Wind and Solar,MW,1292.85,247.75,23.71
+India,IND,Uttar Pradesh,UP,state,2020,Capacity,Fuel,Bioenergy,MW,2117.26,1.75,0.08
+India,IND,Uttar Pradesh,UP,state,2020,Capacity,Fuel,Coal,MW,22409.0,0.0,0.0
+India,IND,Uttar Pradesh,UP,state,2020,Capacity,Fuel,Gas,MW,1493.14,0.0,0.0
+India,IND,Uttar Pradesh,UP,state,2020,Capacity,Fuel,Hydro,MW,550.7,24.0,4.56
+India,IND,Uttar Pradesh,UP,state,2020,Capacity,Fuel,Nuclear,MW,440.0,0.0,0.0
+India,IND,Uttar Pradesh,UP,state,2020,Capacity,Fuel,Other Fossil,MW,0.0,0.0,
+India,IND,Uttar Pradesh,UP,state,2020,Capacity,Fuel,Other Renewables,MW,0.0,0.0,
+India,IND,Uttar Pradesh,UP,state,2020,Capacity,Fuel,Solar,MW,1292.85,247.75,23.71
+India,IND,Uttar Pradesh,UP,state,2020,Capacity,Fuel,Wind,MW,0.0,0.0,
+India,IND,Uttar Pradesh,UP,state,2020,Electricity generation,Aggregate fuel,Clean,%,8.49,,
+India,IND,Uttar Pradesh,UP,state,2020,Electricity generation,Aggregate fuel,Fossil,%,91.51,,
+India,IND,Uttar Pradesh,UP,state,2020,Electricity generation,Aggregate fuel,Gas and Other Fossil,%,2.25,,
+India,IND,Uttar Pradesh,UP,state,2020,Electricity generation,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,4.34,,
+India,IND,Uttar Pradesh,UP,state,2020,Electricity generation,Aggregate fuel,Renewables,%,5.65,,
+India,IND,Uttar Pradesh,UP,state,2020,Electricity generation,Aggregate fuel,Wind and Solar,%,1.31,,
+India,IND,Uttar Pradesh,UP,state,2020,Electricity generation,Aggregate fuel,Clean,GWh,10855.8,1036.16,10.55
+India,IND,Uttar Pradesh,UP,state,2020,Electricity generation,Aggregate fuel,Fossil,GWh,117070.82,-2390.64,-2.0
+India,IND,Uttar Pradesh,UP,state,2020,Electricity generation,Aggregate fuel,Gas and Other Fossil,GWh,2880.15,778.27,37.03
+India,IND,Uttar Pradesh,UP,state,2020,Electricity generation,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",GWh,5551.46,567.66,11.39
+India,IND,Uttar Pradesh,UP,state,2020,Electricity generation,Aggregate fuel,Renewables,GWh,7223.09,876.03,13.8
+India,IND,Uttar Pradesh,UP,state,2020,Electricity generation,Aggregate fuel,Wind and Solar,GWh,1671.63,308.37,22.62
+India,IND,Uttar Pradesh,UP,state,2020,Electricity generation,Fuel,Bioenergy,%,2.95,,
+India,IND,Uttar Pradesh,UP,state,2020,Electricity generation,Fuel,Coal,%,89.26,,
+India,IND,Uttar Pradesh,UP,state,2020,Electricity generation,Fuel,Gas,%,2.25,,
+India,IND,Uttar Pradesh,UP,state,2020,Electricity generation,Fuel,Hydro,%,1.39,,
+India,IND,Uttar Pradesh,UP,state,2020,Electricity generation,Fuel,Nuclear,%,2.84,,
+India,IND,Uttar Pradesh,UP,state,2020,Electricity generation,Fuel,Other Fossil,%,0.0,,
+India,IND,Uttar Pradesh,UP,state,2020,Electricity generation,Fuel,Other Renewables,%,0.0,,
+India,IND,Uttar Pradesh,UP,state,2020,Electricity generation,Fuel,Solar,%,1.31,,
+India,IND,Uttar Pradesh,UP,state,2020,Electricity generation,Fuel,Wind,%,0.0,,
+India,IND,Uttar Pradesh,UP,state,2020,Electricity generation,Fuel,Bioenergy,GWh,3776.54,-118.4,-3.04
+India,IND,Uttar Pradesh,UP,state,2020,Electricity generation,Fuel,Coal,GWh,114190.67,-3168.91,-2.7
+India,IND,Uttar Pradesh,UP,state,2020,Electricity generation,Fuel,Gas,GWh,2880.15,778.27,37.03
+India,IND,Uttar Pradesh,UP,state,2020,Electricity generation,Fuel,Hydro,GWh,1774.92,686.06,63.01
+India,IND,Uttar Pradesh,UP,state,2020,Electricity generation,Fuel,Nuclear,GWh,3632.71,160.13,4.61
+India,IND,Uttar Pradesh,UP,state,2020,Electricity generation,Fuel,Other Fossil,GWh,0.0,0.0,
+India,IND,Uttar Pradesh,UP,state,2020,Electricity generation,Fuel,Other Renewables,GWh,0.0,0.0,
+India,IND,Uttar Pradesh,UP,state,2020,Electricity generation,Fuel,Solar,GWh,1671.63,308.37,22.62
+India,IND,Uttar Pradesh,UP,state,2020,Electricity generation,Fuel,Wind,GWh,0.0,0.0,
+India,IND,Uttar Pradesh,UP,state,2020,Electricity generation,Total,Total Generation,GWh,127926.62,-1354.48,-1.05
+India,IND,Uttar Pradesh,UP,state,2020,Power sector emissions,Aggregate fuel,Clean,%,1035.03,,
+India,IND,Uttar Pradesh,UP,state,2020,Power sector emissions,Aggregate fuel,Fossil,%,95047.62,,
+India,IND,Uttar Pradesh,UP,state,2020,Power sector emissions,Aggregate fuel,Gas and Other Fossil,%,1411.27,,
+India,IND,Uttar Pradesh,UP,state,2020,Power sector emissions,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,911.2,,
+India,IND,Uttar Pradesh,UP,state,2020,Power sector emissions,Aggregate fuel,Renewables,%,991.44,,
+India,IND,Uttar Pradesh,UP,state,2020,Power sector emissions,Aggregate fuel,Wind and Solar,%,80.24,,
+India,IND,Uttar Pradesh,UP,state,2020,Power sector emissions,Aggregate fuel,Clean,ktCO2,1035.03,5.95,0.58
+India,IND,Uttar Pradesh,UP,state,2020,Power sector emissions,Aggregate fuel,Fossil,ktCO2,95047.62,-2217.15,-2.28
+India,IND,Uttar Pradesh,UP,state,2020,Power sector emissions,Aggregate fuel,Gas and Other Fossil,ktCO2,1411.27,381.35,37.03
+India,IND,Uttar Pradesh,UP,state,2020,Power sector emissions,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,911.2,-10.77,-1.17
+India,IND,Uttar Pradesh,UP,state,2020,Power sector emissions,Aggregate fuel,Renewables,ktCO2,991.44,4.03,0.41
+India,IND,Uttar Pradesh,UP,state,2020,Power sector emissions,Aggregate fuel,Wind and Solar,ktCO2,80.24,14.8,22.62
+India,IND,Uttar Pradesh,UP,state,2020,Power sector emissions,CO2 intensity,CO2 intensity,gCO2/kWh,751.08,-9.23,-1.21
+India,IND,Uttar Pradesh,UP,state,2020,Power sector emissions,Fuel,Bioenergy,%,868.6,,
+India,IND,Uttar Pradesh,UP,state,2020,Power sector emissions,Fuel,Coal,%,93636.35,,
+India,IND,Uttar Pradesh,UP,state,2020,Power sector emissions,Fuel,Gas,%,1411.27,,
+India,IND,Uttar Pradesh,UP,state,2020,Power sector emissions,Fuel,Hydro,%,42.6,,
+India,IND,Uttar Pradesh,UP,state,2020,Power sector emissions,Fuel,Nuclear,%,43.59,,
+India,IND,Uttar Pradesh,UP,state,2020,Power sector emissions,Fuel,Other Fossil,%,0.0,,
+India,IND,Uttar Pradesh,UP,state,2020,Power sector emissions,Fuel,Other Renewables,%,0.0,,
+India,IND,Uttar Pradesh,UP,state,2020,Power sector emissions,Fuel,Solar,%,80.24,,
+India,IND,Uttar Pradesh,UP,state,2020,Power sector emissions,Fuel,Wind,%,0.0,,
+India,IND,Uttar Pradesh,UP,state,2020,Power sector emissions,Fuel,Bioenergy,ktCO2,868.6,-27.24,-3.04
+India,IND,Uttar Pradesh,UP,state,2020,Power sector emissions,Fuel,Coal,ktCO2,93636.35,-2598.5,-2.7
+India,IND,Uttar Pradesh,UP,state,2020,Power sector emissions,Fuel,Gas,ktCO2,1411.27,381.35,37.03
+India,IND,Uttar Pradesh,UP,state,2020,Power sector emissions,Fuel,Hydro,ktCO2,42.6,16.47,63.03
+India,IND,Uttar Pradesh,UP,state,2020,Power sector emissions,Fuel,Nuclear,ktCO2,43.59,1.92,4.61
+India,IND,Uttar Pradesh,UP,state,2020,Power sector emissions,Fuel,Other Fossil,ktCO2,0.0,0.0,
+India,IND,Uttar Pradesh,UP,state,2020,Power sector emissions,Fuel,Other Renewables,ktCO2,0.0,0.0,
+India,IND,Uttar Pradesh,UP,state,2020,Power sector emissions,Fuel,Solar,ktCO2,80.24,14.8,22.62
+India,IND,Uttar Pradesh,UP,state,2020,Power sector emissions,Fuel,Wind,ktCO2,0.0,0.0,
+India,IND,Uttar Pradesh,UP,state,2020,Power sector emissions,Total,Total emissions,ktCO2,96082.65,-2211.2,-2.25
+India,IND,Uttar Pradesh,UP,state,2021,Capacity,Aggregate fuel,Clean,MW,5344.36,943.55,21.44
+India,IND,Uttar Pradesh,UP,state,2021,Capacity,Aggregate fuel,Fossil,MW,25222.14,1320.0,5.52
+India,IND,Uttar Pradesh,UP,state,2021,Capacity,Aggregate fuel,Gas and Other Fossil,MW,1493.14,0.0,0.0
+India,IND,Uttar Pradesh,UP,state,2021,Capacity,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",MW,2730.37,62.41,2.34
+India,IND,Uttar Pradesh,UP,state,2021,Capacity,Aggregate fuel,Renewables,MW,4904.36,943.55,23.82
+India,IND,Uttar Pradesh,UP,state,2021,Capacity,Aggregate fuel,Wind and Solar,MW,2173.99,881.14,68.15
+India,IND,Uttar Pradesh,UP,state,2021,Capacity,Fuel,Bioenergy,MW,2179.67,62.41,2.95
+India,IND,Uttar Pradesh,UP,state,2021,Capacity,Fuel,Coal,MW,23729.0,1320.0,5.89
+India,IND,Uttar Pradesh,UP,state,2021,Capacity,Fuel,Gas,MW,1493.14,0.0,0.0
+India,IND,Uttar Pradesh,UP,state,2021,Capacity,Fuel,Hydro,MW,550.7,0.0,0.0
+India,IND,Uttar Pradesh,UP,state,2021,Capacity,Fuel,Nuclear,MW,440.0,0.0,0.0
+India,IND,Uttar Pradesh,UP,state,2021,Capacity,Fuel,Other Fossil,MW,0.0,0.0,
+India,IND,Uttar Pradesh,UP,state,2021,Capacity,Fuel,Other Renewables,MW,0.0,0.0,
+India,IND,Uttar Pradesh,UP,state,2021,Capacity,Fuel,Solar,MW,2173.99,881.14,68.15
+India,IND,Uttar Pradesh,UP,state,2021,Capacity,Fuel,Wind,MW,0.0,0.0,
+India,IND,Uttar Pradesh,UP,state,2021,Electricity generation,Aggregate fuel,Clean,%,7.68,,
+India,IND,Uttar Pradesh,UP,state,2021,Electricity generation,Aggregate fuel,Fossil,%,92.33,,
+India,IND,Uttar Pradesh,UP,state,2021,Electricity generation,Aggregate fuel,Gas and Other Fossil,%,0.91,,
+India,IND,Uttar Pradesh,UP,state,2021,Electricity generation,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,3.46,,
+India,IND,Uttar Pradesh,UP,state,2021,Electricity generation,Aggregate fuel,Renewables,%,5.37,,
+India,IND,Uttar Pradesh,UP,state,2021,Electricity generation,Aggregate fuel,Wind and Solar,%,1.91,,
+India,IND,Uttar Pradesh,UP,state,2021,Electricity generation,Aggregate fuel,Clean,GWh,10822.74,-33.06,-0.3
+India,IND,Uttar Pradesh,UP,state,2021,Electricity generation,Aggregate fuel,Fossil,GWh,130260.11,13189.29,11.27
+India,IND,Uttar Pradesh,UP,state,2021,Electricity generation,Aggregate fuel,Gas and Other Fossil,GWh,1280.16,-1599.99,-55.55
+India,IND,Uttar Pradesh,UP,state,2021,Electricity generation,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",GWh,4879.77,-671.69,-12.1
+India,IND,Uttar Pradesh,UP,state,2021,Electricity generation,Aggregate fuel,Renewables,GWh,7568.72,345.63,4.79
+India,IND,Uttar Pradesh,UP,state,2021,Electricity generation,Aggregate fuel,Wind and Solar,GWh,2688.95,1017.32,60.86
+India,IND,Uttar Pradesh,UP,state,2021,Electricity generation,Fuel,Bioenergy,%,2.37,,
+India,IND,Uttar Pradesh,UP,state,2021,Electricity generation,Fuel,Coal,%,91.42,,
+India,IND,Uttar Pradesh,UP,state,2021,Electricity generation,Fuel,Gas,%,0.91,,
+India,IND,Uttar Pradesh,UP,state,2021,Electricity generation,Fuel,Hydro,%,1.08,,
+India,IND,Uttar Pradesh,UP,state,2021,Electricity generation,Fuel,Nuclear,%,2.31,,
+India,IND,Uttar Pradesh,UP,state,2021,Electricity generation,Fuel,Other Fossil,%,0.0,,
+India,IND,Uttar Pradesh,UP,state,2021,Electricity generation,Fuel,Other Renewables,%,0.01,,
+India,IND,Uttar Pradesh,UP,state,2021,Electricity generation,Fuel,Solar,%,1.91,,
+India,IND,Uttar Pradesh,UP,state,2021,Electricity generation,Fuel,Wind,%,0.0,,
+India,IND,Uttar Pradesh,UP,state,2021,Electricity generation,Fuel,Bioenergy,GWh,3346.64,-429.9,-11.38
+India,IND,Uttar Pradesh,UP,state,2021,Electricity generation,Fuel,Coal,GWh,128979.95,14789.28,12.95
+India,IND,Uttar Pradesh,UP,state,2021,Electricity generation,Fuel,Gas,GWh,1280.16,-1599.99,-55.55
+India,IND,Uttar Pradesh,UP,state,2021,Electricity generation,Fuel,Hydro,GWh,1520.63,-254.29,-14.33
+India,IND,Uttar Pradesh,UP,state,2021,Electricity generation,Fuel,Nuclear,GWh,3254.02,-378.69,-10.42
+India,IND,Uttar Pradesh,UP,state,2021,Electricity generation,Fuel,Other Fossil,GWh,0.0,0.0,
+India,IND,Uttar Pradesh,UP,state,2021,Electricity generation,Fuel,Other Renewables,GWh,12.5,12.5,
+India,IND,Uttar Pradesh,UP,state,2021,Electricity generation,Fuel,Solar,GWh,2688.95,1017.32,60.86
+India,IND,Uttar Pradesh,UP,state,2021,Electricity generation,Fuel,Wind,GWh,0.0,0.0,
+India,IND,Uttar Pradesh,UP,state,2021,Electricity generation,Total,Total Generation,GWh,141082.85,13156.23,10.28
+India,IND,Uttar Pradesh,UP,state,2021,Power sector emissions,Aggregate fuel,Clean,%,974.83,,
+India,IND,Uttar Pradesh,UP,state,2021,Power sector emissions,Aggregate fuel,Fossil,%,106390.84,,
+India,IND,Uttar Pradesh,UP,state,2021,Power sector emissions,Aggregate fuel,Gas and Other Fossil,%,627.28,,
+India,IND,Uttar Pradesh,UP,state,2021,Power sector emissions,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,806.71,,
+India,IND,Uttar Pradesh,UP,state,2021,Power sector emissions,Aggregate fuel,Renewables,%,935.78,,
+India,IND,Uttar Pradesh,UP,state,2021,Power sector emissions,Aggregate fuel,Wind and Solar,%,129.07,,
+India,IND,Uttar Pradesh,UP,state,2021,Power sector emissions,Aggregate fuel,Clean,ktCO2,974.83,-60.2,-5.82
+India,IND,Uttar Pradesh,UP,state,2021,Power sector emissions,Aggregate fuel,Fossil,ktCO2,106390.84,11343.22,11.93
+India,IND,Uttar Pradesh,UP,state,2021,Power sector emissions,Aggregate fuel,Gas and Other Fossil,ktCO2,627.28,-783.99,-55.55
+India,IND,Uttar Pradesh,UP,state,2021,Power sector emissions,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,806.71,-104.49,-11.47
+India,IND,Uttar Pradesh,UP,state,2021,Power sector emissions,Aggregate fuel,Renewables,ktCO2,935.78,-55.66,-5.61
+India,IND,Uttar Pradesh,UP,state,2021,Power sector emissions,Aggregate fuel,Wind and Solar,ktCO2,129.07,48.83,60.85
+India,IND,Uttar Pradesh,UP,state,2021,Power sector emissions,CO2 intensity,CO2 intensity,gCO2/kWh,761.01,9.93,1.32
+India,IND,Uttar Pradesh,UP,state,2021,Power sector emissions,Fuel,Bioenergy,%,769.73,,
+India,IND,Uttar Pradesh,UP,state,2021,Power sector emissions,Fuel,Coal,%,105763.56,,
+India,IND,Uttar Pradesh,UP,state,2021,Power sector emissions,Fuel,Gas,%,627.28,,
+India,IND,Uttar Pradesh,UP,state,2021,Power sector emissions,Fuel,Hydro,%,36.5,,
+India,IND,Uttar Pradesh,UP,state,2021,Power sector emissions,Fuel,Nuclear,%,39.05,,
+India,IND,Uttar Pradesh,UP,state,2021,Power sector emissions,Fuel,Other Fossil,%,0.0,,
+India,IND,Uttar Pradesh,UP,state,2021,Power sector emissions,Fuel,Other Renewables,%,0.48,,
+India,IND,Uttar Pradesh,UP,state,2021,Power sector emissions,Fuel,Solar,%,129.07,,
+India,IND,Uttar Pradesh,UP,state,2021,Power sector emissions,Fuel,Wind,%,0.0,,
+India,IND,Uttar Pradesh,UP,state,2021,Power sector emissions,Fuel,Bioenergy,ktCO2,769.73,-98.87,-11.38
+India,IND,Uttar Pradesh,UP,state,2021,Power sector emissions,Fuel,Coal,ktCO2,105763.56,12127.21,12.95
+India,IND,Uttar Pradesh,UP,state,2021,Power sector emissions,Fuel,Gas,ktCO2,627.28,-783.99,-55.55
+India,IND,Uttar Pradesh,UP,state,2021,Power sector emissions,Fuel,Hydro,ktCO2,36.5,-6.1,-14.32
+India,IND,Uttar Pradesh,UP,state,2021,Power sector emissions,Fuel,Nuclear,ktCO2,39.05,-4.54,-10.42
+India,IND,Uttar Pradesh,UP,state,2021,Power sector emissions,Fuel,Other Fossil,ktCO2,0.0,0.0,
+India,IND,Uttar Pradesh,UP,state,2021,Power sector emissions,Fuel,Other Renewables,ktCO2,0.48,0.48,
+India,IND,Uttar Pradesh,UP,state,2021,Power sector emissions,Fuel,Solar,ktCO2,129.07,48.83,60.85
+India,IND,Uttar Pradesh,UP,state,2021,Power sector emissions,Fuel,Wind,ktCO2,0.0,0.0,
+India,IND,Uttar Pradesh,UP,state,2021,Power sector emissions,Total,Total emissions,ktCO2,107365.67,11283.02,11.74
+India,IND,Uttar Pradesh,UP,state,2022,Capacity,Aggregate fuel,Clean,MW,5668.75,324.39,6.07
+India,IND,Uttar Pradesh,UP,state,2022,Capacity,Aggregate fuel,Fossil,MW,25788.14,566.0,2.24
+India,IND,Uttar Pradesh,UP,state,2022,Capacity,Aggregate fuel,Gas and Other Fossil,MW,1493.14,0.0,0.0
+India,IND,Uttar Pradesh,UP,state,2022,Capacity,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",MW,2743.59,13.22,0.48
+India,IND,Uttar Pradesh,UP,state,2022,Capacity,Aggregate fuel,Renewables,MW,5228.75,324.39,6.61
+India,IND,Uttar Pradesh,UP,state,2022,Capacity,Aggregate fuel,Wind and Solar,MW,2485.16,311.17,14.31
+India,IND,Uttar Pradesh,UP,state,2022,Capacity,Fuel,Bioenergy,MW,2192.89,13.22,0.61
+India,IND,Uttar Pradesh,UP,state,2022,Capacity,Fuel,Coal,MW,24295.0,566.0,2.39
+India,IND,Uttar Pradesh,UP,state,2022,Capacity,Fuel,Gas,MW,1493.14,0.0,0.0
+India,IND,Uttar Pradesh,UP,state,2022,Capacity,Fuel,Hydro,MW,550.7,0.0,0.0
+India,IND,Uttar Pradesh,UP,state,2022,Capacity,Fuel,Nuclear,MW,440.0,0.0,0.0
+India,IND,Uttar Pradesh,UP,state,2022,Capacity,Fuel,Other Fossil,MW,0.0,0.0,
+India,IND,Uttar Pradesh,UP,state,2022,Capacity,Fuel,Other Renewables,MW,,,
+India,IND,Uttar Pradesh,UP,state,2022,Capacity,Fuel,Solar,MW,2485.16,311.17,14.31
+India,IND,Uttar Pradesh,UP,state,2022,Capacity,Fuel,Wind,MW,0.0,0.0,
+India,IND,Uttar Pradesh,UP,state,2022,Electricity generation,Aggregate fuel,Clean,%,6.98,,
+India,IND,Uttar Pradesh,UP,state,2022,Electricity generation,Aggregate fuel,Fossil,%,93.01,,
+India,IND,Uttar Pradesh,UP,state,2022,Electricity generation,Aggregate fuel,Gas and Other Fossil,%,0.56,,
+India,IND,Uttar Pradesh,UP,state,2022,Electricity generation,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,2.79,,
+India,IND,Uttar Pradesh,UP,state,2022,Electricity generation,Aggregate fuel,Renewables,%,4.98,,
+India,IND,Uttar Pradesh,UP,state,2022,Electricity generation,Aggregate fuel,Wind and Solar,%,2.19,,
+India,IND,Uttar Pradesh,UP,state,2022,Electricity generation,Aggregate fuel,Clean,GWh,11198.69,375.95,3.47
+India,IND,Uttar Pradesh,UP,state,2022,Electricity generation,Aggregate fuel,Fossil,GWh,148994.53,18734.42,14.38
+India,IND,Uttar Pradesh,UP,state,2022,Electricity generation,Aggregate fuel,Gas and Other Fossil,GWh,903.33,-376.83,-29.44
+India,IND,Uttar Pradesh,UP,state,2022,Electricity generation,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",GWh,4481.25,-398.52,-8.17
+India,IND,Uttar Pradesh,UP,state,2022,Electricity generation,Aggregate fuel,Renewables,GWh,7995.96,427.24,5.64
+India,IND,Uttar Pradesh,UP,state,2022,Electricity generation,Aggregate fuel,Wind and Solar,GWh,3514.71,825.76,30.71
+India,IND,Uttar Pradesh,UP,state,2022,Electricity generation,Fuel,Bioenergy,%,1.97,,
+India,IND,Uttar Pradesh,UP,state,2022,Electricity generation,Fuel,Coal,%,92.45,,
+India,IND,Uttar Pradesh,UP,state,2022,Electricity generation,Fuel,Gas,%,0.56,,
+India,IND,Uttar Pradesh,UP,state,2022,Electricity generation,Fuel,Hydro,%,0.79,,
+India,IND,Uttar Pradesh,UP,state,2022,Electricity generation,Fuel,Nuclear,%,2.0,,
+India,IND,Uttar Pradesh,UP,state,2022,Electricity generation,Fuel,Other Fossil,%,0.0,,
+India,IND,Uttar Pradesh,UP,state,2022,Electricity generation,Fuel,Other Renewables,%,0.03,,
+India,IND,Uttar Pradesh,UP,state,2022,Electricity generation,Fuel,Solar,%,2.19,,
+India,IND,Uttar Pradesh,UP,state,2022,Electricity generation,Fuel,Wind,%,0.0,,
+India,IND,Uttar Pradesh,UP,state,2022,Electricity generation,Fuel,Bioenergy,GWh,3162.0,-184.64,-5.52
+India,IND,Uttar Pradesh,UP,state,2022,Electricity generation,Fuel,Coal,GWh,148091.2,19111.25,14.82
+India,IND,Uttar Pradesh,UP,state,2022,Electricity generation,Fuel,Gas,GWh,903.33,-376.83,-29.44
+India,IND,Uttar Pradesh,UP,state,2022,Electricity generation,Fuel,Hydro,GWh,1269.32,-251.31,-16.53
+India,IND,Uttar Pradesh,UP,state,2022,Electricity generation,Fuel,Nuclear,GWh,3202.73,-51.29,-1.58
+India,IND,Uttar Pradesh,UP,state,2022,Electricity generation,Fuel,Other Fossil,GWh,0.0,0.0,
+India,IND,Uttar Pradesh,UP,state,2022,Electricity generation,Fuel,Other Renewables,GWh,49.93,37.43,299.44
+India,IND,Uttar Pradesh,UP,state,2022,Electricity generation,Fuel,Solar,GWh,3514.71,825.76,30.71
+India,IND,Uttar Pradesh,UP,state,2022,Electricity generation,Fuel,Wind,GWh,0.0,0.0,
+India,IND,Uttar Pradesh,UP,state,2022,Electricity generation,Total,Total Generation,GWh,160193.22,19110.37,13.55
+India,IND,Uttar Pradesh,UP,state,2022,Power sector emissions,Aggregate fuel,Clean,%,966.76,,
+India,IND,Uttar Pradesh,UP,state,2022,Power sector emissions,Aggregate fuel,Fossil,%,121877.42,,
+India,IND,Uttar Pradesh,UP,state,2022,Power sector emissions,Aggregate fuel,Gas and Other Fossil,%,442.63,,
+India,IND,Uttar Pradesh,UP,state,2022,Power sector emissions,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,759.62,,
+India,IND,Uttar Pradesh,UP,state,2022,Power sector emissions,Aggregate fuel,Renewables,%,928.33,,
+India,IND,Uttar Pradesh,UP,state,2022,Power sector emissions,Aggregate fuel,Wind and Solar,%,168.71,,
+India,IND,Uttar Pradesh,UP,state,2022,Power sector emissions,Aggregate fuel,Clean,ktCO2,966.76,-8.07,-0.83
+India,IND,Uttar Pradesh,UP,state,2022,Power sector emissions,Aggregate fuel,Fossil,ktCO2,121877.42,15486.58,14.56
+India,IND,Uttar Pradesh,UP,state,2022,Power sector emissions,Aggregate fuel,Gas and Other Fossil,ktCO2,442.63,-184.65,-29.44
+India,IND,Uttar Pradesh,UP,state,2022,Power sector emissions,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,759.62,-47.09,-5.84
+India,IND,Uttar Pradesh,UP,state,2022,Power sector emissions,Aggregate fuel,Renewables,ktCO2,928.33,-7.45,-0.8
+India,IND,Uttar Pradesh,UP,state,2022,Power sector emissions,Aggregate fuel,Wind and Solar,ktCO2,168.71,39.64,30.71
+India,IND,Uttar Pradesh,UP,state,2022,Power sector emissions,CO2 intensity,CO2 intensity,gCO2/kWh,766.85,5.84,0.77
+India,IND,Uttar Pradesh,UP,state,2022,Power sector emissions,Fuel,Bioenergy,%,727.26,,
+India,IND,Uttar Pradesh,UP,state,2022,Power sector emissions,Fuel,Coal,%,121434.79,,
+India,IND,Uttar Pradesh,UP,state,2022,Power sector emissions,Fuel,Gas,%,442.63,,
+India,IND,Uttar Pradesh,UP,state,2022,Power sector emissions,Fuel,Hydro,%,30.46,,
+India,IND,Uttar Pradesh,UP,state,2022,Power sector emissions,Fuel,Nuclear,%,38.43,,
+India,IND,Uttar Pradesh,UP,state,2022,Power sector emissions,Fuel,Other Fossil,%,0.0,,
+India,IND,Uttar Pradesh,UP,state,2022,Power sector emissions,Fuel,Other Renewables,%,1.9,,
+India,IND,Uttar Pradesh,UP,state,2022,Power sector emissions,Fuel,Solar,%,168.71,,
+India,IND,Uttar Pradesh,UP,state,2022,Power sector emissions,Fuel,Wind,%,0.0,,
+India,IND,Uttar Pradesh,UP,state,2022,Power sector emissions,Fuel,Bioenergy,ktCO2,727.26,-42.47,-5.52
+India,IND,Uttar Pradesh,UP,state,2022,Power sector emissions,Fuel,Coal,ktCO2,121434.79,15671.23,14.82
+India,IND,Uttar Pradesh,UP,state,2022,Power sector emissions,Fuel,Gas,ktCO2,442.63,-184.65,-29.44
+India,IND,Uttar Pradesh,UP,state,2022,Power sector emissions,Fuel,Hydro,ktCO2,30.46,-6.04,-16.55
+India,IND,Uttar Pradesh,UP,state,2022,Power sector emissions,Fuel,Nuclear,ktCO2,38.43,-0.62,-1.59
+India,IND,Uttar Pradesh,UP,state,2022,Power sector emissions,Fuel,Other Fossil,ktCO2,0.0,0.0,
+India,IND,Uttar Pradesh,UP,state,2022,Power sector emissions,Fuel,Other Renewables,ktCO2,1.9,1.42,295.83
+India,IND,Uttar Pradesh,UP,state,2022,Power sector emissions,Fuel,Solar,ktCO2,168.71,39.64,30.71
+India,IND,Uttar Pradesh,UP,state,2022,Power sector emissions,Fuel,Wind,ktCO2,0.0,0.0,
+India,IND,Uttar Pradesh,UP,state,2022,Power sector emissions,Total,Total emissions,ktCO2,122844.18,15478.51,14.42
+India,IND,Uttar Pradesh,UP,state,2023,Capacity,Aggregate fuel,Clean,MW,5953.21,284.46,5.02
+India,IND,Uttar Pradesh,UP,state,2023,Capacity,Aggregate fuel,Fossil,MW,25568.14,-220.0,-0.85
+India,IND,Uttar Pradesh,UP,state,2023,Capacity,Aggregate fuel,Gas and Other Fossil,MW,1493.14,0.0,0.0
+India,IND,Uttar Pradesh,UP,state,2023,Capacity,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",MW,2772.34,28.75,1.05
+India,IND,Uttar Pradesh,UP,state,2023,Capacity,Aggregate fuel,Renewables,MW,5513.21,284.46,5.44
+India,IND,Uttar Pradesh,UP,state,2023,Capacity,Aggregate fuel,Wind and Solar,MW,2740.87,255.71,10.29
+India,IND,Uttar Pradesh,UP,state,2023,Capacity,Fuel,Bioenergy,MW,2221.64,28.75,1.31
+India,IND,Uttar Pradesh,UP,state,2023,Capacity,Fuel,Coal,MW,24075.0,-220.0,-0.91
+India,IND,Uttar Pradesh,UP,state,2023,Capacity,Fuel,Gas,MW,1493.14,0.0,0.0
+India,IND,Uttar Pradesh,UP,state,2023,Capacity,Fuel,Hydro,MW,550.7,0.0,0.0
+India,IND,Uttar Pradesh,UP,state,2023,Capacity,Fuel,Nuclear,MW,440.0,0.0,0.0
+India,IND,Uttar Pradesh,UP,state,2023,Capacity,Fuel,Other Fossil,MW,0.0,0.0,
+India,IND,Uttar Pradesh,UP,state,2023,Capacity,Fuel,Other Renewables,MW,,,
+India,IND,Uttar Pradesh,UP,state,2023,Capacity,Fuel,Solar,MW,2740.87,255.71,10.29
+India,IND,Uttar Pradesh,UP,state,2023,Capacity,Fuel,Wind,MW,0.0,0.0,
+India,IND,Uttar Pradesh,UP,state,2023,Electricity generation,Aggregate fuel,Clean,%,6.89,,
+India,IND,Uttar Pradesh,UP,state,2023,Electricity generation,Aggregate fuel,Fossil,%,93.11,,
+India,IND,Uttar Pradesh,UP,state,2023,Electricity generation,Aggregate fuel,Gas and Other Fossil,%,0.98,,
+India,IND,Uttar Pradesh,UP,state,2023,Electricity generation,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,2.69,,
+India,IND,Uttar Pradesh,UP,state,2023,Electricity generation,Aggregate fuel,Renewables,%,5.08,,
+India,IND,Uttar Pradesh,UP,state,2023,Electricity generation,Aggregate fuel,Wind and Solar,%,2.39,,
+India,IND,Uttar Pradesh,UP,state,2023,Electricity generation,Aggregate fuel,Clean,GWh,11352.93,154.24,1.38
+India,IND,Uttar Pradesh,UP,state,2023,Electricity generation,Aggregate fuel,Fossil,GWh,153537.33,4542.8,3.05
+India,IND,Uttar Pradesh,UP,state,2023,Electricity generation,Aggregate fuel,Gas and Other Fossil,GWh,1620.02,716.69,79.34
+India,IND,Uttar Pradesh,UP,state,2023,Electricity generation,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",GWh,4420.43,-60.82,-1.36
+India,IND,Uttar Pradesh,UP,state,2023,Electricity generation,Aggregate fuel,Renewables,GWh,8363.82,367.86,4.6
+India,IND,Uttar Pradesh,UP,state,2023,Electricity generation,Aggregate fuel,Wind and Solar,GWh,3943.39,428.68,12.2
+India,IND,Uttar Pradesh,UP,state,2023,Electricity generation,Fuel,Bioenergy,%,1.94,,
+India,IND,Uttar Pradesh,UP,state,2023,Electricity generation,Fuel,Coal,%,92.13,,
+India,IND,Uttar Pradesh,UP,state,2023,Electricity generation,Fuel,Gas,%,0.98,,
+India,IND,Uttar Pradesh,UP,state,2023,Electricity generation,Fuel,Hydro,%,0.69,,
+India,IND,Uttar Pradesh,UP,state,2023,Electricity generation,Fuel,Nuclear,%,1.81,,
+India,IND,Uttar Pradesh,UP,state,2023,Electricity generation,Fuel,Other Fossil,%,0.0,,
+India,IND,Uttar Pradesh,UP,state,2023,Electricity generation,Fuel,Other Renewables,%,0.06,,
+India,IND,Uttar Pradesh,UP,state,2023,Electricity generation,Fuel,Solar,%,2.39,,
+India,IND,Uttar Pradesh,UP,state,2023,Electricity generation,Fuel,Wind,%,0.0,,
+India,IND,Uttar Pradesh,UP,state,2023,Electricity generation,Fuel,Bioenergy,GWh,3195.14,33.14,1.05
+India,IND,Uttar Pradesh,UP,state,2023,Electricity generation,Fuel,Coal,GWh,151917.31,3826.11,2.58
+India,IND,Uttar Pradesh,UP,state,2023,Electricity generation,Fuel,Gas,GWh,1620.02,716.69,79.34
+India,IND,Uttar Pradesh,UP,state,2023,Electricity generation,Fuel,Hydro,GWh,1132.19,-137.13,-10.8
+India,IND,Uttar Pradesh,UP,state,2023,Electricity generation,Fuel,Nuclear,GWh,2989.11,-213.62,-6.67
+India,IND,Uttar Pradesh,UP,state,2023,Electricity generation,Fuel,Other Fossil,GWh,0.0,0.0,
+India,IND,Uttar Pradesh,UP,state,2023,Electricity generation,Fuel,Other Renewables,GWh,93.1,43.17,86.46
+India,IND,Uttar Pradesh,UP,state,2023,Electricity generation,Fuel,Solar,GWh,3943.39,428.68,12.2
+India,IND,Uttar Pradesh,UP,state,2023,Electricity generation,Fuel,Wind,GWh,0.0,0.0,
+India,IND,Uttar Pradesh,UP,state,2023,Electricity generation,Total,Total Generation,GWh,164890.26,4697.04,2.93
+India,IND,Uttar Pradesh,UP,state,2023,Power sector emissions,Aggregate fuel,Clean,%,990.74,,
+India,IND,Uttar Pradesh,UP,state,2023,Power sector emissions,Aggregate fuel,Fossil,%,125366.01,,
+India,IND,Uttar Pradesh,UP,state,2023,Power sector emissions,Aggregate fuel,Gas and Other Fossil,%,793.81,,
+India,IND,Uttar Pradesh,UP,state,2023,Power sector emissions,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,765.59,,
+India,IND,Uttar Pradesh,UP,state,2023,Power sector emissions,Aggregate fuel,Renewables,%,954.87,,
+India,IND,Uttar Pradesh,UP,state,2023,Power sector emissions,Aggregate fuel,Wind and Solar,%,189.28,,
+India,IND,Uttar Pradesh,UP,state,2023,Power sector emissions,Aggregate fuel,Clean,ktCO2,990.74,23.98,2.48
+India,IND,Uttar Pradesh,UP,state,2023,Power sector emissions,Aggregate fuel,Fossil,ktCO2,125366.01,3488.59,2.86
+India,IND,Uttar Pradesh,UP,state,2023,Power sector emissions,Aggregate fuel,Gas and Other Fossil,ktCO2,793.81,351.18,79.34
+India,IND,Uttar Pradesh,UP,state,2023,Power sector emissions,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,765.59,5.97,0.79
+India,IND,Uttar Pradesh,UP,state,2023,Power sector emissions,Aggregate fuel,Renewables,ktCO2,954.87,26.54,2.86
+India,IND,Uttar Pradesh,UP,state,2023,Power sector emissions,Aggregate fuel,Wind and Solar,ktCO2,189.28,20.57,12.19
+India,IND,Uttar Pradesh,UP,state,2023,Power sector emissions,CO2 intensity,CO2 intensity,gCO2/kWh,766.31,-0.54,-0.07
+India,IND,Uttar Pradesh,UP,state,2023,Power sector emissions,Fuel,Bioenergy,%,734.88,,
+India,IND,Uttar Pradesh,UP,state,2023,Power sector emissions,Fuel,Coal,%,124572.2,,
+India,IND,Uttar Pradesh,UP,state,2023,Power sector emissions,Fuel,Gas,%,793.81,,
+India,IND,Uttar Pradesh,UP,state,2023,Power sector emissions,Fuel,Hydro,%,27.17,,
+India,IND,Uttar Pradesh,UP,state,2023,Power sector emissions,Fuel,Nuclear,%,35.87,,
+India,IND,Uttar Pradesh,UP,state,2023,Power sector emissions,Fuel,Other Fossil,%,0.0,,
+India,IND,Uttar Pradesh,UP,state,2023,Power sector emissions,Fuel,Other Renewables,%,3.54,,
+India,IND,Uttar Pradesh,UP,state,2023,Power sector emissions,Fuel,Solar,%,189.28,,
+India,IND,Uttar Pradesh,UP,state,2023,Power sector emissions,Fuel,Wind,%,0.0,,
+India,IND,Uttar Pradesh,UP,state,2023,Power sector emissions,Fuel,Bioenergy,ktCO2,734.88,7.62,1.05
+India,IND,Uttar Pradesh,UP,state,2023,Power sector emissions,Fuel,Coal,ktCO2,124572.2,3137.41,2.58
+India,IND,Uttar Pradesh,UP,state,2023,Power sector emissions,Fuel,Gas,ktCO2,793.81,351.18,79.34
+India,IND,Uttar Pradesh,UP,state,2023,Power sector emissions,Fuel,Hydro,ktCO2,27.17,-3.29,-10.8
+India,IND,Uttar Pradesh,UP,state,2023,Power sector emissions,Fuel,Nuclear,ktCO2,35.87,-2.56,-6.66
+India,IND,Uttar Pradesh,UP,state,2023,Power sector emissions,Fuel,Other Fossil,ktCO2,0.0,0.0,
+India,IND,Uttar Pradesh,UP,state,2023,Power sector emissions,Fuel,Other Renewables,ktCO2,3.54,1.64,86.32
+India,IND,Uttar Pradesh,UP,state,2023,Power sector emissions,Fuel,Solar,ktCO2,189.28,20.57,12.19
+India,IND,Uttar Pradesh,UP,state,2023,Power sector emissions,Fuel,Wind,ktCO2,0.0,0.0,
+India,IND,Uttar Pradesh,UP,state,2023,Power sector emissions,Total,Total emissions,ktCO2,126356.75,3512.57,2.86
+India,IND,Uttar Pradesh,UP,state,2024,Capacity,Aggregate fuel,Clean,MW,6609.07,655.86,11.02
+India,IND,Uttar Pradesh,UP,state,2024,Capacity,Aggregate fuel,Fossil,MW,28208.14,2640.0,10.33
+India,IND,Uttar Pradesh,UP,state,2024,Capacity,Aggregate fuel,Gas and Other Fossil,MW,1493.14,0.0,0.0
+India,IND,Uttar Pradesh,UP,state,2024,Capacity,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",MW,2822.08,49.74,1.79
+India,IND,Uttar Pradesh,UP,state,2024,Capacity,Aggregate fuel,Renewables,MW,6169.07,655.86,11.9
+India,IND,Uttar Pradesh,UP,state,2024,Capacity,Aggregate fuel,Wind and Solar,MW,3346.99,606.12,22.11
+India,IND,Uttar Pradesh,UP,state,2024,Capacity,Fuel,Bioenergy,MW,2271.38,49.74,2.24
+India,IND,Uttar Pradesh,UP,state,2024,Capacity,Fuel,Coal,MW,26715.0,2640.0,10.97
+India,IND,Uttar Pradesh,UP,state,2024,Capacity,Fuel,Gas,MW,1493.14,0.0,0.0
+India,IND,Uttar Pradesh,UP,state,2024,Capacity,Fuel,Hydro,MW,550.7,0.0,0.0
+India,IND,Uttar Pradesh,UP,state,2024,Capacity,Fuel,Nuclear,MW,440.0,0.0,0.0
+India,IND,Uttar Pradesh,UP,state,2024,Capacity,Fuel,Other Fossil,MW,0.0,0.0,
+India,IND,Uttar Pradesh,UP,state,2024,Capacity,Fuel,Other Renewables,MW,,,
+India,IND,Uttar Pradesh,UP,state,2024,Capacity,Fuel,Solar,MW,3346.99,606.12,22.11
+India,IND,Uttar Pradesh,UP,state,2024,Capacity,Fuel,Wind,MW,0.0,0.0,
+India,IND,Uttar Pradesh,UP,state,2024,Electricity generation,Aggregate fuel,Clean,%,7.06,,
+India,IND,Uttar Pradesh,UP,state,2024,Electricity generation,Aggregate fuel,Fossil,%,92.93,,
+India,IND,Uttar Pradesh,UP,state,2024,Electricity generation,Aggregate fuel,Gas and Other Fossil,%,0.73,,
+India,IND,Uttar Pradesh,UP,state,2024,Electricity generation,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,2.29,,
+India,IND,Uttar Pradesh,UP,state,2024,Electricity generation,Aggregate fuel,Renewables,%,4.96,,
+India,IND,Uttar Pradesh,UP,state,2024,Electricity generation,Aggregate fuel,Wind and Solar,%,2.67,,
+India,IND,Uttar Pradesh,UP,state,2024,Electricity generation,Aggregate fuel,Clean,GWh,12170.37,817.44,7.2
+India,IND,Uttar Pradesh,UP,state,2024,Electricity generation,Aggregate fuel,Fossil,GWh,160034.45,6497.12,4.23
+India,IND,Uttar Pradesh,UP,state,2024,Electricity generation,Aggregate fuel,Gas and Other Fossil,GWh,1263.61,-356.41,-22.0
+India,IND,Uttar Pradesh,UP,state,2024,Electricity generation,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",GWh,3945.13,-475.3,-10.75
+India,IND,Uttar Pradesh,UP,state,2024,Electricity generation,Aggregate fuel,Renewables,GWh,8549.52,185.7,2.22
+India,IND,Uttar Pradesh,UP,state,2024,Electricity generation,Aggregate fuel,Wind and Solar,GWh,4604.39,661.0,16.76
+India,IND,Uttar Pradesh,UP,state,2024,Electricity generation,Fuel,Bioenergy,%,1.53,,
+India,IND,Uttar Pradesh,UP,state,2024,Electricity generation,Fuel,Coal,%,92.2,,
+India,IND,Uttar Pradesh,UP,state,2024,Electricity generation,Fuel,Gas,%,0.73,,
+India,IND,Uttar Pradesh,UP,state,2024,Electricity generation,Fuel,Hydro,%,0.74,,
+India,IND,Uttar Pradesh,UP,state,2024,Electricity generation,Fuel,Nuclear,%,2.1,,
+India,IND,Uttar Pradesh,UP,state,2024,Electricity generation,Fuel,Other Fossil,%,0.0,,
+India,IND,Uttar Pradesh,UP,state,2024,Electricity generation,Fuel,Other Renewables,%,0.02,,
+India,IND,Uttar Pradesh,UP,state,2024,Electricity generation,Fuel,Solar,%,2.67,,
+India,IND,Uttar Pradesh,UP,state,2024,Electricity generation,Fuel,Wind,%,0.0,,
+India,IND,Uttar Pradesh,UP,state,2024,Electricity generation,Fuel,Bioenergy,GWh,2629.09,-566.05,-17.72
+India,IND,Uttar Pradesh,UP,state,2024,Electricity generation,Fuel,Coal,GWh,158770.84,6853.53,4.51
+India,IND,Uttar Pradesh,UP,state,2024,Electricity generation,Fuel,Gas,GWh,1263.61,-356.41,-22.0
+India,IND,Uttar Pradesh,UP,state,2024,Electricity generation,Fuel,Hydro,GWh,1282.59,150.4,13.28
+India,IND,Uttar Pradesh,UP,state,2024,Electricity generation,Fuel,Nuclear,GWh,3620.85,631.74,21.13
+India,IND,Uttar Pradesh,UP,state,2024,Electricity generation,Fuel,Other Fossil,GWh,0.0,0.0,
+India,IND,Uttar Pradesh,UP,state,2024,Electricity generation,Fuel,Other Renewables,GWh,33.45,-59.65,-64.07
+India,IND,Uttar Pradesh,UP,state,2024,Electricity generation,Fuel,Solar,GWh,4604.39,661.0,16.76
+India,IND,Uttar Pradesh,UP,state,2024,Electricity generation,Fuel,Wind,GWh,0.0,0.0,
+India,IND,Uttar Pradesh,UP,state,2024,Electricity generation,Total,Total Generation,GWh,172204.82,7314.56,4.44
+India,IND,Uttar Pradesh,UP,state,2024,Power sector emissions,Aggregate fuel,Clean,%,901.2,,
+India,IND,Uttar Pradesh,UP,state,2024,Power sector emissions,Aggregate fuel,Fossil,%,130811.26,,
+India,IND,Uttar Pradesh,UP,state,2024,Power sector emissions,Aggregate fuel,Gas and Other Fossil,%,619.17,,
+India,IND,Uttar Pradesh,UP,state,2024,Power sector emissions,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",%,636.74,,
+India,IND,Uttar Pradesh,UP,state,2024,Power sector emissions,Aggregate fuel,Renewables,%,857.75,,
+India,IND,Uttar Pradesh,UP,state,2024,Power sector emissions,Aggregate fuel,Wind and Solar,%,221.01,,
+India,IND,Uttar Pradesh,UP,state,2024,Power sector emissions,Aggregate fuel,Clean,ktCO2,901.2,-89.54,-9.04
+India,IND,Uttar Pradesh,UP,state,2024,Power sector emissions,Aggregate fuel,Fossil,ktCO2,130811.26,5445.25,4.34
+India,IND,Uttar Pradesh,UP,state,2024,Power sector emissions,Aggregate fuel,Gas and Other Fossil,ktCO2,619.17,-174.64,-22.0
+India,IND,Uttar Pradesh,UP,state,2024,Power sector emissions,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",ktCO2,636.74,-128.85,-16.83
+India,IND,Uttar Pradesh,UP,state,2024,Power sector emissions,Aggregate fuel,Renewables,ktCO2,857.75,-97.12,-10.17
+India,IND,Uttar Pradesh,UP,state,2024,Power sector emissions,Aggregate fuel,Wind and Solar,ktCO2,221.01,31.73,16.76
+India,IND,Uttar Pradesh,UP,state,2024,Power sector emissions,CO2 intensity,CO2 intensity,gCO2/kWh,764.86,-1.45,-0.19
+India,IND,Uttar Pradesh,UP,state,2024,Power sector emissions,Fuel,Bioenergy,%,604.69,,
+India,IND,Uttar Pradesh,UP,state,2024,Power sector emissions,Fuel,Coal,%,130192.09,,
+India,IND,Uttar Pradesh,UP,state,2024,Power sector emissions,Fuel,Gas,%,619.17,,
+India,IND,Uttar Pradesh,UP,state,2024,Power sector emissions,Fuel,Hydro,%,30.78,,
+India,IND,Uttar Pradesh,UP,state,2024,Power sector emissions,Fuel,Nuclear,%,43.45,,
+India,IND,Uttar Pradesh,UP,state,2024,Power sector emissions,Fuel,Other Fossil,%,0.0,,
+India,IND,Uttar Pradesh,UP,state,2024,Power sector emissions,Fuel,Other Renewables,%,1.27,,
+India,IND,Uttar Pradesh,UP,state,2024,Power sector emissions,Fuel,Solar,%,221.01,,
+India,IND,Uttar Pradesh,UP,state,2024,Power sector emissions,Fuel,Wind,%,0.0,,
+India,IND,Uttar Pradesh,UP,state,2024,Power sector emissions,Fuel,Bioenergy,ktCO2,604.69,-130.19,-17.72
+India,IND,Uttar Pradesh,UP,state,2024,Power sector emissions,Fuel,Coal,ktCO2,130192.09,5619.89,4.51
+India,IND,Uttar Pradesh,UP,state,2024,Power sector emissions,Fuel,Gas,ktCO2,619.17,-174.64,-22.0
+India,IND,Uttar Pradesh,UP,state,2024,Power sector emissions,Fuel,Hydro,ktCO2,30.78,3.61,13.29
+India,IND,Uttar Pradesh,UP,state,2024,Power sector emissions,Fuel,Nuclear,ktCO2,43.45,7.58,21.13
+India,IND,Uttar Pradesh,UP,state,2024,Power sector emissions,Fuel,Other Fossil,ktCO2,0.0,0.0,
+India,IND,Uttar Pradesh,UP,state,2024,Power sector emissions,Fuel,Other Renewables,ktCO2,1.27,-2.27,-64.12
+India,IND,Uttar Pradesh,UP,state,2024,Power sector emissions,Fuel,Solar,ktCO2,221.01,31.73,16.76
+India,IND,Uttar Pradesh,UP,state,2024,Power sector emissions,Fuel,Wind,ktCO2,0.0,0.0,
+India,IND,Uttar Pradesh,UP,state,2024,Power sector emissions,Total,Total emissions,ktCO2,131712.46,5355.71,4.24
